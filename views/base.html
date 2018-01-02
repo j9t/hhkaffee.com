@@ -10,7 +10,7 @@
     {%+ if doc != g.doc('/content/pages/index.md') %}<a href={{g.doc('/content/pages/index.md').url.path}}>{% endif %}<img src={{g.static('/source/media/logo.png').url.path}} alt="{{podspec.title}}">{% if doc != g.doc('/content/pages/index.md') %}</a>{% endif %}
     <nav>
       <ul>
-        {% for page in g.docs('pages') %}
+        {% for page in g.docs('pages') if page != podspec.home %}
         <li>
           {%- if doc == page -%}
             {{page.titles('nav')|safe}}

@@ -1,5 +1,6 @@
 title@: "HH Kaffee"
 description@: "HH Kaffee ❤ Kaffee in und aus Hamburg"
+home: /content/pages/index.md
 
 localization:
   default_locale: de
