@@ -29,8 +29,8 @@
     {% endblock %}
   </section>
   <div id=promo>
-    <p>{{_('Da geht was? Diese Seite auf')}} <a href="https://twitter.com/intent/tweet?text={{doc.title|replace(' ', '%20')}},%20{{doc.url}}%20(@hhkaffeecom)%20☕">{{_('Twitter')}}</a> {{_('oder')}} <a href="https://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D={{doc.url}}&amp;p%5Btitle%5D={{doc.title|replace(' ', '%20')}}%20☕&amp;p%5Bsummary%5D=1,000%20%E2%99%A5%20to%20{{doc.url}}">{{_('Facebook')}}</a>&nbsp;{{_('teilen.')}}
     <p>{{_('Informiert bleiben? Neuigkeiten gibt es auf <a href=https://twitter.com/hhkaffeecom>Twitter</a>, <a href=https://www.facebook.com/hhkaffeecom>Facebook</a> und via')}}&nbsp;<a href={{g.url('/content/pages/feed.yaml').path}}>{{_('RSS-Feed')}}</a>.
+    <p>{{_('Da geht was? Diese Seite auf')}} <a href="https://twitter.com/intent/tweet?text={{doc.title|replace(' ', '%20')}},%20{{doc.url}}%20(@hhkaffeecom)%20☕">{{_('Twitter')}}</a> {{_('oder')}} <a href="https://www.facebook.com/sharer/sharer.php?s=100&amp;p%5Burl%5D={{doc.url}}&amp;p%5Btitle%5D={{doc.title|replace(' ', '%20')}}%20☕&amp;p%5Bsummary%5D=1,000%20%E2%99%A5%20to%20{{doc.url}}">{{_('Facebook')}}</a>&nbsp;{{_('teilen.')}}
   </div>
   <footer>
     {{podspec.description}}
