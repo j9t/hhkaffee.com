@@ -26,8 +26,8 @@ preprocessors:
   sass_dir: /source/setup/sass/
   out_dir: /source/setup/
 
-# ext:
-# - extensions.html_min.HtmlMinExtension
+ext:
+- extensions.html_min.HtmlMinExtension
 
 deployments:
   default:
