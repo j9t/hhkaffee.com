@@ -11,7 +11,7 @@
         <title>{{item.title}}</title>
         <link>{{item.url}}</link>
         <description>{% if item.html %}<![CDATA[
-          {{item.html|striptags|truncate(220, end=' …')}}
+          {{item.html|striptags|truncate(250, end=' …')}}
         ]]>{% endif %}</description>
         {%+ if item.date %}<pubDate>{{item.date|date(format='d MMM YYYY', locale='en')}}</pubDate>{% endif %}
         <guid>{{item.url}}</guid>
