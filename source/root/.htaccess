@@ -27,6 +27,7 @@ FileETag All
 # Course Alterations: P2
 RedirectMatch 301 /artikel/(.*) https://hhkaffee.com/schnack/$1
 RedirectMatch 301 /produkte/(.*) https://hhkaffee.com/schnack/$1
+Redirect 301 /schnack/ueber-die-lage-des-kaffee-in-hamburg-im-januar-2018/ https://hhkaffee.com/schnack/zur-lage-des-kaffee-in-hamburg-im-januar-2018/
 RedirectMatch 301 /wissen/(.*) https://hhkaffee.com/schnack/$1
 
 # Course Alterations: P3
