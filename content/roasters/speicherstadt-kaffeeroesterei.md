@@ -3,6 +3,7 @@ $title@: Speicherstadt Kaffeerösterei
 $date: 2017-09-25
 
 logo: https://scontent-frx5-1.cdninstagram.com/t51.2885-19/s320x320/18160890_223207284832260_2366867845880479744_a.jpg
+email: info@speicherstadt-kaffee.de
 website: http://www.speicherstadt-kaffee.de/
 facebook: https://www.facebook.com/speicherstadtkaffee
 instagram: https://www.instagram.com/speicherstadt_kaffee/
