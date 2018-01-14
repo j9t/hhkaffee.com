@@ -13,6 +13,7 @@ locations:
   hours@: Montag – Freitag 8:30–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
   phone: 20949035
 
-internet@: "?"
+espresso: 2
+internet@: nein
 
 ---
