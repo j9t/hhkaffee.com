@@ -13,6 +13,6 @@ locations:
 
 coffee: 2
 espresso: 1,80
-internet@: "?"
+internet@: ja
 
 ---
