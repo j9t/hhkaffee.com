@@ -92,6 +92,7 @@ nav li a:active {
 }
 
 p,
+div#views img,
 h2#locations + ul,
 h2#websites + ul,
 ul.meta {
@@ -114,6 +115,7 @@ div.video {
 
 div#promo,
 div#map,
+div#views img,
 object,
 img.product {
 	border-radius: 2px;
@@ -147,6 +149,7 @@ div#stage section:last-child p:last-child {
 }
 
 div#map,
+div#views img,
 div#stage section img,
 object,
 img.logo,
@@ -157,6 +160,15 @@ img.product {
 div#map {
 	height: 300px;
 	width: calc(100% - 4px);
+}
+
+div#views {
+	margin-top: 1.5em;
+}
+
+div#views img {
+	display: block;
+	max-width: calc(100% - 4px);
 }
 
 div#stage section {

@@ -2,7 +2,7 @@
 $title@: CODOS
 $date: 2017-10-23
 
-logo: https://scontent-frt3-1.xx.fbcdn.net/v/t31.0-8/15493804_1567090023306270_235342899208275772_o.jpg?oh=41d8725e49b586532d0edc2e22dcd99d&oe=5A644166
+logo: https://instagram.fprg2-1.fna.fbcdn.net/t51.2885-19/s320x320/15534772_1103168006476300_1562113256623964160_a.jpg
 email: info@codos-hh.de
 facebook: https://www.facebook.com/codos.hh
 instagram: https://www.instagram.com/codoshamburg/
@@ -16,11 +16,14 @@ locations:
   coordinates: "53.553861,9.928945699999986"
   hours: "\""
 
+views:
+- interior: codos-inside.jpg
+
 coffee: 2
 espresso: 1,80
 internet@: ja
 
 ---
-CODOS kann viel besser sagen, was wir hier hätten sagen wollen: »Wir legen Wert auf Qualität sowohl bei den Getränken als auch beim Kuchen. Unser Hausespresso ist eher eine etwas dunklere traditionelle Röstung, die einfach gut mit Milch harmoniert. In unserer zweiten Espressomühle haben wir immer einen monatlich wechselnden Gastespresso, der heller geröstet ist und immer 100% Arabica. Meist sind dies auch keine Blends sondern Single Origins, für den etwas fruchtigeren Gaumen.«
+CODOS kann das viel besser sagen: »Wir legen Wert auf Qualität sowohl bei den Getränken als auch beim Kuchen. Unser Hausespresso ist eher eine etwas dunklere traditionelle Röstung, die einfach gut mit Milch harmoniert. In unserer zweiten Espressomühle haben wir immer einen monatlich wechselnden Gastespresso, der heller geröstet ist und immer 100% Arabica. Meist sind dies auch keine Blends, sondern Single Origins für den etwas fruchtigeren Gaumen.«
 
 Zum Logo übrigens: »Die Bulldogge Snatch im Logo ist leider letztes Jahr in hohem Alter verstorben, aber sein Sohn Bandit ist ein guter Ersatz als Schutzpatron des Ladens und immer gern bei uns gesehen ;-)!«
