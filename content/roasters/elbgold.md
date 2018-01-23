@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/elbgoldkaffee/
 locations:
 - address: Lagerstraße 34c<br>20357 Hamburg
   coordinates: "53.56289229999999,9.966776600000003"
-  hours@: Montag – Freitag 8–19 Uhr<br>Samstag 9–19 Uhr<br>Sonntag 10–19 Uhr
+  hours@: Montag – Freitag 8–19 Uhr<br>Samstag/Sonntag 9–19 Uhr
   phone: 23517520
 - address: Mühlenkamp 6a<br>22303 Hamburg
   coordinates: "53.5802054,10.012962799999968"
