@@ -2,7 +2,7 @@
 $title@: Public Coffee Roasters
 $date: 2017-10-01
 
-logo: https://scontent-ams3-1.xx.fbcdn.net/v/t31.0-8/1799051_490034147774038_1249253221_o.jpg?oh=4c38398f7fc58335040fab4d56cb25a6&oe=5A4DE7CC
+logo: /media/public-logo.jpg
 email: info@publiccoffeeroasters.com
 website: https://www.publiccoffeeroasters.com/
 twitter: https://twitter.com/PublicRoasters
