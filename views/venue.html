@@ -25,18 +25,13 @@
       <li><a href=mailto:{{doc.email}}>{{_('E-Mail')}}</a>
     {% endif %}
   </ul>
-  {% if doc.views %}
+  {% if doc.views%}
     <div id=views>
       {% for view in doc.views %}
-        {% if view.exterior %}
-        <img src={{g.static('/source/media/' + view.exterior).url.path}} alt="{{doc.title}} {{_('von außen')}}.">
-        {% endif %}
-        {% if view.interior %}
-          <img src={{g.static('/source/media/' + view.interior).url.path}} alt="{{doc.title}} {{_('von innen')}}.">
-        {% endif %}
-      {% endfor %}
+      <img src={{g.static('/source/media/' + view.image).url.path}} alt="{{_(view.title)}}">
+      {% endfor%}
     </div>
-  {% endif %}
+  {% endif%}
   {% if doc.locations %}
     <h2 id=locations>{{_('Adressen und Öffnungszeiten')}}</h2>
     <ul>

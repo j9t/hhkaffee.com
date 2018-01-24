@@ -17,7 +17,8 @@ locations:
   hours: "\""
 
 views:
-- interior: codos-interior.jpg
+- title@: CODOS von innen.
+  image: codos-interior.jpg
 
 coffee: 2
 espresso: 1,80
