@@ -7,34 +7,25 @@
     <li><a href={{roaster.url.path}}>{{roaster.title}}</a> {% if roaster.favorite %}<span>★</span>{% endif %}
     {% endfor %}
   </ul>
-  <div id=map></div>
-  <script>
-    function initMap() {
-      var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 11,
-        center: {lat: 53.57131, lng: 9.94578}
-      });
-      setMarkers(map);
-    }
 
-    var venues = [
-      {% for roaster in g.docs('roasters') %}
-      {% for roasterlocation in roaster.locations %}
-        ['{{roaster.title}}', {{roasterlocation.coordinates}}],
-      {% endfor %}
-      {% endfor %}
-    ];
+  {% set map_data = {
+    'zoom': g.yaml('/content/shared/map.yaml?zoom'),
+    'center': g.yaml('/content/shared/map.yaml?center'),
+    'locations': {},
+    'use_links': True,
+  } %}
+  {% for map_doc in g.docs('roasters') %}
+    {% for location in map_doc.locations %}
+      {% do map_data['locations'].update({
+        map_doc.title: {
+          'location': location,
+          'url': map_doc.url.path,
+        },
+      }) %}
+    {% endfor %}
+  {% endfor %}
 
-    function setMarkers(map) {
-      for (var i = 0; i < venues.length; i++) {
-        var venue = venues[i];
-        var marker = new google.maps.Marker({
-          position: {lat: venue[1], lng: venue[2]},
-          map: map,
-          title: venue[0]
-        });
-      }
-    }
-  </script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgBcUrt1NB0yfwUE715cEdCrtDvzICoz8&amp;callback=initMap&amp;language=de" async defer></script>
+  {% with partial = map_data %}
+    {% include '/partials/map/map.html' with context %}
+  {% endwith %}
 {% endblock %}

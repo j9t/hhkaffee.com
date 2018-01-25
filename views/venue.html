@@ -47,35 +47,24 @@
       {% endfor %}
     </ul>
   {% endif %}
-  <div id=map></div>
-  <script>
-    function initMap() {
-      var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 11,
-        center: {lat: 53.57131, lng: 9.94578}
-      });
-      setMarkers(map);
-    }
 
-    var venues = [
-      {# https://www.gps-coordinates.net/ #}
-      {% for location in doc.locations %}
-        ['{{doc.title}}', {{location.coordinates}}],
-      {% endfor %}
-    ];
+  {% set map_data = {
+    'zoom': g.yaml('/content/shared/map.yaml?zoom'),
+    'center': g.yaml('/content/shared/map.yaml?center'),
+    'locations': {},
+  } %}
+  {% for location in doc.locations %}
+    {% do map_data['locations'].update({
+      doc.title: {
+        'location': location,
+        'url': doc.url.path,
+      },
+    }) %}
+  {% endfor %}
 
-    function setMarkers(map) {
-      for (var i = 0; i < venues.length; i++) {
-        var venue = venues[i];
-        var marker = new google.maps.Marker({
-          position: {lat: venue[1], lng: venue[2]},
-          map: map,
-          title: venue[0]
-        });
-      }
-    }
-  </script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgBcUrt1NB0yfwUE715cEdCrtDvzICoz8&amp;callback=initMap&amp;language=de" async defer></script>
+  {% with partial = map_data %}
+    {% include '/partials/map/map.html' with context %}
+  {% endwith %}
   <ul class=meta>
     {% set next_doc = doc.next() %}
     {% set prev_doc = doc.prev() %}
