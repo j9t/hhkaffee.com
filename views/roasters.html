@@ -9,8 +9,11 @@
   </ul>
 
   {% set map_data = {
-    'zoom': g.yaml('/content/shared/map.yaml?zoom'),
-    'center': g.yaml('/content/shared/map.yaml?center'),
+    'zoom': 11,
+    'center': {
+      'lat': 53.57131,
+      'lng': 9.94578,
+    },
     'locations': {},
     'use_links': True,
   } %}
