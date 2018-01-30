@@ -1,6 +1,6 @@
 ---
 $title@: Katelbach
-$date: 2018-01-30
+$date: 2018-02-01
 $hidden: true
 
 email: reservierung@katelbach.de
