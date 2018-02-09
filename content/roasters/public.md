@@ -15,10 +15,10 @@ locations:
   hours@: Montag – Freitag 8:30–18 Uhr<br>Samstag/Sonntag 10:30–17 Uhr
 - address: Goldbekplatz 1<br>22303 Hamburg
   coordinates: "53.58365939999999,10.009117500000002"
-  hours@: Montag – Freitag 7:45–18 Uhr<br>Samstag 9–18 Uhr<br>Sonntag 10–18 Uhr
+  hours@: Montag – Freitag 7:45–19 Uhr<br>Samstag/Sonntag 10–19 Uhr
 - address: Brandstwiete 3<br>20457 Hamburg
   coordinates: "53.5469479,9.9977212"
-  hours@: Montag – Freitag 8–18 Uhr<br>Samstag/Sonntag 10–17 Uhr
+  hours@: Montag – Freitag 7:30–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
 
 coffee: 3,90
 espresso: 1,80
