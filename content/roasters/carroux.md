@@ -10,9 +10,10 @@ instagram: https://www.instagram.com/carrouxcaffee/
 locations:
 - address: Elbchaussee 583<br>22587 Hamburg
   coordinates: "53.55855409999999,9.812202899999988"
-  hours@: Montag – Samstag 8:30–18 Uhr
+  hours@: Montag – Samstag 8:30–18 Uhr<br>Sonntag 11–18 Uhr
   phone: 80050590
 
-internet@: "?"
+espresso: 1,40
+internet@: ja
 
 ---
