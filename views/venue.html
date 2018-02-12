@@ -25,11 +25,14 @@
       <li><a href=mailto:{{doc.email}}>{{_('E-Mail')}}</a>
     {% endif %}
   </ul>
-  {% if doc.views%}
+  {% if doc.views %}
     <div id=views>
       {% for view in doc.views %}
       <img src={{g.static('/source/media/' + view.image).url.path}} alt="{{_(view.title)}}">
       {% endfor%}
+      {% if doc.viewsnote %}
+        <p>{{doc.viewsnote}}
+      {% endif %}
     </div>
   {% endif%}
   {% if doc.locations %}

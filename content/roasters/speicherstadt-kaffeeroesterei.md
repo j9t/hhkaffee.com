@@ -18,6 +18,13 @@ locations:
   hours@: Montag – Freitag 9–18 Uhr<br>Samstag 10–18 Uhr
   phone: 537998580
 
+views:
+- title@: Speicherstadt Kaffeerösterei von außen.
+  image: speicherstadt-kaffeeroesterei-exterior.jpg
+- title@: Speicherstadt Kaffeerösterei von innen.
+  image: speicherstadt-kaffeeroesterei-interior.jpg
+viewsnote@: Copyright Speicherstadt Kaffeerösterei
+
 coffee: 4
 espresso: 2,10
 internet@: ja

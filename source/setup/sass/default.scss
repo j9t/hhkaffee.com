@@ -105,6 +105,7 @@ p + ul + div#map {
 
 div.video,
 div#promo,
+div#views p,
 ul.meta {
 	text-align: center;
 }
@@ -164,6 +165,10 @@ div#map {
 
 div#views {
 	margin-top: 1.5em;
+}
+
+div#views p {
+	margin: -.5em 0 0;
 }
 
 div#views img {
