@@ -27,6 +27,31 @@
       <p>⚐ <a href={{g.url('/content/pages/posts.md').path}}>{{_('Aller Schnack')}}</a>
     </section>
   </div>
+
+  {% set map_data = {
+    'zoom': 11,
+    'center': {
+      'lat': 53.57131,
+      'lng': 9.94578,
+    },
+    'locations': {},
+    'use_links': True,
+  } %}
+  {% set all_items = (g.collection('roasters').docs() | list) + (g.collection('cafes').docs() | list) + (g.collection('posts').docs() | list) %}
+  {% for map_doc in all_items %}
+    {% for location in map_doc.locations %}
+      {% do map_data['locations'].update({
+        map_doc.title: {
+          'location': location,
+          'url': map_doc.url.path,
+        },
+      }) %}
+    {% endfor %}
+  {% endfor %}
+
+  {% with partial = map_data %}
+    {% include '/partials/map/map.html' with context %}
+  {% endwith %}
 {% endblock %}
 
 {% block update -%}

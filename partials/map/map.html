@@ -1,0 +1,36 @@
+{% do partial.update({'id': partial.id or 'map'}) %}
+<div id={{partial.id}}></div>
+<script>
+  function initMap() {
+    var map = new google.maps.Map(document.getElementById('{{partial.id}}'), {
+      zoom: {{partial.zoom}},
+      center: {lat: {{partial.center.lat}}, lng: {{partial.center.lng}}}
+    });
+    setMarkers(map);
+  }
+
+  var venues = [
+    {% for title, location in partial.locations.iteritems() %}
+      ['{{title}}', {{location.location.coordinates}}, '{{location.url}}'],
+    {% endfor %}
+  ];
+
+  function setMarkers(map) {
+    for (var i = 0; i < venues.length; i++) {
+      var venue = venues[i];
+      var marker = new google.maps.Marker({
+        position: {lat: venue[1], lng: venue[2]},
+        map: map,
+        title: venue[0],
+        url: venue[3]
+      });
+
+      {% if partial.use_links %}
+        google.maps.event.addListener(marker, 'click', function() {
+          window.location.href = marker.url;
+        });
+      {% endif %}
+    }
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgBcUrt1NB0yfwUE715cEdCrtDvzICoz8&amp;callback=initMap&amp;language=de" async defer></script>
