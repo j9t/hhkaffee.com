@@ -7,7 +7,6 @@
     <li><a href={{cafe.url.path}}>{{cafe.title}}</a>{% if cafe.favorite %}&nbsp;<span>★</span>{% endif %}
     {% endfor %}
   </ul>
-
   {% set map_data = {
     'zoom': 11,
     'center': {
@@ -27,7 +26,6 @@
       }) %}
     {% endfor %}
   {% endfor %}
-
   {% with partial = map_data %}
     {% include '/partials/map/map.html' with context %}
   {% endwith %}

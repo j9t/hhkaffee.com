@@ -99,7 +99,8 @@ ul.meta {
 	margin: 1em 0;
 }
 
-p + ul + div#map {
+p + ul + div#map,
+div#stage + div#map {
 	margin-top: 2em;
 }
 

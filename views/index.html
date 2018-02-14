@@ -27,7 +27,6 @@
       <p>⚐ <a href={{g.url('/content/pages/posts.md').path}}>{{_('Aller Schnack')}}</a>
     </section>
   </div>
-
   {% set map_data = {
     'zoom': 11,
     'center': {
@@ -48,7 +47,6 @@
       }) %}
     {% endfor %}
   {% endfor %}
-
   {% with partial = map_data %}
     {% include '/partials/map/map.html' with context %}
   {% endwith %}

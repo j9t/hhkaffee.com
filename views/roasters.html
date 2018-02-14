@@ -7,7 +7,6 @@
     <li><a href={{roaster.url.path}}>{{roaster.title}}</a> {% if roaster.favorite %}<span>★</span>{% endif %}
     {% endfor %}
   </ul>
-
   {% set map_data = {
     'zoom': 11,
     'center': {
@@ -27,7 +26,6 @@
       }) %}
     {% endfor %}
   {% endfor %}
-
   {% with partial = map_data %}
     {% include '/partials/map/map.html' with context %}
   {% endwith %}

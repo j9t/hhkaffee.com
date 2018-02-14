@@ -50,7 +50,6 @@
       {% endfor %}
     </ul>
   {% endif %}
-
   {% set map_data = {
     'zoom': 11,
     'center': {
@@ -67,7 +66,6 @@
       },
     }) %}
   {% endfor %}
-
   {% with partial = map_data %}
     {% include '/partials/map/map.html' with context %}
   {% endwith %}
