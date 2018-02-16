@@ -10,8 +10,10 @@
   }
 
   var venues = [
-    {% for title, location in partial.locations.iteritems() %}
-      ['{{title}}', {{location.location.coordinates}}, '{{location.url}}'],
+    {% for title, item in partial.locations.iteritems() %}
+      {% for location in item.locations %}
+        ['{{title}}', {{location.coordinates}}, '{{item.url}}'],
+      {% endfor %}
     {% endfor %}
   ];
 

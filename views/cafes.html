@@ -17,14 +17,12 @@
     'use_links': True,
   } %}
   {% for map_doc in g.docs('cafes') %}
-    {% for location in map_doc.locations %}
-      {% do map_data['locations'].update({
-        map_doc.title: {
-          'location': location,
-          'url': map_doc.url.path,
-        },
-      }) %}
-    {% endfor %}
+    {% do map_data['locations'].update({
+      map_doc.title: {
+        'locations': map_doc.locations,
+        'url': map_doc.url.path,
+      },
+    }) %}
   {% endfor %}
   {% with partial = map_data %}
     {% include '/partials/map/map.html' with context %}
