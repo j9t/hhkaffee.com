@@ -58,14 +58,12 @@
     },
     'locations': {},
   } %}
-  {% for location in doc.locations %}
-    {% do map_data['locations'].update({
-      doc.title: {
-        'location': location,
-        'url': doc.url.path,
-      },
-    }) %}
-  {% endfor %}
+  {% do map_data['locations'].update({
+    doc.title: {
+      'locations': doc.locations,
+      'url': doc.url.path,
+    },
+  }) %}
   {% with partial = map_data %}
     {% include '/partials/map/map.html' with context %}
   {% endwith %}
