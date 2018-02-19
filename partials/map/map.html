@@ -9,6 +9,7 @@
     setMarkers(map);
   }
 
+  {# https://www.gps-coordinates.net/ #}
   var venues = [
     {% for title, item in partial.locations.iteritems() %}
       {% for location in item.locations %}
