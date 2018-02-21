@@ -14,6 +14,6 @@ locations:
   hours@: Montag – Freitag 9–18 Uhr
 
 espresso: 1,70
-internet@: "?"
+internet@: ja
 
 ---
