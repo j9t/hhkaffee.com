@@ -24,6 +24,9 @@ FileETag All
 	RewriteRule ^ https://hhkaffee.com%{REQUEST_URI} [R=301,L]
 </IfModule>
 
+# Course Alterations: P1
+Redirect 301 /cafes/milch/ https://hhkaffee.com/roestereien/milch/
+
 # Course Alterations: P2
 RedirectMatch 301 /artikel/(.*) https://hhkaffee.com/schnack/$1
 RedirectMatch 301 /produkte/(.*) https://hhkaffee.com/schnack/$1
