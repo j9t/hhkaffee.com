@@ -11,7 +11,7 @@ facebook: https://www.facebook.com/hhkaffeecom
 
 locations:
 - address: Schwalbenplatz<br>22307 Hamburg
-  coordinates: "@@"
+  coordinates: "53.5947875,10.04573210000001"
   hours@: Montag – Sonntag 8–18 Uhr
 
 coffee: 2,50
