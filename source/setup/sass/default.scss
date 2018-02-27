@@ -105,7 +105,7 @@ div#stage + div#map {
 }
 
 div.video,
-div#promo,
+div#social,
 div#views p,
 ul.meta {
 	text-align: center;
@@ -115,7 +115,7 @@ div.video {
 	margin: 2em 0 1em;
 }
 
-div#promo,
+div#social,
 div#map,
 div#views img,
 object,
@@ -123,29 +123,29 @@ img.product {
 	border-radius: 2px;
 }
 
-div#promo,
+div#social,
 div#map ~ ul.meta {
 	margin-top: 1.38em;
 }
 
-div#promo {
+div#social {
 	background: #fcfcfc;
 	border: 2px solid #f7f7f7;
 	padding: .3em .2em .2em;
 }
 
-div#promo p {
+div#social p {
 	display: table-cell;
 	padding: 0 1.5%;
 	width: 47%;
 }
 
-div#promo p:first-child,
+div#social p:first-child,
 div#stage section h2 {
 	margin-top: 0;
 }
 
-div#promo p:last-child,
+div#social p:last-child,
 div#stage section:last-child p:last-child {
 	margin-bottom: 0;
 }
@@ -363,7 +363,7 @@ span,
 	}
 
 	nav,
-	div#promo,
+	div#social,
 	ul.meta {
 		display: none;
 	}
