@@ -7,6 +7,9 @@
     {%- if doc.espresso %}{{_('Espresso')}} {{doc.espresso}}&nbsp;€ · {% endif %}
     {{-_('WLAN:')}} {{doc.internet}}
     {%- if doc.favorite %} · HH-Kaffee-Favorit&nbsp;★{% endif %}
+  {% if doc.promo %}
+    <p id=promo>{{doc.promo}}
+  {% endif %}
   <h2 id=websites>{{doc.title}} {{_('online')}}</h2>
   <ul>
     {% if doc.website %}

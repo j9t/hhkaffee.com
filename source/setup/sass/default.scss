@@ -11,8 +11,12 @@ h2#locations + ul li p {
 	margin: 0;
 }
 
-html {
+html,
+img.logo {
 	background: #fff;
+}
+
+html {
 	color: #000;
 	font: .75em/1.75 optima, lato, sans-serif;
 	padding: 1.33em 1em 1em;
@@ -99,6 +103,25 @@ ul.meta {
 	margin: 1em 0;
 }
 
+p#promo {
+	border-left: 2px solid #e30613;
+	padding-left: 1em;
+}
+
+p#promo,
+div#social,
+div#map,
+div#views img,
+object,
+img.product {
+	border-radius: 2px;
+}
+
+p#promo,
+div#social {
+	background: #fcfcfc;
+}
+
 p + ul + div#map,
 div#stage + div#map {
 	margin-top: 2em;
@@ -116,20 +139,11 @@ div.video {
 }
 
 div#social,
-div#map,
-div#views img,
-object,
-img.product {
-	border-radius: 2px;
-}
-
-div#social,
 div#map ~ ul.meta {
 	margin-top: 1.38em;
 }
 
 div#social {
-	background: #fcfcfc;
 	border: 2px solid #f7f7f7;
 	padding: .3em .2em .2em;
 }
