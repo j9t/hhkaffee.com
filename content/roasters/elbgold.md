@@ -14,14 +14,17 @@ locations:
   coordinates: "53.56289229999999,9.966776600000003"
   hours@: Montag – Freitag 8–19 Uhr<br>Samstag/Sonntag 9–19 Uhr
   phone: 23517520
-- address: Mühlenkamp 6a<br>22303 Hamburg
-  coordinates: "53.5802054,10.012962799999968"
-  hours: "\""
-  phone: 27882223
 - address: Eppendorfer Baum 26<br>20249 Hamburg
   coordinates: "53.5839739,9.983915499999966"
   hours: "\""
   phone: 41625771
+- address: Mühlenkamp 6a<br>22303 Hamburg
+  coordinates: "53.5802054,10.012962799999968"
+  hours: "\""
+  phone: 27882223
+- address: Mühlenkamp 59<br>22303 Hamburg
+  coordinates: "53.5830877,10.009715000000028"
+  hours: "\""
 - address: Schauenburgerstraße 50<br>20095 Hamburg
   coordinates: "53.5496884,9.993023600000015"
   hours@: Montag – Freitag 8–19 Uhr<br>Samstag 9–19 Uhr
