@@ -9,7 +9,7 @@
     {%- if doc.favorite %} · HH-Kaffee-Favorit&nbsp;★{% endif %}
   {# @@ Price and promote option #}
   {% if doc.promo %}
-    <p id=promo>{{doc.promo}}
+    <div id=promo>{{doc.promo|markdown|safe}}</div>
   {% endif %}
   <h2 id=websites>{{doc.title}} {{_('online')}}</h2>
   <ul>

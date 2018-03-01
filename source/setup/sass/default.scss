@@ -103,25 +103,6 @@ ul.meta {
 	margin: 1em 0;
 }
 
-p#promo {
-	border-left: 2px solid #e30613;
-	padding-left: 1em;
-}
-
-p#promo,
-div#social,
-div#map,
-div#views img,
-object,
-img.product {
-	border-radius: 2px;
-}
-
-p#promo,
-div#social {
-	background: #fcfcfc;
-}
-
 p + ul + div#map,
 div#stage + div#map {
 	margin-top: 2em;
@@ -136,6 +117,20 @@ ul.meta {
 
 div.video {
 	margin: 2em 0 1em;
+}
+
+div#social,
+div#map,
+div#promo,
+div#views img,
+object,
+img.product {
+	border-radius: 2px;
+}
+
+div#social,
+div#promo {
+	background: #fcfcfc;
 }
 
 div#social,
@@ -189,6 +184,11 @@ div#views p {
 div#views img {
 	display: block;
 	max-width: calc(100% - 4px);
+}
+
+div#promo {
+	border-left: 2px solid #e30613;
+	padding-left: 1em;
 }
 
 div#stage section {
