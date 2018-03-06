@@ -1,12 +1,12 @@
 ---
-$title@: less political
+$title@: HERMETIC
 $date: 2017-10-03
 
-logo: https://scontent-frt3-1.cdninstagram.com/t51.2885-19/s320x320/15875712_462956800759085_2422560222951243776_a.jpg
-website: https://lesspolitical.com/
+logo: https://scontent-amt2-1.cdninstagram.com/vp/7c750439a518b97eec9ca595f06054ca/5B30D596/t51.2885-19/s320x320/12783940_131580667234000_1741997642_a.jpg
+website: https://hermeticcoffee.com/
 twitter: https://twitter.com/lesspolitical
 facebook: https://www.facebook.com/lesspolitical
-instagram: https://www.instagram.com/lesspolitical/
+instagram: https://www.instagram.com/hermeticcoffee/
 
 locations:
 - address: Sternstraße 68<br>20357 Hamburg
@@ -19,4 +19,4 @@ espresso: 1,90
 internet@: ja
 
 ---
-Eigentlich auch schon ein Röster, nämlich: HERMETIC. (Weitere Informationen folgen.)
+HERMETIC war und ist irgendwie auch noch »less political«.

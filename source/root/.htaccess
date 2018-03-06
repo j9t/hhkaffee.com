@@ -25,6 +25,7 @@ FileETag All
 </IfModule>
 
 # Course Alterations: P1
+Redirect 301 /cafes/less-political/ https://hhkaffee.com/roestereien/hermetic/
 Redirect 301 /cafes/milch/ https://hhkaffee.com/roestereien/milch/
 
 # Course Alterations: P2
