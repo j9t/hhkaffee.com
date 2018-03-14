@@ -2,6 +2,7 @@
 $title@: Katelbach
 $date: 2018-02-01
 
+logo: /media/katelbach.png
 email: reservierung@katelbach.de
 website: http://www.katelbach.de/
 
