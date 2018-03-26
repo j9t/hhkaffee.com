@@ -4,7 +4,7 @@ AddCharset utf-8 .js
 AddCharset utf-8 .txt
 AddCharset utf-8 .xml
 AddDefaultCharset utf-8
-AddOutputFilterByType DEFLATE application/xml text/css text/html text/javascript text/plain
+AddOutputFilterByType DEFLATE application/xml image/vnd.microsoft.icon text/css text/html text/javascript text/plain
 CheckSpelling On
 ContentDigest On
 DefaultLanguage en
