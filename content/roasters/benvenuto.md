@@ -2,7 +2,7 @@
 $title@: Benvenuto
 $date: 2017-11-27
 
-logo: https://scontent-frx5-1.cdninstagram.com/t51.2885-19/s320x320/23498844_151939392220863_2320101660686286848_n.jpg
+logo: /media/benvenuto.jpg
 email: kontakt@benvenuto-hamburg.de
 website: https://www.benvenuto-hamburg.de/
 twitter: https://twitter.com/benvenutocaffe

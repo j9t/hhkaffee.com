@@ -2,7 +2,7 @@
 $title@: Nord Coast Coffee Roastery
 $date: 2017-10-01
 
-logo: https://scontent-frt3-1.cdninstagram.com/t51.2885-19/s320x320/15043521_363473473985081_6712132378602504192_a.jpg
+logo: /media/nord-coast.jpg
 email: ahoi@nordcoast-coffee.de
 website: http://www.nordcoast-coffee.de/
 facebook: https://www.facebook.com/Nord-Coast-Coffee-Roastery-1610702029193222/

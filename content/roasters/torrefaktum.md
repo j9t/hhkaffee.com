@@ -2,7 +2,7 @@
 $title@: Torrefaktum
 $date: 2017-11-01
 
-logo: https://scontent-cdg2-1.cdninstagram.com/t51.2885-19/s320x320/17268231_1245778185536766_7650438082574942208_a.jpg
+logo: /media/torrefaktum.jpg
 email: info@torrefaktum.de
 website: http://torrefaktum.de/
 twitter: https://twitter.com/torrefaktum

@@ -2,7 +2,7 @@
 $title@: CODOS
 $date: 2017-10-23
 
-logo: https://instagram.fprg2-1.fna.fbcdn.net/t51.2885-19/s320x320/15534772_1103168006476300_1562113256623964160_a.jpg
+logo: /media/codos.jpg
 email: info@codos-hh.de
 facebook: https://www.facebook.com/codos.hh
 instagram: https://www.instagram.com/codoshamburg/

@@ -2,7 +2,7 @@
 $title@: Balz und Balz
 $date: 2017-11-09
 
-logo: https://scontent-frt3-1.cdninstagram.com/t51.2885-19/s320x320/12728598_1674735452789745_1815402787_a.jpg
+logo: /media/balz-und-balz.jpg
 email: hello@balzundbalz.de
 website: http://balzundbalz.de/
 facebook: https://www.facebook.com/BalzundBalz

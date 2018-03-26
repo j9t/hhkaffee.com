@@ -2,7 +2,7 @@
 $title@: Hanse Beans
 $date: 2017-11-02
 
-logo: https://scontent-frt3-1.cdninstagram.com/t51.2885-19/s320x320/10654984_1669153900034858_133155045_a.jpg
+logo: /media/hanse-beans.jpg
 email: info@hansebeans.de
 website: http://www.hansebeans.de/
 facebook: https://www.facebook.com/hansebeans
