@@ -2,7 +2,7 @@
 $title@: Tōrnqvist
 $date: 2017-10-01
 
-logo: https://scontent-frt3-1.cdninstagram.com/t51.2885-19/s320x320/21688869_126273727958188_7447880557242875904_n.jpg
+logo: /media/tornqvist.jpg
 email: hello@tornqvistcoffee.com
 website: http://tornqvistcoffee.com/
 twitter: https://twitter.com/TORNQVISTCOFFEE

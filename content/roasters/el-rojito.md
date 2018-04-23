@@ -2,7 +2,7 @@
 $title@: el rojito
 $date: 2018-01-23
 
-logo: https://scontent.fprg2-1.fna.fbcdn.net/v/t31.0-8/15272129_102947863529530_755277502703181086_o.jpg?oh=1b55bf1d64ef1033232832c930ef4074&oe=5ADA22AB
+logo: /media/el-rojito.jpg
 email: kaffee@el-rojito.de
 website: https://www.el-rojito.de/
 facebook: https://www.facebook.com/profile.php?id=100014429493292
