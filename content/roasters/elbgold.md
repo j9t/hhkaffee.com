@@ -2,7 +2,7 @@
 $title@: elbgold
 $date: 2017-09-25
 
-logo: https://scontent-frx5-1.cdninstagram.com/t51.2885-19/s320x320/13398562_1056639054449275_1930967290_a.jpg
+logo: /media/elbgold.jpg
 email: info@elbgold.com
 website: http://www.elbgold.com/
 twitter: https://twitter.com/elbgold
