@@ -21,7 +21,7 @@
       <h2>{{_('Meinungen und Empfehlungen')}}</h2>
       <ul>
         {% for posts in g.docs('posts', order_by='date', reverse=True)[0:3] %}
-        <li><a href={{posts.url.path}}>{{posts.title}}</a> · {{posts.html|striptags|truncate(125, end=' …')}}
+        <li><a href={{posts.url.path}}>{{posts.title}}</a> · {{posts.html|striptags|truncate(120, end=' …')}}
         {% endfor %}
       </ul>
       <p>⚐ <a href={{g.url('/content/pages/posts.md').path}}>{{_('Aller Schnack')}}</a>
