@@ -12,6 +12,6 @@ locations:
   coordinates: "53.5493368,9.98414409999998"
   hours@: Montag – Freitag 8–18 Uhr<br>Samstag 9:30–18 Uhr
 
-internet@: n/a
+internet@: nein
 
 ---
