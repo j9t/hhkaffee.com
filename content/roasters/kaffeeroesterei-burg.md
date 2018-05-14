@@ -2,7 +2,7 @@
 $title@: Kaffeerösterei Burg
 $date: 2018-03-14
 
-logo: https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/16797226_1868891176688583_6473158511859480677_o.jpg?oh=98245e26679191dbee7626e8cbea3fe5&oe=5B06F90D
+logo: /media/kaffeeroesterei-burg.jpg
 email: info@kaffeeroesterei-burg.de
 website: http://www.kaffeeroesterei-burg.de/
 facebook: https://www.facebook.com/kaffeeroestereiburg/
