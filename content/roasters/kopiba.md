@@ -2,7 +2,7 @@
 $title@: kopiba
 $date: 2017-11-14
 
-logo: https://pbs.twimg.com/profile_images/378800000114031921/349634a75ade5410ae1da679b6f314cd_400x400.png
+logo: /media/kopiba.png
 email: info@kopiba.de
 website: http://www.kopiba.de/
 twitter: https://twitter.com/kopiba
