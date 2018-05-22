@@ -2,7 +2,6 @@
 
 {% block main %}
   <p class=meta>{{_('Ein Beitrag vom %(date)s ☕', date=doc.date|date(format='d. MMMM YYYY'))}}
-  {% if doc.asin %}<div><a href=https://www.amazon.de/dp/{{doc.asin}}/?tag=hhk-21><img src=https://images-na.ssl-images-amazon.com/images/P/{{doc.asin}}.jpg alt="Produktbild von {{doc.title}}." class=product></a></div>{% endif %}
   {{doc.html|safe}}
   <ul class=meta>
     {% set next_doc = doc.next() %}

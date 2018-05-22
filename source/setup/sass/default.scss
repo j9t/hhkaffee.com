@@ -123,9 +123,7 @@ ul.meta {
 div#social,
 div#map,
 div#promo,
-div#views img,
-object,
-img.product {
+div#views img {
 	border-radius: 2px;
 }
 
@@ -163,9 +161,7 @@ div#stage section:last-child p:last-child {
 div#map,
 div#views img,
 div#stage section img,
-object,
-img.logo,
-img.product {
+img.logo {
 	border: 2px solid;
 }
 
@@ -207,14 +203,9 @@ div#stage section:last-child {
 }
 
 div#stage section img,
-img.logo,
-img.product {
-	float: right;
-}
-
-div#stage section img,
 img.logo {
 	border-radius: 50%;
+	float: right;
 	filter: grayscale(100%);
 }
 
@@ -286,23 +277,10 @@ ul.meta li {
 	padding: 0 .5em;
 }
 
-object {
-	height: 270px;
-	width: 480px;
-}
-
-img.logo,
-img.product {
-	margin: .33em 0 1em 1em;
-}
-
 img.logo {
 	height: 110px;
+	margin: .33em 0 1em 1em;
 	width: 110px;
-}
-
-img.product {
-	width: 100px;
 }
 
 a {
@@ -324,14 +302,6 @@ em {
 span,
 .meta {
 	color: #888;
-}
-
-@media screen and (max-width: 484px) {
-
-	object {
-		width: calc(100% - 4px);
-	}
-
 }
 
 @media screen and (max-width: 390px) {
