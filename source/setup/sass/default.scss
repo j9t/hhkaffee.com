@@ -226,7 +226,9 @@ img.logo:active {
 
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5 {
 	font-weight: 400;
 }
 
@@ -263,9 +265,21 @@ h2#websites + ul li {
 }
 
 h3 {
+	font-size: 1.25em;
+	line-height: 1.4;
+	margin: 1.2em 0 0;
+}
+
+h4,
+h5 {
 	font-size: 1em;
 	line-height: 1.75;
 	margin: 1em 0 -1em;
+}
+
+h4:after,
+h5:after {
+	content: ':';
 }
 
 ul,
