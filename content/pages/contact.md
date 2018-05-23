@@ -67,7 +67,7 @@ Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir d
 
 #### Server-Logs
 
-Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/), Friedersdorf) erhebt und speichert Informationen, die Ihr Browser automatisch an uns übermittelt, in sogenannten Server-Log-Dateien. Diese sind:
+Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/)) erhebt und speichert Informationen, die Ihr Browser automatisch an uns übermittelt, in sogenannten Server-Log-Dateien. Diese sind:
 
 * Browser-Typ und -Version
 * Betriebssystem
