@@ -76,15 +76,13 @@ Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/), Friedersdorf) 
 * Zeit der Serveranfrage
 * IP-Adresse
 
+Wir haben mit ALL-INKL.COM einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen, in dem wir ALL-INKL.COM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben.
+
 Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
 
 Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
 
 In den uns zugänglichen Server-Statistiken werden IPs vollständig anonymisiert und die Log-Dateien nach 30 Tagen gelöscht.
-
-##### Auftragsdatenverarbeitung
-
-Wir haben mit ALL-INKL.COM einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen, in dem wir ALL-INKL.COM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben.
 
 #### E-Mail
 

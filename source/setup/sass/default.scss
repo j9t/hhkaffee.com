@@ -227,8 +227,7 @@ img.logo:active {
 h1,
 h2,
 h3,
-h4,
-h5 {
+h4 {
 	font-weight: 400;
 }
 
@@ -270,15 +269,13 @@ h3 {
 	margin: 1.2em 0 0;
 }
 
-h4,
-h5 {
+h4 {
 	font-size: 1em;
 	line-height: 1.75;
 	margin: 1em 0 -1em;
 }
 
-h4:after,
-h5:after {
+h4:after {
 	content: ':';
 }
 
