@@ -67,14 +67,14 @@ Um die Sicherheit Ihrer Daten bei der Übertragung zu schützen, verwenden wir d
 
 #### Server-Logs
 
-Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/)) erhebt und speichert Informationen, die Ihr Browser automatisch an uns übermittelt, in sogenannten Server-Log-Dateien. Diese sind:
+Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/)) erhebt und speichert Informationen, die Ihr Browser automatisch an uns übermittelt, in sogenannten Server-Log-Dateien. Diese umfassen:
 
-* Browser-Typ und -Version
-* Betriebssystem
-* Referrer-URL
-* Hostname des zugreifenden Rechners
-* Zeit der Serveranfrage
+* Hostname
 * IP-Adresse
+* Betriebssystem
+* Browser-Typ und -Version
+* Referrer-URL
+* Zeit der Serveranfrage
 
 Wir haben mit ALL-INKL.COM einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen, in dem wir ALL-INKL.COM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben.
 
