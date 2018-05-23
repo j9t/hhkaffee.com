@@ -21,7 +21,7 @@ Verantwortlich für journalistisch-redaktionelle Inhalte gemäß §55 II RStV: J
 
 Steuernummer: 43/157/03153.
 
-Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO: Die Europäische Kommission stellt unter eine [Plattform zur Online-Streitbeilegung](https://ec.europa.eu/consumers/odr/) bereit.
+Zur Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODR-VO stellt die Europäische Kommission eine [Plattform](https://ec.europa.eu/consumers/odr/) bereit.
 
 ### Urheberrecht
 
