@@ -48,7 +48,7 @@ Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit 
 
 Sie können sich jederzeit mit einer Beschwerde an die für Sie zuständige Aufsichtsbehörde wenden. Ihre zuständige Aufsichtsbehörde richtet sich nach dem Bundesland Ihres Wohnsitzes, Ihrer Arbeit oder der mutmaßlichen Verletzung. Eine Liste der Aufsichtsbehörden (für den nicht-öffentlichen Bereich) mit Anschrift finden Sie beim [Bundesbeauftragten für den Datenschutz](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
-#### Zwecke der Datenverarbeitung durch die verantwortliche Stelle und Dritte
+#### Zwecke der Datenverarbeitung
 
 Wir verarbeiten etwaige personenbezogenen Daten nur zu den in dieser Datenschutzerklärung genannten Zwecken. Eine Übermittlung Ihrer persönlichen Daten an Dritte zu anderen als den genannten Zwecken findet nicht statt. Wir geben Ihre persönlichen Daten nur an Dritte weiter, wenn:
 
