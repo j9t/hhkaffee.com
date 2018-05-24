@@ -29,7 +29,7 @@ Alle Rechte vorbehalten.
 
 Die Logos aufgeführter [Röstereien]([url('/content/pages/roasters.md')]) und [Cafés]([url('/content/pages/cafes.md')]) sind Eigentum der jeweiligen Röstereien und Cafés.  
 
-### Datenschutz
+### Datenschutzerklärung
 
 Verantwortlich im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO): Jens Oliver Meiert.
 
