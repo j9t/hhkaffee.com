@@ -94,7 +94,7 @@ Die von Ihnen in der E-Mail eingegebenen Daten verbleiben bei uns, bis Sie uns z
 
 #### Verwendung von Google Maps
 
-Diese Website verwendet die Google Maps API, um geographische Informationen visuell darzustellen. Bei der Nutzung von Google Maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Nähere Informationen über die Datenverarbeitung durch Google können Sie [den Google-Datenschutzhinweisen](https://policies.google.com/privacy) entnehmen. Dort können Sie im Datenschutz-Center auch Ihre persönlichen Datenschutz-Einstellungen verändern.
+Diese Website verwendet die Google Maps API, um geographische Informationen visuell darzustellen. Bei der Nutzung von Google Maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Nähere Informationen über die Datenverarbeitung durch Google können Sie [Googles Datenschutzerklärung](https://policies.google.com/privacy) entnehmen. Dort können Sie im Datenschutz-Center auch Ihre persönlichen Datenschutz-Einstellungen verändern.
 
 Ausführliche Anleitungen zur Verwaltung der eigenen Daten im Zusammenhang mit Google-Produkten finden Sie unter [dataliberation.org](http://www.dataliberation.org/).
 
