@@ -27,7 +27,7 @@ Zur Online-Streitbeilegung gemäß Art. 14 Abs. 1 ODRVO stellt die Europäische 
 
 Alle Rechte vorbehalten.
 
-Die Logos aufgeführter [Röstereien]([url('/content/pages/roasters.md')]) und [Cafés]([url('/content/pages/cafes.md')]) sind Eigentum der jeweiligen Röstereien und Cafés.  
+Die Logos und Fotos aufgeführter [Röstereien]([url('/content/pages/roasters.md')]) und [Cafés]([url('/content/pages/cafes.md')]) sind Eigentum der jeweiligen Röstereien und Cafés.
 
 ### Datenschutzerklärung
 
