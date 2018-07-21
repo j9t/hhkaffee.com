@@ -13,8 +13,8 @@ locations:
   hours@: Montag – Samstag 10–19 Uhr
   phone: 32526364
 
-coffee: 2
-espresso: 1,80
+coffee: 2,20
+espresso: 2,20
 internet@: ja
 
 ---
