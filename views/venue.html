@@ -6,6 +6,7 @@
     {%- if doc.coffee %}{{_('Filterkaffee ab')}} {{doc.coffee}}&nbsp;€ · {% endif %}
     {%- if doc.espresso %}{{_('Espresso')}} {{doc.espresso}}&nbsp;€ · {% endif %}
     {{-_('WLAN:')}} {{doc.internet}}
+    {%- if doc.candidate %} · auf Probe ⚠️{% endif %}
     {%- if doc.favorite %} · HH-Kaffee-Favorit&nbsp;★{% endif %}
   {# @@ Price and promote option #}
   {% if doc.promo %}

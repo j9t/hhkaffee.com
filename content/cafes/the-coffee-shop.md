@@ -17,6 +17,7 @@ locations:
   coordinates: "53.54889,9.991919999999936"
   hours: Montag – Freitag 7:30–19 Uhr<br>Samstag 10–19 Uhr
 
+candidate: 1
 internet@: n/a
 
 ---

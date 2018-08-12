@@ -2,7 +2,6 @@
 $title@: HAMER’s
 $date: 2018-08-14
 $slug: hamers
-$hidden: true
 
 logo: /media/hamers.png
 email: info@cafe-hamers.de
@@ -15,6 +14,7 @@ locations:
   hours@: Montag – Samstag 9–18 Uhr<br>Sonntag 13–18 Uhr
   phone: 30740830
 
+candidate: 1
 coffee: 2,20
 espresso: 2
 internet@: ja
