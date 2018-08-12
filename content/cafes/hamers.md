@@ -2,6 +2,7 @@
 $title@: HAMER’s
 $date: 2018-08-14
 $slug: hamers
+$hidden: true
 
 logo: /media/hamers.png
 email: info@cafe-hamers.de
