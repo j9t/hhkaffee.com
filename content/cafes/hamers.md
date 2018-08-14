@@ -1,6 +1,6 @@
 ---
 $title@: HAMER’s
-$date: 2018-08-14
+$date: 2018-08-16
 $slug: hamers
 $hidden: true
 
