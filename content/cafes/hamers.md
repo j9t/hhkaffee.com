@@ -2,7 +2,6 @@
 $title@: HAMER’s
 $date: 2018-08-16
 $slug: hamers
-$hidden: true
 
 logo: /media/hamers.png
 email: info@cafe-hamers.de
@@ -21,4 +20,4 @@ espresso: 2
 internet@: ja
 
 ---
-Hier hatte wohl die »Caligo Coffee Kaffeerösterei« einmal einen Standort. HAMER’s schenkt elbgold-Kaffee aus.
+Hier hatte die »Caligo Coffee Kaffeerösterei« einmal einen Standort. HAMER’s schenkt elbgold-Kaffee aus.
