@@ -56,10 +56,10 @@
     </ul>
   {% endif %}
   {% set map_data = {
-    'zoom': 10,
+    'zoom': (doc.zoom if doc.zoom is defined else '12'),
     'center': {
-      'lat': 53.57131,
-      'lng': 9.94578,
+      'lat': 53.57029,
+      'lng': 9.97448,
     },
     'locations': {},
   } %}

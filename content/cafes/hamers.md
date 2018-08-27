@@ -13,6 +13,7 @@ locations:
   coordinates: "53.6490204,10.164152999999942"
   hours@: Montag – Samstag 9–18 Uhr<br>Sonntag 13–18 Uhr
   phone: 30740830
+zoom: 10
 
 candidate: 1
 coffee: 2,20
