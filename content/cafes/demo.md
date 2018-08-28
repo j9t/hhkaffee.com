@@ -13,8 +13,9 @@ locations:
 - address: Schwalbenplatz<br>22307 Hamburg
   coordinates: "53.5947875,10.04573210000001"
   hours@: Montag – Sonntag 8–18 Uhr
+zoom: 10
 
-coffee: 2,50
+coffee: 3,50
 espresso: 2
 internet@: ja
 
