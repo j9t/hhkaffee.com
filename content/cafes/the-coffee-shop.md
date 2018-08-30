@@ -17,8 +17,17 @@ locations:
   coordinates: "53.54889,9.991919999999936"
   hours: Montag – Freitag 7:30–19 Uhr<br>Samstag 10–19 Uhr
 
+views:
+- title@: the coffee shop von außen.
+  image: the-coffee-shop-exterior.jpg
+- title@: the coffee shop von innen.
+  image: the-coffee-shop-interior.jpg
+viewsnote@: Copyright the coffee shop
+
 candidate: 1
-internet@: n/a
+coffee: 2,20
+espresso: 2,10
+internet@: ja
 
 ---
 [Ursprünglich aus Berlin](https://www.the-coffee-shop.de/filialen/), gibt es the coffee shop seit 2003 auch in Hamburg.
