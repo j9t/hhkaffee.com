@@ -211,9 +211,9 @@ img.logo {
 }
 
 div#stage section img {
-	height: 49px;
+	height: 50px;
 	margin: -.17em 0 1em 1em;
-	width: 49px;
+	width: 50px;
 }
 
 div#stage section img:focus,
@@ -316,7 +316,7 @@ span,
 	color: #888;
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 380px) {
 
 	header {
 		margin-bottom: 1em;
@@ -339,6 +339,11 @@ span,
 		float: none;
 		padding-right: 0 !important;
 		width: 100%;
+	}
+
+	div#stage section img {
+		height: 52px;
+		width: 52px;
 	}
 
 }
