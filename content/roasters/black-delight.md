@@ -14,6 +14,9 @@ locations:
   coordinates: "53.5587329,9.924653199999966"
   hours@: Montag – Freitag 9–18 Uhr<br>Samstag 10–17 Uhr
   phone: 89066549
+- address: Friedensallee 32<br>22765 Hamburg
+  coordinates: "53.55515,9.92683999999997"
+  hours@: "?"
 
 coffee: 3,90
 espresso: 1,70
