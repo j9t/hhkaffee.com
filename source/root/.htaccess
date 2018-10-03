@@ -7,7 +7,7 @@ AddDefaultCharset utf-8
 AddOutputFilterByType DEFLATE application/xml image/vnd.microsoft.icon text/css text/html text/javascript text/plain
 CheckSpelling On
 ContentDigest On
-DefaultLanguage en
+DefaultLanguage de
 ExpiresActive On
 ExpiresByType application/javascript A86400
 ExpiresByType image/gif A604800
