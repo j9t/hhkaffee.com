@@ -4,15 +4,21 @@ AddCharset utf-8 .js
 AddCharset utf-8 .txt
 AddCharset utf-8 .xml
 AddDefaultCharset utf-8
-AddOutputFilterByType DEFLATE application/xml image/vnd.microsoft.icon text/css text/html text/javascript text/plain
+AddOutputFilterByType DEFLATE application/xml image/vnd.microsoft.icon image/svg+xml text/css text/html text/javascript text/plain
 CheckSpelling On
 ContentDigest On
 DefaultLanguage de
 ExpiresActive On
+ExpiresByType application/font-woff A604800
 ExpiresByType application/javascript A86400
+ExpiresByType application/vnd.ms-fontobject A604800
+ExpiresByType font/ttf A604800
+ExpiresByType font/woff2 A604800
 ExpiresByType image/gif A604800
 ExpiresByType image/jpeg A604800
 ExpiresByType image/png A604800
+ExpiresByType image/svg+xml A604800
+ExpiresByType image/x-icon A604800
 ExpiresByType text/css A86400
 FileETag All
 
