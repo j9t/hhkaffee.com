@@ -67,7 +67,7 @@ Um Ihre Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Sta
 
 #### Server-Logs
 
-Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/)) erhebt und speichert Informationen, die Ihr Browser automatisch übermittelt, in sogenannten Server-Log-Dateien. Diese umfassen:
+Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/?partner=158667)) erhebt und speichert Informationen, die Ihr Browser automatisch übermittelt, in sogenannten Server-Log-Dateien. Diese umfassen:
 
 * Hostname
 * IP-Adresse
