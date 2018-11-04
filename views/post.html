@@ -1,7 +1,7 @@
 {% extends "/views/base.html" %}
 
 {% block main %}
-  <p class=meta>{{_('Ein Beitrag vom %(date)s ☕', date=doc.date|date(format='d. MMMM YYYY'))}}
+  <p class=meta>{{_('Ein Beitrag vom')}} {{doc.date|date(format='d. MMMM YYYY')}} ☕
   {{doc.html|safe}}
   <ul class=meta>
     {% set next_doc = doc.next() %}
