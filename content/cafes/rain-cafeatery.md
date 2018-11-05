@@ -1,10 +1,9 @@
 ---
 $title@: RAIN Cafeatery
 $date: 2018-11-05
-$hidden: true
 
 logo: /media/rain-cafeatery.jpg
-email: hallo@raincafeatery.de
+email: hello@raincafeatery.de
 website: http://raincafeatery.de/
 facebook: https://www.facebook.com/raincafeatery/
 instagram: https://www.instagram.com/rain_cafeatery/
