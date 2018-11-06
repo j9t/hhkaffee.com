@@ -3,7 +3,6 @@ $title@: Milch
 $date: 2017-10-01
 
 logo: /media/milch.jpg
-email: info@milchfeinkost.de
 website: http://www.milchfeinkost.de/
 instagram: https://www.instagram.com/milchfeinkost/
 
