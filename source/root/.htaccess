@@ -24,6 +24,8 @@ ExpiresByType image/x-icon A604800
 ExpiresByType text/css A86400
 ExpiresByType text/javascript A86400
 FileETag All
+# Header set Content-Security-Policy "default-src 'self'"
+Header set X-Frame-Options SAMEORIGIN
 
 # Course Calibration
 <IfModule mod_rewrite.c>
