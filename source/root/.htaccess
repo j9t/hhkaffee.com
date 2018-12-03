@@ -25,7 +25,9 @@ ExpiresByType text/css A129600
 ExpiresByType text/javascript A129600
 FileETag All
 # Header set Content-Security-Policy "default-src 'self'"
+Header set Referrer-Policy "origin-when-cross-origin"
 Header set X-Frame-Options SAMEORIGIN
+Header set X-XSS-Protection "1; mode=block"
 
 # Course Calibration
 <IfModule mod_rewrite.c>
