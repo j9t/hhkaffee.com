@@ -14,7 +14,6 @@ locations:
   hours@: Montag – Sonntag 9–18 Uhr
   phone: 30391130
 
-candidate: 1
 espresso: 1,80
 internet@: ja
 
