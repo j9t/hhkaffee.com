@@ -32,7 +32,7 @@ ext:
 deployments:
   default:
     destination: local
-    out_dir: ../../bitbucket.org/internal/hhkaffee.com/
+    out_dir: ../../bitbucket.org/internal/hhkaffee.com#/
     env:
       scheme: https
       host: hhkaffee.com
