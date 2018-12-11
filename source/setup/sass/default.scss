@@ -129,7 +129,8 @@ div#views img {
 }
 
 div#social,
-div#promo {
+div#promo,
+th {
 	background: #fcfcfc;
 }
 
@@ -295,6 +296,29 @@ img.logo {
 	width: 110px;
 }
 
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+
+th,
+td {
+	border-bottom: 1px solid #f1f1f1;
+	padding: 2px 5px 1px 1px;
+}
+
+th,
+strong,
+em {
+	font-style: normal;
+	font-weight: 400;
+}
+
+th {
+	text-align: left;
+}
+
 a {
 	color: #e30613;
 }
@@ -303,12 +327,6 @@ a:focus,
 a:hover,
 a:active {
 	text-decoration: underline;
-}
-
-strong,
-em {
-	font-style: normal;
-	font-weight: 400;
 }
 
 span,
