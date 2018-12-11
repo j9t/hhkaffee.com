@@ -3,10 +3,9 @@ $title@: HERMETIC
 $date: 2017-10-03
 
 logo: /media/hermetic.jpg
-website: https://hermeticcoffee.com/
-twitter: https://twitter.com/lesspolitical
-facebook: https://www.facebook.com/lesspolitical
-instagram: https://www.instagram.com/hermeticcoffee/
+website: https://www.hermeticcoffee.com/
+facebook: https://www.facebook.com/hermeticcoffeeroasters/
+instagram: https://www.instagram.com/hermeticcoffeeroasters/
 
 locations:
 - address: Sternstraße 68<br>20357 Hamburg
