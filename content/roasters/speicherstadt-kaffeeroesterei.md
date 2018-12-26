@@ -25,8 +25,8 @@ views:
   image: speicherstadt-kaffeeroesterei-interior.jpg
 viewsnote@: Copyright Speicherstadt Kaffeerösterei
 
-coffee: 4
-espresso: 2,10
+coffee: 3,50
+espresso: 2,20
 internet@: ja
 
 ---
