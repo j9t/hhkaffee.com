@@ -2,7 +2,7 @@
 $title@: Black Delight
 $date: 2018-01-11
 
-logo: /media/black-delight.jpg
+logo: /media/black-delight.png
 email: info@blackdelight.de
 website: http://blackdelight.de/
 twitter: https://twitter.com/blackdelight_de

@@ -2,7 +2,7 @@
 $title@: Playground Coffee
 $date: 2017-10-31
 
-logo: /media/playground-coffee.jpg
+logo: /media/playground-coffee.png
 email: info@playground-coffee.com
 website: https://www.playground-coffee.com/
 twitter: https://twitter.com/playgroundhh
