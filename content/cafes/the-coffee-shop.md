@@ -24,7 +24,6 @@ views:
   image: the-coffee-shop-interior.jpg
 viewsnote@: Copyright the coffee shop
 
-candidate: 1
 coffee: 2,20
 espresso: 2,10
 internet@: ja
