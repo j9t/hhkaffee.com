@@ -317,6 +317,11 @@ em {
 
 th {
 	text-align: left;
+	width: calc(15% - 6px);
+}
+
+th:first-child {
+	width: calc(25% - 6px);
 }
 
 a {
