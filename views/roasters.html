@@ -2,7 +2,7 @@
 
 {% block main %}
   {{doc.html|safe}}
-  <ul>
+  <ul id=venues>
     {% for roaster in g.docs('roasters')|sort(attribute='title') %}
     <li><a href={{roaster.url.path}}>{{roaster.title}}</a> {% if roaster.favorite %}<span>★</span>{% endif %}
     {% endfor %}

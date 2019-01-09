@@ -48,7 +48,8 @@ header {
 header img,
 div#stage section,
 h2#locations + ul li p,
-h2#websites + ul li {
+h2#websites + ul li,
+ul#venues li {
 	float: left;
 }
 
@@ -68,7 +69,8 @@ footer {
 nav ul,
 h2#locations + ul,
 h2#websites + ul,
-ul.meta {
+ul.meta,
+ul#venues {
 	list-style: none;
 }
 
@@ -190,9 +192,13 @@ div#promo {
 	padding-left: 1em;
 }
 
+div#stage section,
+ul#venues li {
+	width: calc(50% - 1em);
+}
+
 div#stage section {
 	margin: .5em 0 0;
-	width: calc(50% - 1em);
 }
 
 div#stage section:nth-child(2n-1) {
@@ -261,7 +267,8 @@ h2#locations + ul li p {
 	width: 50%;
 }
 
-h2#websites + ul li {
+h2#websites + ul li,
+ul#venues li {
 	padding-right: 1em;
 }
 
@@ -288,6 +295,11 @@ ol {
 
 ul.meta li {
 	padding: 0 .5em;
+}
+
+ul#venues {
+	margin-left: 0;
+	overflow: hidden;
 }
 
 img.logo {
