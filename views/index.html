@@ -1,7 +1,9 @@
 {% extends "/views/base.html" %}
 
 {% block main %}
-  {{doc.html|safe}}
+  {% if doc.html %}
+    {{doc.html|safe}}
+  {% endif %}
   <div id=stage>
     <section>
       <h2>{{_('Hamburger Röstereien')}}</h2>

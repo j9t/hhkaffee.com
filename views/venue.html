@@ -1,7 +1,9 @@
 {% extends "/views/base.html" %}
 
 {% block main %}
-  {{doc.html|safe}}
+  {% if doc.html %}
+    {{doc.html|safe}}
+  {% endif %}
   <p>
     {%- if doc.coffee %}{{_('Filterkaffee ab')}} {{doc.coffee}}&nbsp;€ · {% endif %}
     {%- if doc.espresso %}{{_('Espresso')}} {{doc.espresso}}&nbsp;€ · {% endif %}

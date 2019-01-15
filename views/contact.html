@@ -20,5 +20,7 @@
       <li><a href=mailto:{{doc.email}}>{{_('E-Mail')}}</a>
     {% endif %}
   </ul>
-  {{doc.html|safe}}
+  {% if doc.html %}
+    {{doc.html|safe}}
+  {% endif %}
 {% endblock %}

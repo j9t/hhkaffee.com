@@ -1,7 +1,9 @@
 {% extends "/views/base.html" %}
 
 {% block main %}
-  {{doc.html|safe}}
+  {% if doc.html %}
+    {{doc.html|safe}}
+  {% endif %}
   <ul id=venues>
     {% for cafe in g.docs('cafes')|sort(attribute='title') %}
     <li><a href={{cafe.url.path}}>{{cafe.title}}</a>{% if cafe.favorite %}&nbsp;<span>★</span>{% endif %}
