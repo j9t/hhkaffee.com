@@ -18,4 +18,4 @@ Dann aber wurden so einige Schwierigkeiten festgestellt: Zum einen war die Markt
 
 Mehr gibt es für den Moment gar nicht zu erzählen, da die eigentliche Arbeit noch läuft, aber weiteres zur Geschichte wird sicher folgen.
 
-Oh. Doch. Eine Sache: Für die ganz geekigen Besucher hier, der Code von HH Kaffee ist einsehbar auf GitHub: [hhkaffee.com.](https://github.com/j9t/hhkaffee.com)  
+Oh. Doch. Eine Sache: Für die ganz geekigen Besucher hier, der Code von HH Kaffee ist einsehbar auf GitHub: [github.com/j9t/hhkaffee.com.](https://github.com/j9t/hhkaffee.com)  
