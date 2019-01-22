@@ -18,4 +18,4 @@ espresso: 1,50
 internet@: nein
 
 ---
-Classic Caffee bietet kein Café im klassischen Sinne sondern eine Möglichkeit, ihren Kaffee direkt vor Ort zu probieren – bevor man ihn [online bestellt](https://www.classic-caffee.de/?cat=c2_Kaffee-Kaffee.html).
+Classic Caffee bietet zwar kein Café im klassischen Sinne, aber trotzdem eine Möglichkeit, ihren Kaffee direkt vor Ort zu probieren.

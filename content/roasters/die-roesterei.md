@@ -18,3 +18,4 @@ espresso: 2,20
 internet@: ja
 
 ---
+Die Rösterei ist ein seit 1998 bestehender Hamburger Familienbetrieb, der auf reinsortige »Single Origins« sowie Farmkaffees spezialisiert ist. Laut Rösterei »werden die Rohbohnen in einem Probat-Trommelröster aus den 50er Jahren veredelt«.
