@@ -20,4 +20,4 @@ espresso: 2
 internet@: ja
 
 ---
-Buchstablich auf der Jagd nach dem besten Kaffee: »To Hunt the best coffee beans on the planet and roast each bean with a unique profile that highlights the best representation of its variety, farm, and taste!«
+Hunt Coffee (gegründet 2017) ist buchstäblich auf der Jagd nach dem besten Kaffee: »To Hunt the best coffee beans on the planet and roast each bean with a unique profile that highlights the best representation of its variety, farm, and taste!«

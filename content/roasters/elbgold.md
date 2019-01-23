@@ -38,4 +38,4 @@ internet@: nein
 favorite: 1
 
 ---
-elbgold ist eine von Hamburgs bekanntesten Röstereien und Cafés. elbgold wurde 2004 von Annika Taschinski und Thomas Kliefoth in Winterhude gegründet. Die Rösterei selbst befindet sich mittlerweile in den Schanzenhöfen. Dort fühlen wir uns immer sehr, sehr wohl.
+elbgold wurde 2004 von Annika Taschinski und Thomas Kliefoth in Winterhude gegründet und ist eine von Hamburgs bekanntesten Röstereien und Cafés. Die Rösterei selbst befindet sich nach Anfängen in Winterhude in den Schanzenhöfen.

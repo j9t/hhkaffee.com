@@ -19,4 +19,4 @@ espresso: 1,20
 internet@: ja
 
 ---
-Eine von Hamburgs ältesten Röstereien (1928).
+Becking Kaffee wurde 1928 gegründet und ist damit eine von Hamburgs ältesten Röstereien. [Laut hamburg.de](https://www.hamburg.de/branchenbuch/hamburg/eintrag/1012179/) »röstet [Becking] seit 1928 ihre Kaffees traditionell im Langzeit-Trommelröstverfahren« und »achtet auf faire Handelsbeziehungen und setzt daher auf kleine Produzenten und Kaffees mit sinnvollen Förderprojekten, die der Anbauregion nutzen«.
