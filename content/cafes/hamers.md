@@ -15,7 +15,6 @@ locations:
   phone: 30740830
 zoom: 10
 
-candidate: 1
 coffee: 2,20
 espresso: 2
 internet@: ja
