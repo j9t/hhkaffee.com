@@ -20,3 +20,4 @@ internet@: ja
 favorite: 1
 
 ---
+»Total versessen auf spitzenmäßigen Kaffee« (und gute Küche) – das ist Balz und Balz (gegründet 2016).
