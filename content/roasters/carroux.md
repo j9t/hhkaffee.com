@@ -18,4 +18,4 @@ espresso: 1,40
 internet@: ja
 
 ---
-Wir geben wieder, was Carroux (gegründet 1998) selbst sagt: »Carroux Caffee entstand aus dem einfachen Wunsch, den bestmöglichen Espresso zu genießen. Und dieses Erlebnis dann mit allen Kaffeeliebhabern zu teilen. Daran hat sich bis heute auch nichts geändert. Jeden Tag wird Carroux Caffee aus sorgfältig ausgewählten Bohnen gemischt, frisch geröstet und im Carroux Stammhaus in Hamburg Blankenese serviert.«
+Wir geben wieder, was Carroux (eröffnet 1998) selbst sagt: »Carroux Caffee entstand aus dem einfachen Wunsch, den bestmöglichen Espresso zu genießen. Und dieses Erlebnis dann mit allen Kaffeeliebhabern zu teilen. Daran hat sich bis heute auch nichts geändert. Jeden Tag wird Carroux Caffee aus sorgfältig ausgewählten Bohnen gemischt, frisch geröstet und im Carroux Stammhaus in Hamburg Blankenese serviert.«

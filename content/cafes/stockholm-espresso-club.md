@@ -19,3 +19,4 @@ internet@: ja
 favorite: 1
 
 ---
+Eine Institution der Hamburger Kaffeeszene.

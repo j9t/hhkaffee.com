@@ -26,4 +26,4 @@ coffee: 2,50
 internet@: ja
 
 ---
-Das Torrefaktum (gegründet 2009) hat durch seine Besitzer nicht nur einen Anspruch, was Kaffee anbelangt, sondern auch den, diesen in einem ansprechenden Ambiente anzubieten. 
+Das Torrefaktum (eröffnet 2009) hat durch seine Besitzer nicht nur einen Anspruch, was Kaffee anbelangt, sondern auch den, diesen in einem ansprechenden Ambiente anzubieten. 
