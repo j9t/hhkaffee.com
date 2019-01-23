@@ -22,3 +22,4 @@ espresso: 1,90
 internet@: ja
 
 ---
+Die MAYA Kaffeerösterei wurde 1999 über [Coffee Unlimited](https://www.coffee-unlimited.de/) gegründet. Zur Röstung sagt MAYA unter anderem folgendes: »Auf unserer Joper Trommelröstanlage erhalten unsere verschiedenen MAYA Kaffees und-Espressi in der Trommel ihr köstliches Aroma. Der Röstvorgang wird penibel von unserem Röstmeister überwacht und dauert je nach Kaffeesorte zwischen 15 und 20 Minuten bei einer mittleren Rösttemperatur von ca. 200 Grad Celsius.« 

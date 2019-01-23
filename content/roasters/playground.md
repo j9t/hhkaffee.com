@@ -23,3 +23,4 @@ internet@: ja
 favorite: 1
 
 ---
+»Kaffee ist Wasser mit Auslandserfahrung« sagt die Website von Playground (gegründet 2014). »Unsere einzige Konstante – die Liebe zum Kaffee und die Qualität des Produkts. Dazu beziehen wir die Bohnen für unsere Röstkreationen von Farmen aus aller Welt. Nachhaltig, fair, abwechslungsreich und lecker.«
