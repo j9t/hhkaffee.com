@@ -16,3 +16,4 @@ espresso: 1,80
 internet@: ja
 
 ---
+»Ein Stück Frankreich in Eimsbüttel« – und im Café Délice (eröffnet 2016) gibt es auch guten Kaffee.

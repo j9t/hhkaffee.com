@@ -18,4 +18,4 @@ espresso: 1,70
 internet@: ja
 
 ---
-blackline (gegründet 2017) wirbt vor allem mit einem: »We do coffee, not science.«
+blackline (eröffnet 2017) wirbt vor allem mit einem: »We do coffee, not science.«
