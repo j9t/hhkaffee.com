@@ -20,4 +20,4 @@ espresso: 2
 internet@: ja
 
 ---
-Hier hatte die »Caligo Coffee Kaffeerösterei« einmal einen Standort. HAMER’s schenkt elbgold-Kaffee aus.
+Das HAMER’s wurde 2016 am Standort der »Caligo Coffee Kaffeerösterei« neu eröffnet. Das HAMER’s schenkt elbgold-Kaffee aus.

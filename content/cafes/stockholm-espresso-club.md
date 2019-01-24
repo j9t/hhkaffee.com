@@ -19,4 +19,4 @@ internet@: ja
 favorite: 1
 
 ---
-Eine Institution der Hamburger Kaffeeszene.
+Der Stockholm Espresso Club (eröffnet 2013) ist eine Institution der Hamburger Kaffeeszene. »Im Stockholm Espresso Club gilt unsere Leidenschaft exzellentem Kaffee. Wir sehen uns als die Sommeliers der Kaffeewelt. Höchste Präzision in der Zubereitung und exquisite Produkt-Qualität garantieren ein Geschmackserlebnis der Extraklasse.«

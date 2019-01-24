@@ -29,4 +29,4 @@ espresso: 2,10
 internet@: ja
 
 ---
-[Ursprünglich aus Berlin](https://www.the-coffee-shop.de/filialen/), gibt es the coffee shop seit 2003 auch in Hamburg.
+[Ursprünglich aus Berlin](https://www.the-coffee-shop.de/filialen/), gibt es the coffee shop seit 2003 auch in Hamburg. »Spezialitäten-Kaffee in vielen Variationen mit handwerklichem Know-How und exzellentem Service in besonderem Ambiente.«

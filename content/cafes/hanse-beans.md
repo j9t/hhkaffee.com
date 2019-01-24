@@ -17,3 +17,4 @@ espresso: 1,70
 internet@: ja
 
 ---
+Das Hanse Beans (eröffnet 2016) befindet sich direkt bei der Universität Hamburg und serviert »den besten Kaffee auf dem Campus«.

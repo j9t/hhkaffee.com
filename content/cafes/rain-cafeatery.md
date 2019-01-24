@@ -18,4 +18,4 @@ espresso: 1,80
 internet@: ja
 
 ---
-Gibt es auch noch in der Kampstraße, haben wir aber noch nicht lokalisieren können. (Hinweise sind [immer willkommen]([url('/content/pages/contact.md')])!)
+Das RAIN Cafeatery (eröffnet 2015) bietet neben schönem Kaffee auch gute Küche. Es gibt auch einen Standort in der Kampstraße, dort haben wir sie aber noch nicht lokalisieren können. (Hinweise sind [immer willkommen]([url('/content/pages/contact.md')])!)

@@ -23,4 +23,4 @@ internet@: ja
 favorite: 1
 
 ---
-Ja! Tōrnqvist hat nicht nur eine feste Filiale, nachdem sie Hamburg bis 2018 drei Jahre lang mit einem VW-Bulli versorgt haben, sondern gleich zwei. Präzisionskaffee mit Fokus auf skandinavischen Specialty Coffee.
+Das Tōrnqvist hat Hamburg bis 2018 drei Jahre lang aus einem VW-Bulli mit Kaffee versorgt und dann am Neuen Pferdemarkt sein Stammhaus eröffnet.  Hier gibt es mit den besten Kaffee der Stadt: Präzisionskaffee mit Fokus auf skandinavischen Specialty Coffee.
