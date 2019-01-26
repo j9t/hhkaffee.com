@@ -126,7 +126,8 @@ ul.meta {
 div#social,
 div#map,
 div#promo,
-div#views img {
+div#views img,
+img.product {
 	border-radius: 2px;
 }
 
@@ -165,7 +166,8 @@ div#stage section:last-child p:last-child {
 div#map,
 div#views img,
 div#stage section img,
-img.logo {
+img.logo,
+img.product {
 	border: 2px solid;
 }
 
@@ -211,10 +213,15 @@ div#stage section:last-child {
 }
 
 div#stage section img,
+img.logo,
+img.product {
+	filter: grayscale(100%);
+	float: right;
+}
+
+div#stage section img,
 img.logo {
 	border-radius: 50%;
-	float: right;
-	filter: grayscale(100%);
 }
 
 div#stage section img {
@@ -228,7 +235,10 @@ div#stage section img:hover,
 div#stage section img:active,
 img.logo:focus,
 img.logo:hover,
-img.logo:active {
+img.logo:active,
+img.product:focus,
+img.product:hover,
+img.product:active {
 	filter: grayscale(0);
 }
 
@@ -302,10 +312,18 @@ ul#venues {
 	overflow: hidden;
 }
 
+img.logo,
+img.product {
+	margin: .33em 0 1em 1em;
+}
+
 img.logo {
 	height: 110px;
-	margin: .33em 0 1em 1em;
 	width: 110px;
+}
+
+img.product {
+	width: 100px;
 }
 
 table {

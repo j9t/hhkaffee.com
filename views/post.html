@@ -2,6 +2,7 @@
 
 {% block main %}
   <p class=meta>{{_('Ein Beitrag vom {date} ☕', date=doc.date|date(format='d. MMMM YYYY'))}}
+  {% if doc.asin %}<div><a href=https://www.amazon.de/dp/{{doc.asin}}/?tag=hhk-21><img src={{doc.asin_image}} alt="Produktbild von {{doc.title}}." class=product></a></div>{% endif %}
   {% if doc.html %}
     {{doc.html|safe}}
   {% endif %}
