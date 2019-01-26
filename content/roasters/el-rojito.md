@@ -2,7 +2,7 @@
 $title@: el rojito
 $date: 2018-01-23
 
-logo: /media/el-rojito.jpg
+logo: /media/venues/el-rojito.jpg
 email: kaffee@el-rojito.de
 website: https://www.el-rojito.de/
 facebook: https://www.facebook.com/profile.php?id=100014429493292

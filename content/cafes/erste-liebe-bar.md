@@ -2,7 +2,7 @@
 $title@: erste liebe bar
 $date: 2018-04-27
 
-logo: /media/erste-liebe-bar.jpg
+logo: /media/venues/erste-liebe-bar.jpg
 email: info@ersteliebebar.de
 website: http://www.ersteliebebar.de/
 facebook: https://www.facebook.com/ersteliebebar

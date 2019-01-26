@@ -2,7 +2,7 @@
 $title@: CODOS
 $date: 2017-10-23
 
-logo: /media/codos.jpg
+logo: /media/venues/codos.jpg
 email: info@codos-hh.de
 facebook: https://www.facebook.com/codos.hh
 instagram: https://www.instagram.com/codoshamburg/

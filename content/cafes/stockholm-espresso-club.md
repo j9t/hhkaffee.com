@@ -2,7 +2,7 @@
 $title@: Stockholm Espresso Club
 $date: 2017-10-01
 
-logo: /media/stockholm-espresso-club.jpg
+logo: /media/venues/stockholm-espresso-club.jpg
 email: info@stockholmespressoclub.de
 website: http://stockholmespressoclub.de/
 facebook: https://www.facebook.com/stockholmespressoclub

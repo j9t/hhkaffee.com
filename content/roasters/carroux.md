@@ -2,7 +2,7 @@
 $title@: Carroux
 $date: 2017-10-01
 
-logo: /media/carroux.png
+logo: /media/venues/carroux.png
 email: info@carroux.de
 website: https://www.carroux.de/
 instagram: https://www.instagram.com/carrouxcaffee/

@@ -2,7 +2,7 @@
 $title@: Die Rösterei
 $date: 2017-09-25
 
-logo: /media/die-roesterei.jpg
+logo: /media/venues/die-roesterei.jpg
 email: info@dieroesterei.de
 website: http://www.die-roesterei.com/
 instagram: https://www.instagram.com/dieroesterei/

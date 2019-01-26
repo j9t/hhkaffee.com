@@ -2,7 +2,7 @@
 $title@: RAIN Cafeatery
 $date: 2018-11-05
 
-logo: /media/rain-cafeatery.jpg
+logo: /media/venues/rain-cafeatery.jpg
 email: hello@raincafeatery.de
 website: http://raincafeatery.de/
 facebook: https://www.facebook.com/raincafeatery/

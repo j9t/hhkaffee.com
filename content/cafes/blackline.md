@@ -2,7 +2,7 @@
 $title@: blackline
 $date: 2017-12-30
 
-logo: /media/blackline.jpg
+logo: /media/venues/blackline.jpg
 email: info@blacklinecoffee.de
 website: https://www.blacklinecoffee.de/
 facebook: https://www.facebook.com/blacklinecoffeebar

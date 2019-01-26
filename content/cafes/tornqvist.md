@@ -2,7 +2,7 @@
 $title@: Tōrnqvist
 $date: 2017-10-01
 
-logo: /media/tornqvist.jpg
+logo: /media/venues/tornqvist.jpg
 email: hello@tornqvistcoffee.com
 website: http://tornqvistcoffee.com/
 twitter: https://twitter.com/TORNQVISTCOFFEE

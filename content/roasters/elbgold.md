@@ -2,7 +2,7 @@
 $title@: elbgold
 $date: 2017-09-25
 
-logo: /media/elbgold.jpg
+logo: /media/venues/elbgold.jpg
 email: info@elbgold.com
 website: http://www.elbgold.com/
 twitter: https://twitter.com/elbgold

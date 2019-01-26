@@ -2,7 +2,7 @@
 $title@: Balz und Balz
 $date: 2017-11-09
 
-logo: /media/balz-und-balz.jpg
+logo: /media/venues/balz-und-balz.jpg
 email: hello@balzundbalz.de
 website: http://balzundbalz.de/
 facebook: https://www.facebook.com/BalzundBalz

@@ -2,7 +2,7 @@
 $title@: Hunt Coffee Roasters
 $date: 2019-01-14
 
-logo: /media/hunt.jpg
+logo: /media/venues/hunt.jpg
 email: info@huntbrotherscoffee.de
 website: https://huntcoffee.com/
 twitter: https://twitter.com/huntcoffeeroast

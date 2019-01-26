@@ -35,7 +35,7 @@
   {% if doc.views %}
     <div id=views>
       {% for view in doc.views %}
-      <img src={{g.static('/source/media/' + view.image).url.path}} alt="{{_(view.title)}}">
+      <img src={{g.static('/source/media/venues/' + view.image).url.path}} alt="{{_(view.title)}}">
       {% endfor%}
       {% if doc.viewsnote %}
         <p>{{doc.viewsnote}}

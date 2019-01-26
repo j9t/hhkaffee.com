@@ -2,7 +2,7 @@
 $title@: MAYA Kaffeerösterei
 $date: 2017-10-27
 
-logo: /media/maya.png
+logo: /media/venues/maya.png
 email: info@mayakaffeeroesterei.de
 website: http://www.mayakaffeeroesterei.de/
 facebook: https://www.facebook.com/mayakaffeeroesterei

@@ -2,7 +2,7 @@
 $title@: Becking Kaffee
 $date: 2017-12-13
 
-logo: /media/becking-kaffee.jpg
+logo: /media/venues/becking-kaffee.jpg
 email: info@becking-kaffee.de
 website: https://www.becking-kaffee.de/ 
 twitter: https://twitter.com/beckingkaffee

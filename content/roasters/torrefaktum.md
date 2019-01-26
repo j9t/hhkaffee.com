@@ -2,7 +2,7 @@
 $title@: Torrefaktum
 $date: 2017-11-01
 
-logo: /media/torrefaktum.jpg
+logo: /media/venues/torrefaktum.jpg
 email: info@torrefaktum.de
 website: http://torrefaktum.de/
 twitter: https://twitter.com/torrefaktum

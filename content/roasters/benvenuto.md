@@ -2,7 +2,7 @@
 $title@: Benvenuto
 $date: 2017-11-27
 
-logo: /media/benvenuto.jpg
+logo: /media/venues/benvenuto.jpg
 email: kontakt@benvenuto-hamburg.de
 website: https://www.benvenuto-hamburg.de/
 twitter: https://twitter.com/benvenutocaffe

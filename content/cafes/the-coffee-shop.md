@@ -2,7 +2,7 @@
 $title@: the coffee shop
 $date: 2018-08-12
 
-logo: /media/the-coffee-shop.jpg
+logo: /media/venues/the-coffee-shop.jpg
 email: kontakt@the-coffee-shop.de
 website: https://www.the-coffee-shop.de/
 twitter: https://twitter.com/thecoffeeshophh

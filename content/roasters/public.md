@@ -2,7 +2,7 @@
 $title@: Public Coffee Roasters
 $date: 2017-10-01
 
-logo: /media/public.jpg
+logo: /media/venues/public.jpg
 email: info@publiccoffeeroasters.com
 website: https://www.publiccoffeeroasters.com/
 twitter: https://twitter.com/PublicRoasters

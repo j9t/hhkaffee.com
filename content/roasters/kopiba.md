@@ -2,7 +2,7 @@
 $title@: kopiba
 $date: 2017-11-14
 
-logo: /media/kopiba.png
+logo: /media/venues/kopiba.png
 email: info@kopiba.de
 website: http://www.kopiba.de/
 twitter: https://twitter.com/kopiba

@@ -2,7 +2,7 @@
 $title@: Milch
 $date: 2017-10-01
 
-logo: /media/milch.jpg
+logo: /media/venues/milch.jpg
 website: http://www.milchfeinkost.de/
 instagram: https://www.instagram.com/milchfeinkost/
 

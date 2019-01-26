@@ -2,7 +2,7 @@
 $title@: HERMETIC
 $date: 2017-10-03
 
-logo: /media/hermetic.jpg
+logo: /media/venues/hermetic.jpg
 website: https://www.hermeticcoffee.com/
 facebook: https://www.facebook.com/hermeticcoffeeroasters/
 instagram: https://www.instagram.com/hermeticcoffeeroasters/

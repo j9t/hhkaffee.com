@@ -2,7 +2,7 @@
 $title@: Speicherstadt Kaffeerösterei
 $date: 2017-09-25
 
-logo: /media/speicherstadt-kaffeeroesterei.jpg
+logo: /media/venues/speicherstadt-kaffeeroesterei.jpg
 email: info@speicherstadt-kaffee.de
 website: http://www.speicherstadt-kaffee.de/
 facebook: https://www.facebook.com/speicherstadtkaffee

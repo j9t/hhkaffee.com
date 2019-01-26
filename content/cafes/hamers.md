@@ -3,7 +3,7 @@ $title@: HAMER’s
 $date: 2018-08-16
 $slug: hamers
 
-logo: /media/hamers.png
+logo: /media/venues/hamers.png
 email: info@cafe-hamers.de
 website: http://cafe-hamers.de/
 facebook: https://www.facebook.com/HAMERsCafe/
