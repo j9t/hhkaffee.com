@@ -401,6 +401,22 @@ span,
 
 }
 
+@media screen and (min-width: 1200px) {
+
+	html {
+		font-size: 1em;
+	}
+
+	body {
+		max-width: 666.66px;
+	}
+
+	nav li {
+		top: 0;
+	}
+
+}
+
 @media print {
 
 	* {
