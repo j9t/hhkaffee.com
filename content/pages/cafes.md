@@ -6,4 +6,4 @@ $order: 2
 ---
 Eine Auswahl von herausragenden Hamburger Cafés.
 
-Beachten Sie, dass viele [Röstereien]([url('/content/pages/roasters.md')]) ebenfalls Café-Bereiche haben. Wir stellen Röstereien gesondert dar, um den besonderen Bezug zum Kaffee herauszustellen.
+Die [Röstereien auf HH Kaffee]([url('/content/pages/roasters.md')]) haben ebenfalls alle ein Café. Wir stellen Röstereien gesondert dar, um ihren stärkeren Bezug zu Kaffee herauszustellen.
