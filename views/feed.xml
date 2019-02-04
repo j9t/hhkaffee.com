@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{podspec.title}}</title>
     <link>{{doc.pod.env.url}}</link>
@@ -13,7 +13,7 @@
         <description>{% if item.html %}<![CDATA[
           {{item.html|striptags|truncate(240, end=' …')}}
         ]]>{% endif %}</description>
-        {%+ if item.date %}<pubDate>{{item.date|date(format='d MMM YYYY', locale='en')}}</pubDate>{% endif %}
+        {%+ if item.date %}<pubDate>{{item.date|date(format='d MMM YYYY 00:00:00 +0000', locale='en')}}</pubDate>{% endif %}
         <guid>{{item.url}}</guid>
       </item>
       {% endfor %}
