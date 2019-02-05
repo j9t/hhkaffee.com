@@ -20,7 +20,7 @@
       <p>⚐ <a href={{g.url('/content/pages/cafes.md').path}}>{{_('Alle Cafés')}}</a>
     </section>
     <section>
-      <h2>{{_('Meinungen und Empfehlungen')}}</h2>
+      <h2>{{_('Neuigkeiten und Ansichten')}}</h2>
       <ul>
         {% for posts in g.docs('posts', order_by='date', reverse=True)[0:3] %}
         <li><a href={{posts.url.path}}>{{posts.title}}</a> · {{posts.html|striptags|truncate(120, end=' …')}}
