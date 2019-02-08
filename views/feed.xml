@@ -13,7 +13,7 @@
         <description>{% if item.html %}<![CDATA[
           {{item.html|striptags|truncate(240, end=' …')}}
         ]]>{% endif %}</description>
-        {%+ if item.date %}<pubDate>{{item.date|date(format='d MMM YYYY 00:00:00 +0000', locale='en')}}</pubDate>{% endif %}
+        {%+ if item.date %}<pubDate>{{item.date|date(format='EEE, d MMM YYYY 00:00:00 +0000', locale='en')}}</pubDate>{% endif %}
         <guid>{{item.url}}</guid>
       </item>
       {% endfor %}
