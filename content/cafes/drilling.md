@@ -1,0 +1,21 @@
+---
+$title@: Drilling
+$date: 2019-02-12
+
+logo: /media/venues/drilling.jpg
+email: info@clockers.hamburg
+website: https://www.drilling.hamburg/cafe
+facebook: https://www.facebook.com/drillinghamburg
+instagram: https://www.instagram.com/drillinghamburg/
+
+locations:
+- address: Friesenweg 4<br>22763 Hamburg
+  coordinates: "53.55829735122648,9.908426105976105"
+  hours@: Montag – Freitag 7:30–17 Uhr
+
+coffee: 4,50
+espresso: 2
+internet@: ja
+
+---
+Wer das [Clockers](https://clockers.hamburg/) kennt, sollte das Drilling (eröffnet 2018) ebenfalls kennen. Das Café [in sehr kompetenten Händen](https://www.facebook.com/drillinghamburg/photos/a.193377721384251/319052372150118/), schreibt das Drilling über Kaffee: »Wir sind in der Lage die Herkunft unserer Kaffeebohnen direkt zu den Kaffeebauern nachvollziehen. Die Röstung des Kaffees findet in Hamburg-Bahrenfeld bei unseren Freunden von ›onetake‹ statt. Die Kaffeesorten wechseln regelmäßig, je nach Saison.«
