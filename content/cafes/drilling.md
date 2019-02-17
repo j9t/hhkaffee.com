@@ -13,6 +13,11 @@ locations:
   coordinates: "53.55829735122648,9.908426105976105"
   hours@: Montag – Freitag 7:30–17 Uhr
 
+views:
+- title@: Drilling von innen.
+  image: drilling-interior.jpg
+viewsnote@: Copyright Drilling
+
 coffee: 4,50
 espresso: 2
 internet@: ja
