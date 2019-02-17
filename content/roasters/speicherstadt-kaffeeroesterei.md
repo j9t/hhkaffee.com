@@ -23,7 +23,6 @@ views:
   image: speicherstadt-kaffeeroesterei-exterior.jpg
 - title@: Speicherstadt Kaffeerösterei von innen.
   image: speicherstadt-kaffeeroesterei-interior.jpg
-viewsnote@: Copyright Speicherstadt Kaffeerösterei
 
 coffee: 3,50
 espresso: 2,20

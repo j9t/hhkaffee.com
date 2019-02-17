@@ -22,7 +22,6 @@ views:
   image: the-coffee-shop-exterior.jpg
 - title@: the coffee shop von innen.
   image: the-coffee-shop-interior.jpg
-viewsnote@: Copyright the coffee shop
 
 coffee: 2,20
 espresso: 2,10

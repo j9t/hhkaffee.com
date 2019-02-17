@@ -16,7 +16,6 @@ locations:
 views:
 - title@: Drilling von innen.
   image: drilling-interior.jpg
-viewsnote@: Copyright Drilling
 
 coffee: 4,50
 espresso: 2
