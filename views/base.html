@@ -9,6 +9,7 @@
   <title>{{doc.title}} · {{podspec.title}}</title>
   <link rel=stylesheet href={{g.static('/source/setup/default.min.css').url.path}}>
   <link rel=alternate href={{g.url('/content/pages/feed.yaml').path}} type=application/rss+xml title="{{_('Feed')}}">
+  <link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
   {%+ if doc != g.doc('/content/pages/index.md') %}<link rel=prerender href=/>{% endif %}
   <header>
     {%+ if doc != g.doc('/content/pages/index.md') %}<a href={{g.doc('/content/pages/index.md').url.path}}>{% endif %}<img src={{g.static('/source/media/logo.png').url.path}} alt="{{podspec.title}}">{% if doc != g.doc('/content/pages/index.md') %}</a>{% endif %}
