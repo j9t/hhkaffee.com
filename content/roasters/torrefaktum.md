@@ -16,7 +16,7 @@ locations:
   phone: 39893770
 - address: Speersort 1<br>20095 Hamburg
   coordinates: "53.5495575,9.998602600000027"
-  hours@: Montag – Freitag 8–19 Uhr<br>Samstag 10–18 Uhr
+  hours@: Montag – Freitag 8–19 Uhr<br>Samstag 12–18 Uhr
 - address: Yokohamastraße 10 / Am Lohsepark 16<br>20457 Hamburg
   coordinates: "53.54232769999999,10.00454979999995"
   hours@: Montag – Freitag 8–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
