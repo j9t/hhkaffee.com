@@ -13,9 +13,6 @@ locations:
 - address: Detlev-Bremer-Straße 21<br>20359 Hamburg
   coordinates: "53.551671,9.965384699999959"
   hours@: Montag – Freitag 9–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
-- address: Rathaus-Passage<br>Unter dem Rathausmarkt<br>20095 Hamburg
-  coordinates: "53.5514265,9.993245800000068"
-  hours@: Montag – Freitag 7:30–14 Uhr
 
 espresso: 1,80
 coffee: 4,50
