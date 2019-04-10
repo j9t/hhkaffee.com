@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/drillinghamburg/
 locations:
 - address: Friesenweg 4<br>22763 Hamburg
   coordinates: "53.55829735122648,9.908426105976105"
-  hours@: Montag – Freitag 7:30–17 Uhr<br>Samstag 10–17 Uhr
+  hours@: Dienstag – Freitag 8–17 Uhr<br>Samstag 10–17 Uhr
 
 views:
 - title@: Drilling von innen.
