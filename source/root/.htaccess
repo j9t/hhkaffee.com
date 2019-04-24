@@ -32,6 +32,7 @@ ExpiresByType text/javascript A129600
 FileETag All
 # Header set Content-Security-Policy "default-src 'self'"
 Header set Referrer-Policy "strict-origin-when-cross-origin"
+Header set X-Content-Type-Options nosniff
 Header set X-Frame-Options SAMEORIGIN
 Header set X-XSS-Protection "1; mode=block"
 
