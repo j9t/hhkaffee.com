@@ -65,7 +65,7 @@ Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir 
 
 #### Verschlüsselung
 
-Um Ihre Daten bei der Übertragung zu schützen, verwenden wir dem aktuellen Stand der Technik entsprechende Verschlüsselung über HTTPS.
+Zum Schutz Ihrer Daten werden diese über HTTPS übertragen.
 
 #### Server-Logs
 
