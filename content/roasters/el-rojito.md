@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/elrojito_hh/
 locations:
 - address: Große Brunnenstraße 68<br>22763 Hamburg
   coordinates: "53.55117869999999,9.925849999999969"
-  hours@: Montag – Freitag 8–18:30 Uhr<br>Samstag 10–18:30 Uhr<br>Sonntag 11–18:30 Uhr
+  hours@: Montag – Freitag 8–18:30 Uhr<br>Samstag/Sonntag 10–18:30 Uhr
   phone: 3906898
   
 coffee: 2,70
