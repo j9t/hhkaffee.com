@@ -17,8 +17,6 @@ contact: HH Kaffee<br>c/o <a href=https://meiert.com/>Jens Oliver Meiert</a><br>
 ---
 ## Rechtliche Hinweise
 
-(Normalerweise duzen wir auf HH Kaffee. Hier sind wir förmlich.)
-
 Verantwortlich für journalistisch-redaktionelle Inhalte gemäß §&nbsp;55 II RStV: Jens Oliver Meiert.
 
 Steuernummer: 43/157/03153.
