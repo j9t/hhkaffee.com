@@ -33,6 +33,8 @@ Die Logos und Fotos aufgeführter [Röstereien]([url('/content/pages/roasters.md
 
 Verantwortlich im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO): Jens Oliver Meiert.
 
+Diese Datenschutzerklärung gebraucht eine den Gepflogenheiten für Datenschutzerklärungen entsprechende formelle Sprache. Ihr seid auf unserer Website weiterhin sehr willkommen.
+
 #### Ihre Rechte
 
 Unter den angegebenen Kontaktdaten können Sie jederzeit folgende Rechte ausüben:
