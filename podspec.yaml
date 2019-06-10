@@ -7,9 +7,6 @@ localization:
   locales:
   - de
 
-sitemap:
-  enabled: true
-
 static_dirs:
 - static_dir: /source/media/
   serve_at: /media/
@@ -25,6 +22,12 @@ preprocessors:
 - kind: sass
   sass_dir: /source/setup/sass/
   out_dir: /source/setup/
+
+features:
+  legacy_slugify: true
+
+sitemap:
+  enabled: true
 
 ext:
 - extensions.html_min.HtmlMinExtension
