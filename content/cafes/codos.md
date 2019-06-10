@@ -15,6 +15,7 @@ locations:
 - address: Bahrenfelder Straße 156<br>22765 Hamburg
   coordinates: "53.553861,9.928945699999986"
   hours: "\""
+  phone: 30750539
 
 views:
 - title@: CODOS von innen.
