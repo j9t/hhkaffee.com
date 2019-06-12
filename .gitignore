@@ -4,3 +4,4 @@ source/setup/default.min.css
 
 # Aux
 build/
+node_modules/

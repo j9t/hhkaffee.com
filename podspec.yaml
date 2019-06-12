@@ -19,9 +19,8 @@ static_dirs:
   serve_at: /setup/
 
 preprocessors:
-- kind: sass
-  sass_dir: /source/setup/sass/
-  out_dir: /source/setup/
+- kind: gulp
+  build_task: grow-build
 
 features:
   legacy_slugify: true
