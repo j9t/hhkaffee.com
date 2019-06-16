@@ -14,6 +14,9 @@ locations:
   coordinates: "53.6817,9.982780000000048"
   hours@: Montag – Samstag 10–18 Uhr<br>Sonntag 13–17 Uhr
   phone: 94361881
+- address: Colonnaden 5<br>20354 Hamburg
+  coordinates: "53.5552462,9.9905103"
+  hours: ?
 zoom: 9
 
 espresso: 2
