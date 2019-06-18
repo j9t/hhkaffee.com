@@ -1,6 +1,7 @@
-extensions/
-source/setup/default.min.css
 .depcache.json
+extensions/
+routescache.json
+source/setup/default.min.css
 
 # Aux
 build/
