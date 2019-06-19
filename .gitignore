@@ -1,6 +1,7 @@
 .depcache.json
 extensions/
 routescache.json
+node_modules/
 source/setup/default.min.css
 
 # Aux
