@@ -1,7 +1,7 @@
 {
   "name": "hhkaffee.com",
   "private": true,
-  "scripts":{
+  "scripts": {
     "imagemin": "imagemin-merlin"
   },
   "dependencies": {
@@ -11,9 +11,15 @@
     "gulp-sass": "^4.0.1"
   },
   "devDependencies": {
-    "@sum.cumo/imagemin-merlin": "^1.1.9"
+    "@sum.cumo/imagemin-merlin": "^1.1.9",
+    "husky": "^2.4.1"
   },
   "browserslist": [
     ">1%"
-  ]
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run imagemin -- --staged"
+    }
+  }
 }
