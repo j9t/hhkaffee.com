@@ -8,7 +8,6 @@
     "gulp-sass": "^4.0.1"
   },
   "browserslist": [
-    "last 1 version",
-    "last 2 iOS versions"
+    ">1%"
   ]
 }
