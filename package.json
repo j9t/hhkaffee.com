@@ -1,11 +1,17 @@
 {
   "name": "hhkaffee.com",
   "private": true,
+  "scripts":{
+    "imagemin": "imagemin-merlin"
+  },
   "dependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.1"
+  },
+  "devDependencies": {
+    "@sum.cumo/imagemin-merlin": "^1.1.9"
   },
   "browserslist": [
     ">1%"
