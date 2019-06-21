@@ -20,7 +20,7 @@ static_dirs:
 
 preprocessors:
 - kind: gulp
-  build_task: grow-build
+  build_task: build
 
 features:
   legacy_slugify: true
