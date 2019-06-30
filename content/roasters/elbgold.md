@@ -21,10 +21,6 @@ locations:
 - address: Mühlenkamp 59<br>22303 Hamburg
   coordinates: "53.5830877,10.009715000000028"
   hours: "\""
-- address: Mühlenkamp 6a<br>22303 Hamburg
-  coordinates: "53.5802054,10.012962799999968"
-  hours@: Montag – Freitag 8–17 Uhr<br>Samstag/Sonntag 9–17 Uhr
-  phone: 27882223
 - address: Schauenburgerstraße 50<br>20095 Hamburg
   coordinates: "53.5496884,9.993023600000015"
   hours@: Montag – Freitag 8–18 Uhr<br>Samstag 9–18 Uhr
