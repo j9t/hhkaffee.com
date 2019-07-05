@@ -4,7 +4,7 @@ $titles:
   nav@: Über&nbsp;uns
 $order: 4
 
-logo: /media/logo-600x600.png
+logo: /media/logo-social.png
 website: /
 
 ---

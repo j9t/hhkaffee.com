@@ -6,7 +6,7 @@ $view: /views/contact.html
 $path@: /kontakt/
 $order: 5
 
-logo: /media/logo-600x600.png
+logo: /media/logo-social.png
 email: info@hhkaffee.com
 website: /
 twitter: https://twitter.com/hhkaffeecom
