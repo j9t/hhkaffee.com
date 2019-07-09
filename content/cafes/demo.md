@@ -3,7 +3,7 @@ $title@: Demo
 $date: 2018-02-27
 $hidden: true
 
-logo: /media/logo-social.png
+logo: /media/logo-alt.png
 email: info@hhkaffee.com
 website: https://hhkaffee.com/ 
 twitter: https://twitter.com/hhkaffeecom
