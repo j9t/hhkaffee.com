@@ -1,9 +1,6 @@
 .depcache.json
+.grow/
 extensions/
 routescache.json
 node_modules/
 source/setup/default.min.css
-
-# Aux
-build/
-node_modules/
