@@ -45,7 +45,7 @@ header {
 }
 
 header img,
-div#stage section,
+section,
 h2#locations + ul li p,
 h2#websites + ul li,
 ul#venues li {
@@ -103,6 +103,72 @@ nav li a:active {
 	outline: .5em solid #e30613;
 }
 
+section,
+ul#venues li {
+	width: calc(50% - 1em);
+}
+
+section {
+	margin: .5em 0 0;
+}
+
+section:nth-child(2n-1) {
+	padding-right: 2em;
+}
+
+section:last-child {
+	padding-right: 0;
+	width: 100%;
+}
+
+section:last-child p:last-child,
+div#social p:last-child {
+	margin-bottom: 0;
+}
+
+section h2,
+div#social p:first-child {
+	margin-top: 0;
+}
+
+section img,
+div#map,
+div#views img,
+img.logo,
+img.product {
+	border: 2px solid;
+}
+
+section img,
+img.logo,
+img.product {
+	filter: grayscale(100%);
+	float: right;
+}
+
+section img,
+img.logo {
+	border-radius: 50%;
+}
+
+section img {
+	height: 50px;
+	margin: -.17em 0 1em 1em;
+	width: 50px;
+}
+
+section img:focus,
+section img:hover,
+section img:active,
+img.logo:focus,
+img.logo:hover,
+img.logo:active,
+img.product:focus,
+img.product:hover,
+img.product:active {
+	filter: grayscale(0);
+}
+
 p,
 div#views img,
 h2#locations + ul,
@@ -152,24 +218,6 @@ div#social p {
 	width: 47%;
 }
 
-div#social p:first-child,
-div#stage section h2 {
-	margin-top: 0;
-}
-
-div#social p:last-child,
-div#stage section:last-child p:last-child {
-	margin-bottom: 0;
-}
-
-div#map,
-div#views img,
-div#stage section img,
-img.logo,
-img.product {
-	border: 2px solid;
-}
-
 div#map {
 	height: 350px;
 	width: calc(100% - 4px);
@@ -191,54 +239,6 @@ div#views img {
 div#promo {
 	border-left: 2px solid #e30613;
 	padding-left: 1em;
-}
-
-div#stage section,
-ul#venues li {
-	width: calc(50% - 1em);
-}
-
-div#stage section {
-	margin: .5em 0 0;
-}
-
-div#stage section:nth-child(2n-1) {
-	padding-right: 2em;
-}
-
-div#stage section:last-child {
-	padding-right: 0;
-	width: 100%;
-}
-
-div#stage section img,
-img.logo,
-img.product {
-	filter: grayscale(100%);
-	float: right;
-}
-
-div#stage section img,
-img.logo {
-	border-radius: 50%;
-}
-
-div#stage section img {
-	height: 50px;
-	margin: -.17em 0 1em 1em;
-	width: 50px;
-}
-
-div#stage section img:focus,
-div#stage section img:hover,
-div#stage section img:active,
-img.logo:focus,
-img.logo:hover,
-img.logo:active,
-img.product:focus,
-img.product:hover,
-img.product:active {
-	filter: grayscale(0);
 }
 
 h1,
@@ -387,13 +387,13 @@ span,
 		outline-width: .25em !important;
 	}
 
-	div#stage section {
+	section {
 		float: none;
 		padding-right: 0 !important;
 		width: 100%;
 	}
 
-	div#stage section img {
+	section img {
 		height: 52px;
 		width: 52px;
 	}
