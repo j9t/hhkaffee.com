@@ -10,7 +10,7 @@ twitter: https://twitter.com/hhkaffeecom
 facebook: https://www.facebook.com/hhkaffeecom
 
 locations:
-- address: Schwalbenplatz<br>22307 Hamburg
+- address: Bäckerbreitergang 18<br>20355 Hamburg
   coordinates: "53.5947875,10.04573210000001"
   hours@: Montag – Sonntag 8–18 Uhr
 zoom: 10
