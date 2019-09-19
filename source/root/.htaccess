@@ -30,11 +30,11 @@ ExpiresByType text/css A129600
 ExpiresByType text/html A10
 ExpiresByType text/javascript A129600
 FileETag All
-# Header set Content-Security-Policy "default-src 'self'"
-Header set Referrer-Policy "strict-origin-when-cross-origin"
-Header set X-Content-Type-Options nosniff
-Header set X-Frame-Options SAMEORIGIN
-Header set X-XSS-Protection "1; mode=block"
+# Header always set Content-Security-Policy "default-src 'self'"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set X-Content-Type-Options nosniff
+Header always set X-Frame-Options SAMEORIGIN
+Header always set X-XSS-Protection "1; mode=block"
 
 # Course Calibration
 <IfModule mod_rewrite.c>
