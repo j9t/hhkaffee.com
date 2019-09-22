@@ -15,7 +15,7 @@ locations:
   hours@: Montag – Freitag 9–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
 
 espresso: 1,80
-coffee: 4,50
+coffee: 2
 internet@: ja
 
 ---
