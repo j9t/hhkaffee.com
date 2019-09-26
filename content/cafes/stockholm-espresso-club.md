@@ -1,6 +1,7 @@
 ---
 $title@: Stockholm Espresso Club
 $date: 2017-10-01
+favorite: 1
 
 logo: /media/venues/stockholm-espresso-club.jpg
 email: info@stockholmespressoclub.de
@@ -16,7 +17,6 @@ locations:
 coffee: 4,50
 espresso: 2,10
 internet@: ja
-favorite: 1
 
 ---
 Der Stockholm Espresso Club (eröffnet 2013) ist eine Institution der Hamburger Kaffeeszene. »Im Stockholm Espresso Club gilt unsere Leidenschaft exzellentem Kaffee. Wir sehen uns als die Sommeliers der Kaffeewelt. Höchste Präzision in der Zubereitung und exquisite Produkt-Qualität garantieren ein Geschmackserlebnis der Extraklasse.«

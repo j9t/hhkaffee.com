@@ -1,6 +1,7 @@
 ---
 $title@: Tōrnqvist
 $date: 2017-10-01
+favorite: 1
 
 logo: /media/venues/tornqvist.png
 email: hello@tornqvistcoffee.com
@@ -17,7 +18,6 @@ locations:
 coffee: 4,50
 espresso: 2,80
 internet@: ja
-favorite: 1
 
 ---
 Das Tōrnqvist hat Hamburg bis 2018 drei Jahre lang aus einem VW-Bulli mit Kaffee versorgt und dann am Neuen Pferdemarkt sein Stammhaus eröffnet. Hier gibt es mit den besten Kaffee der Stadt: Präzisionskaffee mit Fokus auf skandinavischen Specialty Coffee.

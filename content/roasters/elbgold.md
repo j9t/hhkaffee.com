@@ -1,6 +1,7 @@
 ---
 $title@: elbgold
 $date: 2017-09-25
+favorite: 1
 
 logo: /media/venues/elbgold.jpg
 email: info@elbgold.com
@@ -31,7 +32,6 @@ locations:
 coffee: 2
 espresso: 2
 internet@: nein
-favorite: 1
 
 ---
 elbgold wurde 2004 von Annika Taschinski und Thomas Kliefoth in Winterhude eröffnet und ist eine von Hamburgs bekanntesten Röstereien und Cafés. Die Rösterei selbst befindet sich nach Anfängen in Winterhude in den Schanzenhöfen.

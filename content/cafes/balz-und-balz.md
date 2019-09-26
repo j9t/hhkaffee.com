@@ -1,6 +1,7 @@
 ---
 $title@: Balz und Balz
 $date: 2017-11-09
+favorite: 1
 
 logo: /media/venues/balz-und-balz.jpg
 email: hello@balzundbalz.de
@@ -17,7 +18,6 @@ locations:
 coffee: 2,80
 espresso: 1,90
 internet@: ja
-favorite: 1
 
 ---
 »Total versessen auf spitzenmäßigen Kaffee« (und gute Küche) – das ist Balz und Balz (eröffnet 2016).

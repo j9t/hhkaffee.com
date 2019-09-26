@@ -1,6 +1,7 @@
 ---
 $title@: Nord Coast Coffee Roastery
 $date: 2017-10-01
+favorite: 1
 
 logo: /media/venues/nord-coast.jpg
 email: ahoi@nordcoast-coffee.de
@@ -21,7 +22,6 @@ locations:
 coffee: 3,90
 espresso: 1,80
 internet@: ja
-favorite: 1
 
 ---
 Das Nord Coast (eröffnet 2015) ist eine der Röstereien Hamburgs, wo es nebem guten Kaffee auch ausgezeichnete Küche (wir sagen nur: Waffeln!) gibt. Zu ihren Kaffees sagt Nord Coast: »Bei der Auswahl unseres Rohkaffees wächst der Kaffee im Einklang mit der Natur. Wir unterstützen soziale Projekte in den Herkunftsländern.«

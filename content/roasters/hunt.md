@@ -1,6 +1,7 @@
 ---
 $title@: Hunt Coffee Roasters
 $date: 2019-01-14
+favorite: 1
 
 logo: /media/venues/hunt.jpg
 email: info@huntbrotherscoffee.de
@@ -22,7 +23,6 @@ zoom: 9
 coffee: 2,50
 espresso: 2
 internet@: ja
-favorite: 1
 
 ---
 Hunt Coffee (eröffnet 2017) ist buchstäblich auf der Jagd nach dem besten Kaffee: »To Hunt the best coffee beans on the planet and roast each bean with a unique profile that highlights the best representation of its variety, farm, and taste!«
