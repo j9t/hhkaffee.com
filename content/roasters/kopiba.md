@@ -1,6 +1,7 @@
 ---
 $title@: kopiba
 $date: 2017-11-14
+candidate: 1
 
 logo: /media/venues/kopiba.png
 email: info@kopiba.de
