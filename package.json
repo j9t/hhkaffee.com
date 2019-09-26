@@ -11,7 +11,7 @@
     "gulp-sass": "^4.0.2"
   },
   "devDependencies": {
-    "@sum.cumo/imagemin-merlin": "^1.1.9",
+    "@sum.cumo/imagemin-merlin": "^1.2.0",
     "husky": "^3.0.0"
   },
   "browserslist": [
