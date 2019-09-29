@@ -5,4 +5,4 @@ $path@: /schnack/
 $order: 3
 
 ---
-Neuigkeiten und Ansichten zu den Themen Kaffee und Hamburg.
+Neuigkeiten und Meinungen zu den Themen Kaffee und Hamburg.
