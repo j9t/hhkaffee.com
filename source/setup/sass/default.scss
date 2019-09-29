@@ -12,6 +12,7 @@
 }
 
 html,
+div#social p,
 div#map,
 h2#locations + ul li p {
 	margin: 0;
@@ -121,13 +122,11 @@ section:last-child {
 	width: 100%;
 }
 
-section:last-child p:last-child,
-div#social p:last-child {
+section:last-child p:last-child {
 	margin-bottom: 0;
 }
 
-section h2,
-div#social p:first-child {
+section h2 {
 	margin-top: 0;
 }
 
@@ -210,12 +209,6 @@ div#map ~ ul.meta {
 div#social {
 	border: 2px solid #f7f7f7;
 	padding: .3em .2em .2em;
-}
-
-div#social p {
-	display: table-cell;
-	padding: 0 1.5%;
-	width: 47%;
 }
 
 div#map {
