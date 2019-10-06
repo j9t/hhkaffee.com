@@ -23,6 +23,6 @@ locations:
 coffee: 3,90
 espresso: 1,80
 internet@: ja
-
 ---
+
 Public (eröffnet 2014) betont »Third Wave« und: »Wir sind stets auf der Suche nach besonderen und charakterstarken Kaffees und beziehen unsere Bohnen über verschiedene Kleinimporteure. Diese stehen im direkten Kontakt mit Kleinfarmen in den Ursprungsländern, wie zum Beispiel Brasilien, Guatemala und Äthiopien. Unser Ziel ist es, in Zukunft direkt mit den Farmen zu handeln und so viel wie möglich selbst direkt zu importieren.«

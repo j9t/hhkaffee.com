@@ -18,6 +18,6 @@ locations:
 coffee: 2,80
 espresso: 1,90
 internet@: ja
-
 ---
+
 »Total versessen auf spitzenmäßigen Kaffee« (und gute Küche) – das ist Balz und Balz (eröffnet 2016).

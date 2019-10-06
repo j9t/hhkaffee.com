@@ -17,6 +17,6 @@ locations:
 coffee: 2,70
 espresso: 2
 internet@: nein
-
 ---
+
 Für el rojito (gegründet 1987, seit 2004 mit Café in Ottensen) steht [Solidarität](https://www.el-rojito.de/content/solidarische-%C3%B6konomie) im Vordergrund: »Wir wollen mit unserem Kaffeehandel keine Entwicklungshilfe betreiben, sondern wir wollen mit dem Handel nichts weniger als den Kapitalismus überwinden. Nicht die Profitmaximierung treibt uns an, sondern die Solidarität und das gute Leben für Alle.«

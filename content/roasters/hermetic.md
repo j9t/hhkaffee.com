@@ -16,6 +16,6 @@ locations:
 coffee: 4,40
 espresso: 2,20
 internet@: ja
-
 ---
+
 HERMETIC war und ist irgendwie auch noch »less political« (eröffnet 2012). HERMETICs Statement über sich selbst: »We serve hand brewed speciality coffee from our own roasts as well as from appreciated roasteries from all over the world.«

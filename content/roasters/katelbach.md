@@ -14,6 +14,6 @@ locations:
 
 espresso: 2,10
 internet@: nein
-
 ---
+
 Die Privatrösterei Katelbach wurde 1986 gegründet. Ihr Stammhaus befindet sich in Ottensen. 

@@ -20,6 +20,6 @@ views:
 coffee: 4,50
 espresso: 2
 internet@: ja
-
 ---
+
 Wer das [Clockers](https://clockers.hamburg/) kennt, sollte das Drilling (eröffnet 2018) ebenfalls kennen – vor allem, weil es zum Start noch in den Händen [eines von Hamburgs besten Baristas](https://www.facebook.com/drillinghamburg/photos/a.193377721384251/319052372150118/) war. Das Drilling über ihren Kaffee: »Wir sind in der Lage die Herkunft unserer Kaffeebohnen direkt zu den Kaffeebauern nachvollziehen. Die Röstung des Kaffees findet in Hamburg-Bahrenfeld bei unseren Freunden von ›onetake‹ statt. Die Kaffeesorten wechseln regelmäßig, je nach Saison.«

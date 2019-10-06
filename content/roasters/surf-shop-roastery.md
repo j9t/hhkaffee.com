@@ -16,6 +16,6 @@ locations:
 coffee: 4
 espresso: 3
 internet@: ja
-
 ---
+
 Surf Shop Roastery gibt es seit 2015, geröstet wird mit einer Probat; es gab bereits ein Café am Fischmarkt, seit 2019 ist Surf Shop Roastery in Eimsbüttel. »Operating as a small coffee subscription, we introduce two new coffee each month. We also stay true to season.«

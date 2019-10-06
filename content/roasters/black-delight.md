@@ -18,6 +18,6 @@ locations:
 coffee: 3,90
 espresso: 1,70
 internet@: ja
-
 ---
+
 Unter dem Motto »Respecting Coffee« achtet Black Delight seit 2008 »auf Transparenz und einen fairen Handel mit den Produzenten im Ursprung«. Qualität steht für Black Delight nicht nur bei der Auswahl der Rohkaffees im Vordergrund, »sondern auch beim Rösten der Bohnen«. Was wir interessant (aber auch noch etwas unklar) finden: Jede Röstung von Black Delight wird aufgezeichnet.

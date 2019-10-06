@@ -19,6 +19,6 @@ locations:
 coffee: 4,20
 espresso: 2
 internet@: nein
-
 ---
+
 Die Kaffeerösterei Burg wurde 1923 gegründet und ist mit [Becking Kaffee]([url('/content/roasters/becking-kaffee.md')]) eine der ältesten Röstereien Hamburgs, denn: »Kaffee ist in der Familie Burg eine Herzensangelegenheit.« Da am Standort im Eppendorfer Weg kein Kaffee ausgeschenkt wird, listen wir nur die beiden Lokalitäten in der Speicherstadt und in Ottensen. 

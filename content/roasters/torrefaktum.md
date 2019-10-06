@@ -24,6 +24,6 @@ locations:
 espresso: 2,20
 coffee: 2,50
 internet@: ja
-
 ---
+
 Das Torrefaktum (eröffnet 2009) hat durch seine Besitzer nicht nur einen Anspruch, was Kaffee anbelangt, sondern auch den, diesen in einem ansprechenden Ambiente anzubieten. 

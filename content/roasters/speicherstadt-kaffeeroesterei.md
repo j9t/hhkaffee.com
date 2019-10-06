@@ -27,6 +27,6 @@ views:
 coffee: 3,50
 espresso: 2,20
 internet@: ja
-
 ---
+
 Die Speicherstadt Kaffeerösterei (seit 2006, Betreibergesellschaft gegründet 1994) konzentriert sich auf »hochwertige sortenreine Kaffees«.

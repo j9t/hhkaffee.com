@@ -16,6 +16,6 @@ locations:
 coffee: 2,70
 espresso: 1,90
 internet@: nein
-
 ---
+
 (Wir haben bisher wenige soliden Informationen zur erste liebe bar: Sie befindet sich aktuell [im Umbau](http://www.ersteliebebar.de/2019/09/1506/).)

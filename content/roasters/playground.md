@@ -17,6 +17,6 @@ locations:
 espresso: 1,80
 coffee: 2
 internet@: ja
-
 ---
+
 »Kaffee ist Wasser mit Auslandserfahrung« sagt die Website von Playground (eröffnet 2014). »Unsere einzige Konstante – die Liebe zum Kaffee und die Qualität des Produkts. Dazu beziehen wir die Bohnen für unsere Röstkreationen von Farmen aus aller Welt. Nachhaltig, fair, abwechslungsreich und lecker.«

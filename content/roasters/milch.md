@@ -14,6 +14,6 @@ locations:
 
 espresso: 2
 internet@: nein
-
 ---
+
 Das in Nähe der Landungsbrücken liegende Café Milch Feinkost, kurz Milch, wurde 2015 eröffnet.
