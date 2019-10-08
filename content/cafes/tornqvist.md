@@ -13,7 +13,7 @@ instagram: https://www.instagram.com/tornqvistcoffee/
 locations:
 - address: Neuer Pferdemarkt 12<br>20359 Hamburg
   coordinates: "53.5590207,9.964193000000023"
-  hours@: Dienstag – Samstag 10–18 Uhr<br>Sonntag 11–17 Uhr
+  hours@: Montag – Samstag 8:30–18 Uhr<br>Sonntag 10–18 Uhr
 
 coffee: 4,50
 espresso: 2,80
