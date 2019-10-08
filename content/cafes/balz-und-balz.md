@@ -15,8 +15,8 @@ locations:
   hours@: Dienstag – Freitag 8–18 Uhr<br>Samstag/Sonntag 9–17 Uhr
   phone: 60438833
 
-coffee: 2,80
-espresso: 1,90
+coffee: 3
+espresso: 2
 internet@: ja
 ---
 
