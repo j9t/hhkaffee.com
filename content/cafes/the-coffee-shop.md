@@ -1,6 +1,7 @@
 ---
 $title@: the coffee shop
 $date: 2018-08-12
+candidate: 1
 
 logo: /media/venues/the-coffee-shop.jpg
 email: kontakt@the-coffee-shop.de
