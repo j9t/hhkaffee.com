@@ -1,6 +1,6 @@
 ---
 $title@: Teikei
-$date: 2017-10-09
+$date: 2019-10-09
 
 logo: /media/venues/teikei.png
 email: info@teikeicoffee.org
