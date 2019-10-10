@@ -18,4 +18,4 @@ espresso: 1,90
 internet@: nein
 ---
 
-(Wir haben bisher wenige soliden Informationen zur erste liebe bar: Sie befindet sich aktuell [im Umbau](http://www.ersteliebebar.de/2019/09/1506/).)
+(Wir haben bisher wenige solide Informationen zur erste liebe bar: Sie befindet sich aktuell [im Umbau](http://www.ersteliebebar.de/2019/09/1506/).)
