@@ -18,4 +18,4 @@ espresso: 2,20
 internet@: ja
 ---
 
-»Teikei Coffee steht für einen gemeinschaftlich getragenen und solidarischen Kaffeeanbau und einen umweltfreundlichen Transport per Segelschiff.« Und weiter: »Als Non-Profit-Organisation erzielen wir keine Gewinne, sondern reinvestieren alles in zukunftsfähige Landwirtschaft und Bildungsarbeit für eine assoziative Zusammenarbeit.« So sagt es Teikei (eröffnet 2019) auf Facebook und auf ihrer Website.
+»Teikei Coffee steht für einen gemeinschaftlich getragenen und solidarischen Kaffeeanbau und einen umweltfreundlichen Transport per Segelschiff.« Und: »Als Non-Profit-Organisation erzielen wir keine Gewinne, sondern reinvestieren alles in zukunftsfähige Landwirtschaft und Bildungsarbeit für eine assoziative Zusammenarbeit.« Sagt Teikei (eröffnet 2019).
