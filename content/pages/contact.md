@@ -61,7 +61,7 @@ Wir verarbeiten etwaige personenbezogenen Daten nur zu den in dieser Datenschutz
 
 #### Löschung oder Sperrung von Daten
 
-Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir speichern etwaige personenbezogenen Daten daher nur so lange, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen vielfältigen Speicherfristen vorsehen. Nach Fortfall des jeweiligen Zweckes beziehungsweise Ablauf dieser Fristen werden die entsprechenden Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
+Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir speichern etwaige personenbezogenen Daten daher nur solange, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen vielfältigen Speicherfristen vorsehen. Nach Fortfall des jeweiligen Zweckes beziehungsweise Ablauf dieser Fristen werden die entsprechenden Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
 
 #### Verschlüsselung
 
