@@ -50,6 +50,23 @@ Redirect 301 /apple-touch-icon-precomposed.png https://hhkaffee.com/apple-touch-
 Redirect 301 /cafes/less-political/ https://hhkaffee.com/roestereien/hermetic/
 Redirect 301 /cafes/milch/ https://hhkaffee.com/roestereien/milch/
 Redirect 301 /roestereien/classic-caffee/ https://hhkaffee.com/roestereien/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-april-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-april-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-august-2018/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-august-2018/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-august-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-august-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-dezember-2018/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-dezember-2018/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-februar-2018/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-februar-2018/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-februar-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-februar-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-januar-2018/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-januar-2018/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-januar-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-januar-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-juli-2018/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-juli-2018/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-juli-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-juli-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-juni-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-juni-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-maerz-2018/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-maerz-2018/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-maerz-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-maerz-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-november-2018/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-november-2018/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-november-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-november-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-oktober-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-oktober-2019/
+Redirect 301 /schnack/zur-lage-des-kaffee-in-hamburg-im-september-2019/ https://hhkaffee.com/schnack/zur-lage-des-kaffees-in-hamburg-im-september-2019/
 
 # Course Alterations: P2
 RedirectMatch 301 /artikel/(.*) https://hhkaffee.com/schnack/$1
