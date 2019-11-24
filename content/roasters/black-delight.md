@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/blackdelight/
 locations:
 - address: Friedensallee 32<br>22765 Hamburg
   coordinates: "53.55515,9.92683999999997"
-  hours@: Montag – Freitag 8–18 Uhr<br>Samstag 9–17 Uhr
+  hours@: Montag – Freitag 8–18 Uhr<br>Samstag 10–18 Uhr
   phone: 39807272
 
 coffee: 3,90
