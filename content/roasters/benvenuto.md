@@ -19,4 +19,4 @@ espresso: 1,50
 internet@: nein
 ---
 
-Laut eigener Angabe »seit über 30 Jahren Hamburgs erste Adresse für Original italienischen Espresso und das dazugehörige Equipment«.
+Laut eigener Angabe »seit über 30 Jahren Hamburgs erste Adresse für original italienischen Espresso und das dazugehörige Equipment«.
