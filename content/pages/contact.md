@@ -98,7 +98,7 @@ Für E-Mail benutzen wir Gmail und ProtonMail, jeweils zusätzlich abgesichert d
 
 #### Verschiedenes
 
-Einige Links auf dieser Website sind, um nicht nur auf Informationen und Produkte zu verweisen, sondern auch den Erwerb selbiger zu vereinfachen, sogenannte Affiliate-Links. Wenn Sie auf so einen Affiliate-Link klicken und über diesen Link einkaufen, erhalten wir von dem betreffenden Anbieter eine Provision. Für Sie verändert sich der Preis nicht.
+Einige Links auf dieser Website sind, um nicht nur auf Informationen und Produkte zu verweisen, sondern auch den Erwerb selbiger zu vereinfachen, sogenannte Affiliate-Links. Wenn Sie auf so einen Affiliate-Link klicken und über diesen Link einkaufen, erhalten wir von dem betreffenden Anbieter eine Provision. Für Sie verändert sich dadurch nicht der Preis.
 
 Diese Website verwendet die Google Maps API, um geographische Informationen visuell darzustellen. Bei der Nutzung von Google Maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Beachten Sie [Googles Datenschutzerklärung](https://policies.google.com/privacy).
 
