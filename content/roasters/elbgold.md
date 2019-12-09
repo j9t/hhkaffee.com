@@ -5,7 +5,7 @@ favorite: 1
 
 logo: /media/venues/elbgold.jpg
 email: info@elbgold.com
-website: http://www.elbgold.com/
+website: https://www.elbgold.com/
 twitter: https://twitter.com/elbgold
 facebook: https://www.facebook.com/elbgold
 instagram: https://www.instagram.com/elbgoldkaffee/
