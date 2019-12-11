@@ -21,8 +21,8 @@ views:
 - title@: CODOS von innen.
   image: codos-interior.jpg
 
-coffee: 2
-espresso: 1,80
+coffee: 2,20
+espresso: 1,90
 internet@: ja
 ---
 
