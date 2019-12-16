@@ -3,7 +3,7 @@ $title@: Teikei
 $date: 2019-10-09
 
 logo: /media/venues/teikei.png
-email: info@teikeicoffee.org
+email: cafe@teikeicoffee.org
 website: http://teikeicoffee.org/
 facebook: https://www.facebook.com/teikeicoffee
 instagram: https://www.instagram.com/teikeicoffee/
