@@ -20,7 +20,7 @@ locations:
   hours@: Montag – Freitag 9–19 Uhr<br>Samstag 10–18 Uhr<br>Sonntag 10–17 Uhr
 zoom: 9
 
-coffee: 2,50
+coffee: 3,50
 espresso: 2
 internet@: ja
 ---
