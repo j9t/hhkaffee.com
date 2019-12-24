@@ -12,6 +12,9 @@ locations:
   coordinates: "53.5716809,9.958464100000015"
   hours@: Montag – Freitag 8–18 Uhr<br>Samstag/Sonntag 10–17 Uhr 
   phone: 64880078
+- address: Paul-Roosen-Straße 39<br>22767 Hamburg
+  coordinates: "53.55329132080078,9.957418441772461"
+  hours: "\""
 
 coffee: 4,20
 espresso: 1,70
