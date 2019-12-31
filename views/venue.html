@@ -5,11 +5,13 @@
     {{doc.html|safe}}
   {% endif %}
   <p>
+    {%- if doc.roaster %}Rösterei&nbsp;<span>🌱</span>{% if (doc.favorite or doc.candidate) %} · {% endif %}{% endif %}
+    {%- if doc.favorite %}HH-Kaffee-Favorit&nbsp;<span>★</span>{% if doc.candidate %} · {% endif %}{% endif %}
+    {%- if doc.candidate %}HH-Kaffee-Kandidat&nbsp;<span>�</span>{% endif %}
+    {% if (doc.roaster or doc.favorite or doc.candidate) %}<br>{% endif %}
     {%- if doc.coffee %}{{_('Filterkaffee ab')}} {{doc.coffee}}&nbsp;€ · {% endif %}
     {%- if doc.espresso %}{{_('Espresso')}} {{doc.espresso}}&nbsp;€ · {% endif %}
     {{-_('WLAN:')}} {{doc.internet}}
-    {%- if doc.favorite %} · HH-Kaffee-Favorit&nbsp;<span>★</span>{% endif %}
-    {%- if doc.candidate %} · HH-Kaffee-Kandidat&nbsp;<span>�</span>{% endif %}
   {# @@ Price and promote option #}
   {% if doc.promo %}
     <div id=promo>{{doc.promo|markdown|safe}}</div>

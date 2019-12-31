@@ -4,7 +4,7 @@ $titles:
   nav@: Kontakt
 $view: /views/contact.html
 $path@: /kontakt/
-$order: 5
+$order: 4
 
 logo: /media/logo-alt.png
 email: info@hhkaffee.com
@@ -27,7 +27,7 @@ Zur Online-Streitbeilegung gemäß Art.&nbsp;14 Abs.&nbsp;1 ODRVO stellt die Eur
 
 Alle Rechte vorbehalten.
 
-Die Logos und Fotos aufgeführter [Röstereien]([url('/content/pages/roasters.md')]) und [Cafés]([url('/content/pages/cafes.md')]) sind Eigentum der jeweiligen Röstereien und Cafés.
+Die Logos und Fotos aufgeführter [Cafés und Röstereien]([url('/content/pages/cafes.md')]) sind Eigentum der jeweiligen Cafés und Röstereien.
 
 ### Datenschutzerklärung
 

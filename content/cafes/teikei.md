@@ -1,6 +1,7 @@
 ---
 $title@: Teikei
 $date: 2019-10-09
+roaster: 1
 
 logo: /media/venues/teikei.png
 email: cafe@teikeicoffee.org

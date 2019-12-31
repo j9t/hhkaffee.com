@@ -1,6 +1,7 @@
 ---
 $title@: Black Delight
 $date: 2018-01-11
+roaster: 1
 
 logo: /media/venues/black-delight.png
 email: info@blackdelight.de

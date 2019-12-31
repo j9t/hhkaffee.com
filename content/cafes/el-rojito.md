@@ -1,6 +1,7 @@
 ---
 $title@: el rojito
 $date: 2018-01-23
+roaster: 1
 
 logo: /media/venues/el-rojito.jpg
 email: kaffee@el-rojito.de
