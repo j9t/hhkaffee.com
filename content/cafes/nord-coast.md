@@ -1,6 +1,7 @@
 ---
 $title@: Nord Coast Coffee Roastery
 $date: 2017-10-01
+roaster: 1
 favorite: 1
 
 logo: /media/venues/nord-coast.jpg

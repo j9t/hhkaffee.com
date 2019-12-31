@@ -1,6 +1,7 @@
 ---
 $title@: HERMETIC
 $date: 2017-10-03
+roaster: 1
 
 logo: /media/venues/hermetic.jpg
 email: info@hermeticcoffee.com

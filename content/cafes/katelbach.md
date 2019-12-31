@@ -1,6 +1,7 @@
 ---
 $title@: Katelbach
 $date: 2018-02-01
+roaster: 1
 candidate: 1
 
 logo: /media/venues/katelbach.jpg

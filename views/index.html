@@ -6,18 +6,24 @@
   {% endif %}
   <div id=stage>
     <section>
-      <h2>{{_('Hamburger Röstereien')}}</h2>
-      <a href={{g.url('/content/roasters/elbgold.md').path}}><img src={{g.doc('/content/roasters/elbgold.md').logo}} alt="{{g.doc('/content/roasters/elbgold.md').title}}"></a>
-      <p>{{_('Einer unserer Favoriten:')}} <a href={{g.url('/content/roasters/elbgold.md').path}}>{{g.doc('/content/roasters/elbgold.md').title}}</a>
-      <p>{{_('Auch dabei:')}} <a href={{g.url('/content/roasters/hunt.md').path}}>{{g.doc('/content/roasters/hunt.md').title}}</a>
-      <p>⚐ <a href={{g.url('/content/pages/roasters.md').path}}>{{_('Alle Röstereien')}}</a>
+      <h2>{{_('Letzte Neuzugänge')}}</h2>
+      {% for posts in g.docs('cafes', order_by='date', reverse=True)[0:1] %}<a href={{posts.url.path}}><img src={{posts.logo}} alt="{{posts.title}}"></a>{% endfor %}
+      <ul>
+        {% for posts in g.docs('cafes', order_by='date', reverse=True)[0:5] %}
+        <li><a href={{posts.url.path}}>{{posts.title}}</a>
+        {% endfor %}
+      </ul>
     </section>
     <section>
-      <h2>{{_('Hamburger Cafés')}}</h2>
-      <a href={{g.url('/content/cafes/tornqvist.md').path}}><img src={{g.doc('/content/cafes/tornqvist.md').logo}} alt="{{g.doc('/content/cafes/tornqvist.md').title}}"></a>
-      <p>{{_('Einer unserer Favoriten:')}} <a href={{g.url('/content/cafes/tornqvist.md').path}}>{{g.doc('/content/cafes/tornqvist.md').title}}</a>
-      <p>{{_('Auch dabei:')}} <a href={{g.url('/content/cafes/balz-und-balz.md').path}}>{{g.doc('/content/cafes/balz-und-balz.md').title}}</a>
-      <p>⚐ <a href={{g.url('/content/pages/cafes.md').path}}>{{_('Alle Cafés')}}</a>
+      <h2>{{_('Favoriten')}}</h2>
+      <a href={{g.url('/content/cafes/elbgold.md').path}}><img src={{g.doc('/content/cafes/elbgold.md').logo}} alt="{{g.doc('/content/cafes/elbgold.md').title}}"></a>
+      <ul>
+        <li><a href={{g.url('/content/cafes/elbgold.md').path}}>{{g.doc('/content/cafes/elbgold.md').title}}</a>
+        <li><a href={{g.url('/content/cafes/hunt.md').path}}>{{g.doc('/content/cafes/hunt.md').title}}</a>
+        <li><a href={{g.url('/content/cafes/tornqvist.md').path}}>{{g.doc('/content/cafes/tornqvist.md').title}}</a>
+        <li><a href={{g.url('/content/cafes/nord-coast.md').path}}>{{g.doc('/content/cafes/nord-coast.md').title}}</a>
+        <li><a href={{g.url('/content/cafes/stockholm-espresso-club.md').path}}>{{g.doc('/content/cafes/stockholm-espresso-club.md').title}}</a>
+      </ul>
     </section>
     <section>
       <h2>{{_('Neuigkeiten und Meinungen')}}</h2>
@@ -38,7 +44,7 @@
     'locations': {},
     'use_links': True,
   } %}
-  {% set all_items = (g.collection('roasters').docs() | list) + (g.collection('cafes').docs() | list) %}
+  {% set all_items = (g.collection('cafes').docs() | list) %}
   {% for map_doc in all_items %}
     {% do map_data['locations'].update({
       map_doc.title: {

@@ -1,6 +1,7 @@
 ---
 $title@: kopiba
 $date: 2017-11-14
+roaster: 1
 candidate: 1
 
 logo: /media/venues/kopiba.png
@@ -20,4 +21,4 @@ espresso: 2,10
 internet@: ja
 ---
 
-Die kopiba (eröffnet 2009) ist die Rösterei mit dem »Deathpresso«: »Wir rösten alle Kaffees sortenrein in der schonenden und aroma-intensiven Langzeit-Trommelröstung auf einem erdgasbetriebenen Probat-Trommelröster mit einer Trommel aus den 60er Jahren.«
+kopiba (eröffnet 2009) ist die Rösterei mit dem »Deathpresso«: »Wir rösten alle Kaffees sortenrein in der schonenden und aroma-intensiven Langzeit-Trommelröstung auf einem erdgasbetriebenen Probat-Trommelröster mit einer Trommel aus den 60er Jahren.«

@@ -1,6 +1,7 @@
 ---
 $title@: elbgold
 $date: 2017-09-25
+roaster: 1
 favorite: 1
 
 logo: /media/venues/elbgold.jpg

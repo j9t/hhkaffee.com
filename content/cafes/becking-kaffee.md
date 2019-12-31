@@ -1,6 +1,7 @@
 ---
 $title@: Becking Kaffee
 $date: 2017-12-13
+roaster: 1
 candidate: 1
 
 logo: /media/venues/becking-kaffee.jpg

@@ -1,6 +1,7 @@
 ---
 $title@: Benvenuto
 $date: 2017-11-27
+roaster: 1
 
 logo: /media/venues/benvenuto.jpg
 email: kontakt@benvenuto-hamburg.de

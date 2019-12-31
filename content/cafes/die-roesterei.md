@@ -1,6 +1,7 @@
 ---
 $title@: Die Rösterei
 $date: 2017-09-25
+roaster: 1
 
 logo: /media/venues/die-roesterei.jpg
 email: info@dieroesterei.de

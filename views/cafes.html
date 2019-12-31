@@ -6,7 +6,7 @@
   {% endif %}
   <ul id=venues>
     {% for cafe in g.docs('cafes')|sort(attribute='title') %}
-    <li><a href={{cafe.url.path}}>{{cafe.title}}</a>{% if cafe.favorite %}&nbsp;<span>★</span>{% endif %}{% if cafe.candidate %}&nbsp;<span>�</span>{% endif %}
+    <li><a href={{cafe.url.path}}>{{cafe.title}}</a>{% if cafe.roaster %}&nbsp;<span>🌱</span>{% endif %}{% if cafe.favorite %}&nbsp;<span>★</span>{% endif %}{% if cafe.candidate %}&nbsp;<span>�</span>{% endif %}
     {% endfor %}
   </ul>
   {% set map_data = {

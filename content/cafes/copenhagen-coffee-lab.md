@@ -1,6 +1,7 @@
 ---
 $title@: Copenhagen Coffee Lab
 $date: 2019-12-09
+roaster: 1
 
 logo: /media/venues/copenhagen-coffee-lab.png
 website: http://copenhagencoffeelab.com/

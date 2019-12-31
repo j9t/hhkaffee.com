@@ -1,6 +1,7 @@
 ---
 $title@: Hunt Coffee Roasters
 $date: 2019-01-14
+roaster: 1
 favorite: 1
 
 logo: /media/venues/hunt.jpg

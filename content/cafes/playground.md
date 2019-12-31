@@ -1,6 +1,7 @@
 ---
 $title@: Playground Coffee
 $date: 2017-10-31
+roaster: 1
 
 logo: /media/venues/playground-coffee.png
 email: info@playground-coffee.com

@@ -1,6 +1,7 @@
 ---
 $title@: Surf Shop Roastery
 $date: 2019-09-29
+roaster: 1
 
 logo: /media/venues/surf-shop-roastery.png
 email: mail@surfshoproastery.de
