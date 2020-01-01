@@ -5,4 +5,4 @@ $order: 1
 $slug: cafes
 ---
 
-Vielleicht die umfassendste Auswahl herausragender Hamburger Cafés und Röstereien (<span>🌱</span>).
+Vielleicht die umfassendste Auswahl herausragender Hamburger Cafés und Röstereien.
