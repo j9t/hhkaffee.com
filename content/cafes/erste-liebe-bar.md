@@ -2,6 +2,7 @@
 $title@: erste liebe bar
 $date: 2018-04-27
 candidate: 1
+$hidden: true
 
 logo: /media/venues/erste-liebe-bar.jpg
 email: info@ersteliebebar.de
