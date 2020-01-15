@@ -1,6 +1,7 @@
 ---
 $title@: ÆNDRÈ
 $date: 2020-01-15
+candidate: 1
 
 logo: /media/venues/aendre.png
 email: hi@aendre.de
