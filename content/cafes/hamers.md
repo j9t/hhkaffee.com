@@ -2,6 +2,7 @@
 $title@: HAMER’s
 $date: 2018-08-16
 $slug: hamers
+candidate: 1
 
 logo: /media/venues/hamers.png
 email: info@cafe-hamers.de
