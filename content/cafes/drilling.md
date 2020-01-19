@@ -1,7 +1,6 @@
 ---
 $title@: Drilling
 $date: 2019-02-12
-candidate: 1
 
 logo: /media/venues/drilling.jpg
 email: info@clockers.hamburg
