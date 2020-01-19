@@ -5,4 +5,4 @@ $order: 1
 $slug: cafes
 ---
 
-Vielleicht die umfassendste Auswahl herausragender Hamburger Cafés und Röstereien (und Restaurants, die guten Kaffee ausschenken).
+Vielleicht die umfassendste Auswahl herausragender Hamburger Cafés und Röstereien (und Restaurants, die guten Kaffee ausschenken). Tradition, Third Wave, Specialty Coffee – Hamburg hat alles zu bieten.
