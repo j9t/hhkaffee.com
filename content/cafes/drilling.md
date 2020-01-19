@@ -17,7 +17,7 @@ views:
 - title@: Drilling von innen.
   image: drilling-interior.jpg
 
-coffee: 4,50
+coffee: 2,50
 espresso: 2
 internet@: ja
 ---
