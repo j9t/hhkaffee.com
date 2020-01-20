@@ -11,10 +11,13 @@ instagram: https://www.instagram.com/cphcoffeelab/
 locations:
 - address: Eppendorfer Landstraße 4<br>20249 Hamburg
   coordinates: "53.585129,9.9821747"
-  hours@: Montag – Freitag 7:30–19 Uhr<br>Samstag/Sonntag 8:30–18 Uhr
+  hours@: Montag – Freitag 7–18 Uhr<br>Samstag/Sonntag 8:30–18 Uhr
+- address: Kleiner Schäferkamp 58<br>20357 Hamburg
+  coordinates: "53.56592444843102,9.966196791036047"
+  hours: "\""
 
 coffee: 3
-espresso: 2,20
+espresso: 2,60
 internet@: ja
 ---
 
