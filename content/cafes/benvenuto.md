@@ -2,13 +2,12 @@
 $title@: Benvenuto
 $date: 2017-11-27
 roaster: 1
+candidate: 1
 
 logo: /media/venues/benvenuto.jpg
 email: kontakt@benvenuto-hamburg.de
 website: https://www.benvenuto-hamburg.de/
 twitter: https://twitter.com/benvenutocaffe
-facebook: https://www.facebook.com/benvenutocaffeditalia
-instagram: https://www.instagram.com/ilovebenvenuto/
 
 locations:
 - address: Heinrich-Barth-Straße 15<br>20146 Hamburg
