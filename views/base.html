@@ -2,6 +2,7 @@
 <html lang={{doc.locale}}>
   <meta charset=utf-8>
   <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  {%+ block description %}{% endblock %}
   <meta name=twitter:card content=summary>
   <meta name=twitter:title content="{{doc.title}} · {{podspec.title}}">
   <meta name=twitter:image content=https://hhkaffee.com{{g.static('/source/media/logo-social.png').url.path}}>

@@ -1,5 +1,9 @@
 {% extends "/views/base.html" %}
 
+{% block description -%}
+  <meta name=description content="Finde schnell einen guten Kaffee: HH Kaffee ist die Website für die besten Cafés und Röstereien in Hamburg. Mit Neuigkeiten und Meinungen, zu Kaffee in Hamburg und zu Kaffee allgemein.">
+{% endblock %}
+
 {% block main %}
   {% if doc.html %}
     {{doc.html|safe}}
