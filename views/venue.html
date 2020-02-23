@@ -5,12 +5,12 @@
     {{doc.html|safe}}
   {% endif %}
   <p>
-    {%- if doc.roaster %}Rösterei · {% endif %}
-    {%- if doc.coffee %}{{_('Filterkaffee ab')}} {{doc.coffee}}&nbsp;€ · {% endif %}
-    {%- if doc.espresso %}{{_('Espresso')}} {{doc.espresso}}&nbsp;€ · {% endif %}
-    {{-_('WLAN:')}} {{doc.internet}}
-    {%- if doc.favorite %} · HH-Kaffee-Favorit&nbsp;<span>★</span>{% endif %}
-    {%- if doc.candidate %} · HH-Kaffee-Kandidat&nbsp;<span>�</span>{% endif %}
+    {% if doc.roaster %}Rösterei · {% endif %}
+    {% if doc.coffee %}{{_('Filterkaffee ab')}} {{doc.coffee}}&nbsp;€ · {% endif %}
+    {% if doc.espresso %}{{_('Espresso')}} {{doc.espresso}}&nbsp;€ · {% endif %}
+    {{_('WLAN:')}} {{doc.internet}}
+    {% if doc.favorite %} · HH-Kaffee-Favorit&nbsp;<span>★</span>{% endif %}
+    {% if doc.candidate %} · HH-Kaffee-Kandidat&nbsp;<span>�</span>{% endif %}
   {# @@ Price and promote option #}
   {% if doc.promo %}
     <div id=promo>{{doc.promo|markdown|safe}}</div>
@@ -37,17 +37,17 @@
     <div id=views>
       {% for view in doc.views %}
       <img src={{g.static('/source/media/venues/' + view.image).url.path}} alt="{{_(view.title)}}" loading=lazy>
-      {% endfor%}
+      {% endfor %}
       <p>({{_('Copyright')}} {{doc.title}})
     </div>
-  {% endif%}
+  {% endif %}
   {% if doc.locations %}
     <h2 id=locations>{{_('Adressen und Öffnungszeiten')}}</h2>
     <ul>
       {% for location in doc.locations %}
       <li>
         <p><a href=https://www.google.de/maps/place/{{location.address|replace('<br>', ', ')|replace(' ', '%20')}}>{{location.address|safe}}</a>
-        {%- if location.phone -%}
+        {% if location.phone %}
         <br><a href=tel:+49-40-{{location.phone|safe}}>040-{{location.phone|safe}}</a>
         {% endif %}
         {% if location.hours %}

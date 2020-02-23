@@ -2,7 +2,7 @@
 <html lang={{doc.locale}}>
   <meta charset=utf-8>
   <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  {%+ block description %}{% endblock %}
+  {% block description %}{% endblock %}
   <meta name=twitter:card content=summary>
   <meta name=twitter:title content="{{doc.title}} · {{podspec.title}}">
   <meta name=twitter:image content=https://hhkaffee.com{{g.static('/source/media/logo-social.png').url.path}}>
@@ -11,16 +11,16 @@
   <link rel=stylesheet href={{g.static('/source/setup/default.min.css').url.path}}>
   <link rel=alternate href={{g.url('/content/pages/feed.yaml').path}} type=application/rss+xml title="{{_('Alle Beiträge')}}">
   <link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
-  {%+ if doc != g.doc('/content/pages/index.md') %}<link rel=prerender href=/>{% endif %}
+  {% if doc != g.doc('/content/pages/index.md') %}<link rel=prerender href=/>{% endif %}
   <header>
-    {%+ if doc != g.doc('/content/pages/index.md') %}<a href={{g.doc('/content/pages/index.md').url.path}}>{% endif %}<img src={{g.static('/source/media/logo.png').url.path}} alt="{{podspec.title}}">{% if doc != g.doc('/content/pages/index.md') %}</a>{% endif %}
+    {% if doc != g.doc('/content/pages/index.md') %}<a href={{g.doc('/content/pages/index.md').url.path}}>{% endif %}<img src={{g.static('/source/media/logo.png').url.path}} alt="{{podspec.title}}">{% if doc != g.doc('/content/pages/index.md') %}</a>{% endif %}
     <nav>
       <ul>
         {% for page in g.docs('pages') if page != podspec.home %}
         <li>
-          {%- if doc == page -%}
+          {% if doc == page %}
             {{page.titles('nav')|safe}}
-          {%- else -%}
+          {% else %}
             <a href={{page.url.path}}>{{page.titles('nav')|safe}}</a>
           {% endif %}
         {% endfor %}
@@ -41,5 +41,5 @@
   </div>
   <footer>
     {{podspec.description}}
-    {%- block update %}{% endblock %}
+    {% block update %}{% endblock %}
   </footer>
