@@ -2,7 +2,6 @@
 $title@: Café Leonar
 $date: 2018-01-29
 candidate: 1
-$hidden: true
 
 logo: /media/venues/cafe-leonar.png
 email: cafe@cafeleonar.de
