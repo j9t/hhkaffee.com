@@ -13,7 +13,7 @@
   <link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
   {% if doc != g.doc('/content/pages/index.md') %}<link rel=prerender href=/>{% endif %}
   <div id=notification>
-    <p>{{_('Coronavirus: Bleibt bitte zuhause und tut etwas für die Hamburger Cafés und Röstereien, indem ihr online bestellt und sie online unterstützt. Danke, und bleibt gesund! (Beachtet <a href=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public>was sonst wichtig ist</a>.)')}}
+    <p>{{_('Coronavirus: Bleibt bitte zuhause und tut etwas für die Hamburger Cafés und Röstereien, indem ihr online bestellt und sie online unterstützt. Danke, und bleibt gesund! (Beachtet <a href=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public>was sonst wichtig&nbsp;ist</a>.)')}}
   </div>
   <header>
     {% if doc != g.doc('/content/pages/index.md') %}<a href={{g.doc('/content/pages/index.md').url.path}}>{% endif %}<img src={{g.static('/source/media/logo.png').url.path}} alt="{{podspec.title}}">{% if doc != g.doc('/content/pages/index.md') %}</a>{% endif %}
