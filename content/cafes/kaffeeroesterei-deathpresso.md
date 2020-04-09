@@ -4,7 +4,7 @@ $date: 2017-11-14
 roaster: 1
 candidate: 1
 
-logo: /media/venues/deathpresso.png
+logo: /media/venues/kaffeeroesterei-deathpresso.png
 email: info@deathpresso.de
 website: https://deathpresso.de/
 twitter: https://twitter.com/kopiba

@@ -4,7 +4,7 @@ $date: 2017-10-27
 roaster: 1
 candidate: 1
 
-logo: /media/venues/maya.png
+logo: /media/venues/maya-kaffeeroesterei.png
 email: info@mayakaffeeroesterei.de
 website: http://www.mayakaffeeroesterei.de/
 facebook: https://www.facebook.com/mayakaffeeroesterei
