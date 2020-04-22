@@ -182,6 +182,18 @@ div#stage + div#map {
 	margin-top: 2em;
 }
 
+blockquote,
+h2#locations + ul,
+h2#websites + ul,
+ul,
+ol {
+	padding: 0;
+}
+
+blockquote {
+	margin: 1em;
+}
+
 div#social,
 div#notification,
 div#views p,
@@ -260,13 +272,6 @@ h2 {
 	font-size: 1.5em;
 	line-height: 1.33;
 	margin: 1em 0 .67em;
-}
-
-h2#locations + ul,
-h2#websites + ul,
-ul,
-ol {
-	padding: 0;
 }
 
 h2#locations + ul li {
