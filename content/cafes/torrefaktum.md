@@ -5,7 +5,7 @@ roaster: 1
 
 logo: /media/venues/torrefaktum.jpg
 email: info@torrefaktum.de
-website: http://torrefaktum.de/
+website: https://torrefaktum.de/
 twitter: https://twitter.com/torrefaktum
 facebook: https://www.facebook.com/torrefaktum
 instagram: https://www.instagram.com/torrefaktum/

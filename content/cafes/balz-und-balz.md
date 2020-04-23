@@ -4,7 +4,7 @@ $date: 2017-11-09
 
 logo: /media/venues/balz-und-balz.jpg
 email: hello@balzundbalz.de
-website: http://balzundbalz.de/
+website: https://balzundbalz.de/
 facebook: https://www.facebook.com/BalzundBalz
 instagram: https://www.instagram.com/balzundbalz/
 

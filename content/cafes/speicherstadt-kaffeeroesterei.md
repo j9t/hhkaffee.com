@@ -5,7 +5,7 @@ roaster: 1
 
 logo: /media/venues/speicherstadt-kaffeeroesterei.jpg
 email: info@speicherstadt-kaffee.de
-website: http://www.speicherstadt-kaffee.de/
+website: https://www.speicherstadt-kaffee.de/
 facebook: https://www.facebook.com/speicherstadtkaffee
 instagram: https://www.instagram.com/speicherstadt_kaffee/
 

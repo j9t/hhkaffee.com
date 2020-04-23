@@ -5,7 +5,7 @@ favorite: 1
 
 logo: /media/venues/tornqvist.png
 email: hello@tornqvistcoffee.com
-website: http://tornqvistcoffee.com/
+website: https://tornqvistcoffee.com/
 twitter: https://twitter.com/TORNQVISTCOFFEE
 facebook: https://www.facebook.com/visit.tornqvist
 instagram: https://www.instagram.com/tornqvistcoffee/

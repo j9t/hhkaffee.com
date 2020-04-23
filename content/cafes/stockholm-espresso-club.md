@@ -5,7 +5,7 @@ favorite: 1
 
 logo: /media/venues/stockholm-espresso-club.jpg
 email: info@stockholmespressoclub.de
-website: http://stockholmespressoclub.de/
+website: https://stockholmespressoclub.de/
 facebook: https://www.facebook.com/stockholmespressoclub
 instagram: https://www.instagram.com/stockholmespressoclub/
 

@@ -5,7 +5,7 @@ roaster: 1
 
 logo: /media/venues/black-delight.png
 email: info@blackdelight.de
-website: http://blackdelight.de/
+website: https://www.blackdelight.de/
 twitter: https://twitter.com/blackdelight_de
 facebook: https://www.facebook.com/blackdelightkaffee
 instagram: https://www.instagram.com/blackdelight/

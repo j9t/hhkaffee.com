@@ -5,7 +5,7 @@ roaster: 1
 
 logo: /media/venues/surf-shop-roastery.png
 email: mail@surfshoproastery.de
-website: http://www.surfshoproastery.de/
+website: https://surfshoproastery.com/
 facebook: https://www.facebook.com/surfshoproasteryhamburg
 instagram: https://www.instagram.com/surfshoproastery/
 

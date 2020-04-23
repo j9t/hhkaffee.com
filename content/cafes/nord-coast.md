@@ -6,7 +6,7 @@ favorite: 1
 
 logo: /media/venues/nord-coast.jpg
 email: ahoi@nordcoast-coffee.de
-website: http://www.nordcoast-coffee.de/
+website: https://www.nordcoast-coffee.de/
 facebook: https://www.facebook.com/Nord-Coast-Coffee-Roastery-1610702029193222/
 instagram: https://www.instagram.com/nordcoastcoffee/
 

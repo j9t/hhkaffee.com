@@ -5,7 +5,7 @@ candidate: 1
 
 logo: /media/venues/cafe-leonar.png
 email: cafe@cafeleonar.de
-website: http://cafeleonar.de/
+website: https://cafeleonar.de/
 facebook: https://www.facebook.com/cafeleonar
 instagram: https://www.instagram.com/cafeleonar/
 

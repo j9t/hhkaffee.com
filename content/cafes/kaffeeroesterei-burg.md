@@ -5,7 +5,7 @@ roaster: 1
 
 logo: /media/venues/kaffeeroesterei-burg.jpg
 email: info@kaffeeroesterei-burg.de
-website: http://www.kaffeeroesterei-burg.de/
+website: https://kaffeeroesterei-burg.de/
 facebook: https://www.facebook.com/kaffeeroestereiburg/
 
 locations:

@@ -6,7 +6,7 @@ candidate: 1
 
 logo: /media/venues/maya-kaffeeroesterei.png
 email: info@mayakaffeeroesterei.de
-website: http://www.mayakaffeeroesterei.de/
+website: https://www.mayakaffeeroesterei.de/
 facebook: https://www.facebook.com/mayakaffeeroesterei
 instagram: https://www.instagram.com/mayakaffeeroesterei/
 

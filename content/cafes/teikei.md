@@ -5,7 +5,7 @@ roaster: 1
 
 logo: /media/venues/teikei.png
 email: cafe@teikeicoffee.org
-website: http://teikeicoffee.org/
+website: https://teikeicoffee.org/
 facebook: https://www.facebook.com/teikeicoffee
 instagram: https://www.instagram.com/teikeicoffee/
 

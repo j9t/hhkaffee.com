@@ -4,7 +4,7 @@ $date: 2019-12-09
 roaster: 1
 
 logo: /media/venues/copenhagen-coffee-lab.png
-website: http://copenhagencoffeelab.com/
+website: https://copenhagencoffeelab.com/
 facebook: https://www.facebook.com/cphcoffeelab
 instagram: https://www.instagram.com/cphcoffeelab/
 
