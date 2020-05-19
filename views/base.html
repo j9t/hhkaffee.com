@@ -13,7 +13,7 @@
   <link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
   {% if doc != g.doc('/content/pages/index.md') %}<link rel=prerender href=/>{% endif %}
   <div id=notification>
-    <p>{{_('Coronavirus: Bleibt vorsichtig und rücksichtsvoll. Zu den Daten auf HH Kaffee: Viele Öffnungszeiten sind momentan eingeschränkt.')}}
+    <p>{{_('Coronavirus: Bleibt vorsichtig und rücksichtsvoll. Zu den Daten auf HH Kaffee: Viele Öffnungszeiten sind momentan&nbsp;eingeschränkt.')}}
   </div>
   <header>
     {% if doc != g.doc('/content/pages/index.md') %}<a href={{g.doc('/content/pages/index.md').url.path}}>{% endif %}<img src={{g.static('/source/media/logo.png').url.path}} alt="{{podspec.title}}">{% if doc != g.doc('/content/pages/index.md') %}</a>{% endif %}
