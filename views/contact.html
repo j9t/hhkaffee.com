@@ -3,23 +3,7 @@
 {% block main %}
   {{doc.contact|safe}}
   <h2 id=websites>{{podspec.title}} {{_('online')}}</h2>
-  <ul>
-    {% if doc.website %}
-      <li><a href={{doc.website}}>{{_('Website')}}</a>
-    {% endif %}
-    {% if doc.twitter %}
-      <li><a href={{doc.twitter}}>{{_('Twitter')}}</a>
-    {% endif %}
-    {% if doc.facebook %}
-      <li><a href={{doc.facebook}}>{{_('Facebook')}}</a>
-    {% endif %}
-    {% if doc.instagram %}
-      <li><a href={{doc.instagram}}>{{_('Instagram')}}</a>
-    {% endif %}
-    {% if doc.email %}
-      <li><a href=mailto:{{doc.email}}>{{_('E-Mail')}}</a>
-    {% endif %}
-  </ul>
+  {% include '/partials/websites/index.html' %}
   {% if doc.html %}
     {{doc.html|safe}}
   {% endif %}
