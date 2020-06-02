@@ -8,7 +8,7 @@ logo: /media/logo-alt.png
 website: /
 ---
 
-HH Kaffee wollte eigentlich ein Kaffeevertrieb werden. Im Juli 2017 dachten [Jens](https://meiert.com/) und [Dieke](http://www.diekemeyer.com/) über eine Zusammenarbeit nach und da das über einem Kaffee geschah, bei [elbgold]([url('/content/cafes/elbgold.md')]), und Jens sich vorher viel mit Hamburger Röstereien und Cafés und Dieke mit einigen ähnlichen Geschäftsideen beschäftigt hatte, kam die Idee auf, doch etwas mit Kaffee zu machen, und dem Vertrieb von Kaffee.
+HH Kaffee wollte eigentlich ein Kaffeevertrieb werden. Im Juli 2017 dachten [Jens](https://meiert.com/) und [Dieke](https://www.diekemeyer.com/) über eine Zusammenarbeit nach und da das über einem Kaffee geschah, bei [elbgold]([url('/content/cafes/elbgold.md')]), und Jens sich vorher viel mit Hamburger Röstereien und Cafés und Dieke mit einigen ähnlichen Geschäftsideen beschäftigt hatte, kam die Idee auf, doch etwas mit Kaffee zu machen, und dem Vertrieb von Kaffee.
 
 (Eigentlich mit Tee, aber daraus wurde schnell Kaffee und Tee, und so etwas wie »Meyer und Meiert Kaffee und Tee«, und dann doch wieder nur Kaffee.)
 
