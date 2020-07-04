@@ -19,7 +19,7 @@ contact: HH Kaffee<br>c/o <a href=https://meiert.com/>Jens Oliver Meiert</a><br>
 
 Verantwortlich für journalistisch-redaktionelle Inhalte gemäß §&nbsp;55 II RStV: Jens Oliver Meiert. Alle Angaben ohne Gewähr.
 
-Steuernummer: 43/157/03153.
+Steuernummer: 48/157/00835.
 
 Zur Online-Streitbeilegung gemäß Art.&nbsp;14 Abs.&nbsp;1 ODRVO stellt die Europäische Kommission eine [Plattform](https://ec.europa.eu/consumers/odr/) bereit.
 
