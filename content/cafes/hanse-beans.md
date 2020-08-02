@@ -11,9 +11,9 @@ instagram: https://www.instagram.com/hansebeans/
 locations:
 - address: Fröbelstraße 2<br>20146 Hamburg
   coordinates: "53.5654,9.98348999999996"
-  hours@: Montag – Freitag 9–18 Uhr
+  hours@: Montag – Freitag 11–17 Uhr
 
-espresso: 1,70
+espresso: 1,90
 internet@: ja
 ---
 
