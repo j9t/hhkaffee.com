@@ -5,16 +5,16 @@ $date: 2017-10-23
 logo: /media/venues/codos.jpg
 email: info@codos-hh.de
 facebook: https://www.facebook.com/codos.hh
-instagram: https://www.instagram.com/codoshamburg/
+instagram: https://www.instagram.com/codoscoffee/
 
 locations:
 - address: Bartelsstraße 26<br>20357 Hamburg
   coordinates: "53.5623875,9.964579800000024"
-  hours@: Montag – Freitag 8–18 Uhr<br>Samstag 10–18 Uhr<br>Sonntag 11–17 Uhr
+  hours@: Montag – Freitag 8–18 Uhr<br>Samstag/Sonntag 10–17 Uhr
   phone: 30747334
 - address: Bahrenfelder Straße 156<br>22765 Hamburg
   coordinates: "53.553861,9.928945699999986"
-  hours@: Montag – Freitag 8–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
+  hours@: Montag – Freitag 8–18 Uhr<br>Samstag/Sonntag 9–18 Uhr
   phone: 63739990
 
 views:
