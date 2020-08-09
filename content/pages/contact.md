@@ -102,6 +102,8 @@ Einige Links auf dieser Website sind, um nicht nur auf Informationen und Produkt
 
 Diese Website verwendet die Google Maps API, um geographische Informationen visuell darzustellen. Bei der Nutzung von Google Maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Beachten Sie [Googles Datenschutzerklärung](https://policies.google.com/privacy).
 
+Sporadisch setzt diese Website [Sentry](https://sentry.io/) ein, um die Befolgung von [Sicherheitsrichtlinien](https://de.wikipedia.org/wiki/Content_Security_Policy) zu überprüfen. Dies dient der generellen Sicherheit Ihrer Daten wie auch der Bestätigung von Angaben dieser Datenschutzerklärung, und geschieht nur sporadisch, um sowohl Sicherheit als auch Datenschutz zu stärken. Wie bei anderen externen Diensten auch beachten Sie bei Fragen dazu, wie Sentry Daten verarbeitet, die [Datenschutzerklärung von Sentry](https://sentry.io/privacy/).
+
 #### Änderungen
 
 Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung abzudecken, zum Beispiel bei der Einführung neuer Funktionen. Für Ihren erneuten Besuch gilt jeweils die neue Datenschutzerklärung.
