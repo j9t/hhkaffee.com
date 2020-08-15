@@ -3,7 +3,7 @@ $title@: Kaffeerösterei Burg
 $date: 2018-03-14
 roaster: 1
 
-logo: /media/venues/kaffeeroesterei-burg.jpg
+logo: /media/venues/kaffeeroesterei-burg.png
 email: info@kaffeeroesterei-burg.de
 website: https://kaffeeroesterei-burg.de/
 facebook: https://www.facebook.com/kaffeeroestereiburg/
@@ -11,13 +11,13 @@ facebook: https://www.facebook.com/kaffeeroestereiburg/
 locations:
 - address: St. Annenufer 2<br>20457 Hamburg
   coordinates: "53.5447535,9.996791099999996"
-  hours@: Montag – Sonntag 10–18 Uhr
+  hours@: Dienstag – Sonntag 10–18 Uhr
   phone: 55204258
 - address: Mercado<br>Ottenser Hauptstraße 10<br>22765 Hamburg
   coordinates: "53.5523493,9.932403300000033"
-  hours@: Montag – Mittwoch, Samstag 10–20 Uhr<br>Donnerstag/Freitag 10–21 Uhr
+  hours@: Montag – Samstag 9:30–18 Uhr
 
-coffee: 4,20
+coffee: 2,50
 espresso: 2
 internet@: nein
 ---
