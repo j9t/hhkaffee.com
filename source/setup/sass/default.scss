@@ -300,7 +300,7 @@ h4 {
 	margin: 1em 0 -1em;
 }
 
-h4:after {
+h4::after {
 	content: ':';
 }
 
@@ -386,7 +386,7 @@ span,
 		top: .25em;
 	}
 
-	nav li:nth-last-of-type(3):after {
+	nav li:nth-last-of-type(3)::after {
 		content: '\A';
 		white-space: pre;
 	}
