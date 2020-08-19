@@ -4,6 +4,7 @@ AddCharset utf-8 .js
 AddCharset utf-8 .txt
 AddCharset utf-8 .xml
 AddDefaultCharset utf-8
+AddHandler application/rss+xml .xml
 AddOutputFilterByType DEFLATE application/javascript application/pdf font/eot font/otf font/ttf image/svg+xml image/vnd.microsoft.icon image/x-icon text/css text/html text/javascript text/plain
 AddType font/eot .eot
 AddType font/otf .otf
