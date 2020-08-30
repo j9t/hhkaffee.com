@@ -15,7 +15,7 @@ locations:
   hours@: Montag – Freitag 8:30–19 Uhr<br>Samstag/Sonntag 10–18 Uhr
   phone: 33988298
 
-coffee: 4,40
+coffee: 3
 espresso: 2,20
 internet@: ja
 ---
