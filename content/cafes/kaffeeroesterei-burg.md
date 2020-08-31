@@ -15,7 +15,7 @@ locations:
   phone: 55204258
 - address: Mercado<br>Ottenser Hauptstraße 10<br>22765 Hamburg
   coordinates: "53.5523493,9.932403300000033"
-  hours@: Montag – Samstag 9:30–18 Uhr
+  hours@: Montag – Samstag 9:30–20 Uhr
 
 coffee: 2,50
 espresso: 2
