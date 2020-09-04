@@ -4,8 +4,8 @@ AddCharset utf-8 .js
 AddCharset utf-8 .txt
 AddCharset utf-8 .xml
 AddDefaultCharset utf-8
-AddOutputFilterByType DEFLATE application/javascript application/pdf application/rss+xml font/eot font/otf font/ttf image/svg+xml image/vnd.microsoft.icon image/x-icon text/css text/html text/javascript text/plain
-AddType application/rss+xml .xml
+AddOutputFilterByType DEFLATE application/javascript application/pdf application/rss+xml application/xml font/eot font/otf font/ttf image/svg+xml image/vnd.microsoft.icon image/x-icon text/css text/html text/javascript text/plain text/xml
+AddType application/xml .xml
 AddType font/eot .eot
 AddType font/otf .otf
 AddType font/ttf .ttf
@@ -17,6 +17,7 @@ DefaultLanguage de
 ExpiresActive On
 ExpiresByType application/javascript A129600
 ExpiresByType application/rss+xml A60
+ExpiresByType application/xml A60
 ExpiresByType font/eot A604800
 ExpiresByType font/otf A604800
 ExpiresByType font/ttf A604800
@@ -41,6 +42,10 @@ Header always set X-Frame-Options SAMEORIGIN
 	Header always set Feature-Policy "camera 'none'; microphone 'none'; payment 'none'"
 	Header always set Referrer-Policy "strict-origin-when-cross-origin"
 	Header always set X-XSS-Protection "1; mode=block"
+</FilesMatch>
+
+<FilesMatch "index\.xml$">
+	ForceType application/rss+xml
 </FilesMatch>
 
 # Course Calibration
