@@ -32,6 +32,8 @@ ExpiresByType image/x-icon A604800
 ExpiresByType text/css A129600
 ExpiresByType text/html A60
 ExpiresByType text/javascript A129600
+ExpiresByType text/plain A60
+ExpiresByType text/xml A60
 FileETag All
 Header always edit Set-Cookie (.*) "$1; SameSite=Lax; Secure"
 Header always set X-Content-Type-Options nosniff
