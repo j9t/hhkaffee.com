@@ -1,7 +1,6 @@
 ---
 $title@: ÆNDRÈ
 $date: 2020-01-15
-candidate: 1
 
 logo: /media/venues/aendre.png
 email: hi@aendre.de
@@ -12,7 +11,7 @@ instagram: https://www.instagram.com/_aendre_/
 locations:
 - address: Lehmweg 31a<br>20251 Hamburg
   coordinates: "53.5824423852122,9.979653591462018"
-  hours@: Montag – Freitag 8–20 Uhr<br>Samstag/Sonntag 9–20 Uhr
+  hours@: Montag – Sonntag 9–18 Uhr
 
 espresso: 2
 internet@: ja
