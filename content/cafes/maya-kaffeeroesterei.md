@@ -2,7 +2,6 @@
 $title@: MAYA Kaffeerösterei
 $date: 2017-10-27
 roaster: 1
-candidate: 1
 
 logo: /media/venues/maya-kaffeeroesterei.png
 email: info@mayakaffeeroesterei.de
@@ -17,7 +16,7 @@ locations:
   phone: 63664554
 - address: Borgweg 15<br>22303 Hamburg
   coordinates: "53.59094289999999,10.01521809999997"
-  hours@: Montag – Freitag 7–18 Uhr<br>Samstag/Sonntag 9–18 Uhr
+  hours@: Montag – Freitag 7–16:30 Uhr<br>Samstag/Sonntag 9–17 Uhr
   phone: 23686968
 
 coffee: 2,50
