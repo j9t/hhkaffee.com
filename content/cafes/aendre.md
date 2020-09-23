@@ -17,4 +17,4 @@ espresso: 2
 internet@: ja
 ---
 
-Das ÆNDRÈ wurde 2019 eröffnet und hat neben guter bewusster Küche auch guten Kaffee – von [Black Delight]([url('/content/cafes/black-delight.md')]) (und wenn mit Milch, dann Hafer- oder Mandelmilch).
+Das ÆNDRÈ wurde 2019 eröffnet und hat neben guter bewusster Küche auch guten Kaffee – von [Black Delight]([url('/content/cafes/black-delight.md')]) (und wenn mit Milch, dann Hafer- oder Erbsenmilch).
