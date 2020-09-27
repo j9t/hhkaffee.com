@@ -14,7 +14,7 @@ locations:
   hours@: Montag – Sonntag 9–18 Uhr
   phone: 30391130
 
-espresso: 1,80
+espresso: 1,90
 internet@: ja
 ---
 
