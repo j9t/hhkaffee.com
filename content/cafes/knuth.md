@@ -2,6 +2,7 @@
 $title@: Knuth
 $date: 2020-10-01
 candidate: 1
+$hidden: true
 
 logo: /media/venues/knuth.jpg
 email: hallo@dasknuth.com
