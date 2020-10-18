@@ -1,6 +1,7 @@
 ---
 $title@: Albatros Café
 $date: 2020-10-21
+$hidden: true
 
 logo: /media/venues/albatros-cafe.png
 email: albatroshamburg@mail.de
