@@ -2,7 +2,7 @@
 
 {% block main %}
   {% if doc.archive %}
-    <div id=archive>{{doc.archive|markdown|safe}}</div>
+    <div id=archive>{{_('Dies ist eine Archivseite.')}} {{doc.archive|safe}}</div>
   {% endif %}
   {% if doc.html %}
     {{doc.html|safe}}
