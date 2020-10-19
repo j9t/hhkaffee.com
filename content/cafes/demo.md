@@ -22,4 +22,4 @@ internet@: ja
 promo: "Unser Angebot der Woche: Köstliche Waffeln für nur 3,50 Euro (anstatt 5,50)! [Zum Angebot.](https://example.com/)"
 ---
 
-Dies ist das Demo-Café von HH Kaffee. Hier geht es nur darum, ein paar Sachen zu zeigen, die auf HH Kaffee möglich sind.
+Dies ist das Demo-Café von HH Kaffee. Hier geht es darum, ein paar Sachen zu zeigen, die auf HH Kaffee möglich sind.
