@@ -1,6 +1,9 @@
 {% extends "/views/base.html" %}
 
 {% block main %}
+  {% if doc.archive %}
+    <div id=archive>{{doc.archive|markdown|safe}}</div>
+  {% endif %}
   {% if doc.html %}
     {{doc.html|safe}}
   {% endif %}

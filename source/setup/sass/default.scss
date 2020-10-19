@@ -205,6 +205,7 @@ div#social,
 div#notification,
 div#map,
 div#promo,
+div#archive,
 div#views img,
 img.product {
 	border-radius: 2px;
@@ -250,9 +251,14 @@ div#views img {
 	max-width: calc(100% - 4px);
 }
 
-div#promo {
-	border-left: 2px solid #e30613;
+div#promo,
+div#archive {
+	border-left: 2px solid;
 	padding-left: 1em;
+}
+
+div#promo {
+	border-color: #e30613;
 }
 
 h1,
