@@ -1,7 +1,6 @@
 ---
 $title@: Albatros Café
 $date: 2020-10-21
-$hidden: true
 
 logo: /media/venues/albatros-cafe.png
 email: albatroshamburg@mail.de
@@ -20,4 +19,4 @@ espresso: 1,80
 internet@: nein
 ---
 
-Frühstück, Mittagessen, Kuchen – und Kaffee gibt es im Albatros Café (eröffnet 2019). Der Kaffee selbst kommt von [onetake](https://www.onetake.coffee/), die einige Hamburger Cafés versorgen.
+Frühstück, Mittagessen, Kuchen – und Kaffee gibt es im Albatros Café (eröffnet 2019). Der gute Kaffee kommt von [onetake](https://www.onetake.coffee/).
