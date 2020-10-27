@@ -112,6 +112,7 @@ RedirectMatch 301 /wissen/(.*) https://hhkaffee.com/schnack/$1
 
 # Course Alterations: P3
 Redirect 302 /feed/index.html https://hhkaffee.com/feed/index.xml
+Redirect 301 /roestereien https://hhkaffee.com/cafes/
 
 # Emergency
 ErrorDocument 401 /fehler/
