@@ -8,7 +8,7 @@ instagram: https://www.instagram.com/manufact_coffeeroasters/
 locations:
 - address: Sternstraße 68<br>20357 Hamburg
   coordinates: "53.5601083,9.966996900000026"
-  hours@: Montag – Freitag 8:30–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
+  hours@: Montag – Freitag 9:30–17 Uhr<br>Samstag/Sonntag 10–17 Uhr
 
 coffee: 3
 espresso: 2,20
