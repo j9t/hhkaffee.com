@@ -13,13 +13,13 @@ instagram: https://www.instagram.com/publiccoffeeroasters/
 locations:
 - address: Wexstraße 28<br>20355 Hamburg
   coordinates: "53.5513791,9.982530199999928"
-  hours@: Montag – Freitag 8:30–18 Uhr<br>Samstag/Sonntag 10:30–17 Uhr
+  hours@: Montag – Freitag 8:30–16 Uhr<br>Samstag/Sonntag 11–16 Uhr
 - address: Goldbekplatz 1<br>22303 Hamburg
   coordinates: "53.58365939999999,10.009117500000002"
-  hours@: Montag – Freitag 7:45–19 Uhr<br>Samstag/Sonntag 10–19 Uhr
+  hours@: Montag – Donnerstag 10–17 Uhr<br>Freitag – Sonntag 9–17 Uhr
 - address: Brandstwiete 3<br>20457 Hamburg
   coordinates: "53.5469479,9.9977212"
-  hours@: Montag – Freitag 7:30–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
+  hours@: (geschlossen bis 10. Januar 2021)
 
 coffee: 3,90
 espresso: 1,80
