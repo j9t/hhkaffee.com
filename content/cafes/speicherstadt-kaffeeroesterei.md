@@ -25,8 +25,8 @@ views:
 - title@: Speicherstadt Kaffeerösterei von innen.
   image: speicherstadt-kaffeeroesterei-interior.jpg
 
-coffee: 2,20
-espresso: 2,20
+coffee: 3,40
+espresso: 2,10
 internet@: ja
 ---
 
