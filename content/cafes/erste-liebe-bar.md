@@ -5,7 +5,7 @@ candidate: 1
 
 logo: /media/venues/erste-liebe-bar.jpg
 email: info@ersteliebebar.de
-website: http://www.ersteliebebar.de/
+website: https://ersteliebebar.de/
 facebook: https://www.facebook.com/ersteliebebar
 
 locations:
