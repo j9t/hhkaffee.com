@@ -15,23 +15,23 @@ CheckSpelling On
 ContentDigest On
 DefaultLanguage de
 ExpiresActive On
-ExpiresByType application/javascript A129600
+ExpiresByType application/javascript A604800
 ExpiresByType application/rss+xml A60
 ExpiresByType application/xml A60
-ExpiresByType font/eot A604800
-ExpiresByType font/otf A604800
-ExpiresByType font/ttf A604800
-ExpiresByType font/woff A604800
-ExpiresByType font/woff2 A604800
-ExpiresByType image/gif A604800
-ExpiresByType image/jpeg A604800
-ExpiresByType image/png A604800
-ExpiresByType image/svg+xml A604800
-ExpiresByType image/vnd.microsoft.icon A604800
-ExpiresByType image/x-icon A604800
-ExpiresByType text/css A129600
+ExpiresByType font/eot A2419200
+ExpiresByType font/otf A2419200
+ExpiresByType font/ttf A2419200
+ExpiresByType font/woff A2419200
+ExpiresByType font/woff2 A2419200
+ExpiresByType image/gif A2419200
+ExpiresByType image/jpeg A2419200
+ExpiresByType image/png A2419200
+ExpiresByType image/svg+xml A2419200
+ExpiresByType image/vnd.microsoft.icon A2419200
+ExpiresByType image/x-icon A2419200
+ExpiresByType text/css A604800
 ExpiresByType text/html A60
-ExpiresByType text/javascript A129600
+ExpiresByType text/javascript A604800
 ExpiresByType text/plain A60
 ExpiresByType text/xml A60
 FileETag All
