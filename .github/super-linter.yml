@@ -1,11 +1,9 @@
-# @@ Monitor
-
 name: Super-Linter
 
 on: push
 
 jobs:
-  super-lint:
+  build:
     name: Lint code base
     runs-on: ubuntu-latest
 
