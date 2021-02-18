@@ -1,4 +1,5 @@
 .depcache.json
+.DS_Store
 .grow/
 extensions/
 routescache.json
