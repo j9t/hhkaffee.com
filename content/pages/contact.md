@@ -69,7 +69,7 @@ Zum Schutz Ihrer Daten werden diese über HTTPS übertragen.
 
 #### Server-Logs
 
-Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/?partner=158667)) erhebt und speichert Informationen, die Ihr Browser automatisch übermittelt, in sogenannten Server-Log-Dateien. Diese umfassen:
+Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/PA68572347FA65)) erhebt und speichert Informationen, die Ihr Browser automatisch übermittelt, in sogenannten Server-Log-Dateien. Diese umfassen:
 
 * Hostname
 * IP-Adresse
