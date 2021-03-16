@@ -6,7 +6,7 @@ candidate: 1
 
 logo: /media/venues/hamers.png
 email: info@cafe-hamers.de
-website: http://cafe-hamers.de/
+website: https://hamers-cafe.eatbu.com/?lang=de
 facebook: https://www.facebook.com/HAMERsCafe/
 
 locations:
