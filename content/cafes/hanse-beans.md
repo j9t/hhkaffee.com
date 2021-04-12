@@ -4,7 +4,6 @@ $date: 2017-11-02
 
 logo: /media/venues/hanse-beans.jpg
 email: info@hansebeans.de
-website: http://www.hansebeans.de/
 facebook: https://www.facebook.com/hansebeans
 instagram: https://www.instagram.com/hansebeans/
 
