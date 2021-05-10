@@ -1,7 +1,6 @@
 ---
 $title@: ujote espresso
 $date: 2021-05-10
-$hidden: true
 
 logo: /media/venues/ujote-espresso.png
 email: moin@ujote-espresso.de
