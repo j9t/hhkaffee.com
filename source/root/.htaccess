@@ -62,6 +62,7 @@ Header always set X-Frame-Options SAMEORIGIN
 # Course Alterations: P1
 Redirect 301 /apple-touch-icon-precomposed.png https://hhkaffee.com/apple-touch-icon.png
 Redirect 301 /cafes/die-roesterei/ https://hhkaffee.com/cafes/die-roesterei-coffeum/
+Redirect 301 /cafes/katelbach/ https://hhkaffee.com/cafes/
 Redirect 301 /cafes/kopiba/ https://hhkaffee.com/cafes/kaffeeroesterei-deathpresso/
 Redirect 301 /cafes/less-political/ https://hhkaffee.com/cafes/hermetic/
 Redirect 301 /roestereien/ https://hhkaffee.com/cafes/
@@ -77,7 +78,7 @@ Redirect 301 /roestereien/elbgold/ https://hhkaffee.com/cafes/elbgold/
 Redirect 301 /roestereien/hermetic/ https://hhkaffee.com/cafes/hermetic/
 Redirect 301 /roestereien/hunt-coffee-roasters/ https://hhkaffee.com/cafes/hunt-coffee-roasters/
 Redirect 301 /roestereien/kaffeeroesterei-burg/ https://hhkaffee.com/cafes/kaffeeroesterei-burg/
-Redirect 301 /roestereien/katelbach/ https://hhkaffee.com/cafes/katelbach/
+Redirect 301 /roestereien/katelbach/ https://hhkaffee.com/cafes/
 Redirect 301 /roestereien/kopiba/ https://hhkaffee.com/cafes/kaffeeroesterei-deathpresso/
 Redirect 301 /roestereien/maya-kaffeeroesterei/ https://hhkaffee.com/cafes/maya-kaffeeroesterei/
 Redirect 301 /roestereien/milch/ https://hhkaffee.com/cafes/milch/
