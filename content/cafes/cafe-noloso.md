@@ -1,7 +1,6 @@
 ---
 $title@: Café Noloso
 $date: 2021-04-18
-candidate: 1
 
 logo: /media/venues/cafe-noloso.png
 email: moin@noloso.de
