@@ -27,12 +27,14 @@ img.logo {
 html {
 	color: #000;
 	font: .75em/1.75 optima, lato, sans-serif;
+	/* font: 87.5%/1.75 optima, lato, sans-serif; */
 	padding: 1.33em 1em 1em;
 }
 
 body {
 	margin: auto;
 	max-width: 500px;
+	/* max-width: 555px; */
 }
 
 header,
@@ -422,7 +424,7 @@ span,
 	}
 
 	body {
-		max-width: 666.66px;
+		max-width: 666px;
 	}
 
 	header {
