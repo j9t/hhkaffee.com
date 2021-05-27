@@ -47,4 +47,5 @@
   <footer>
     {{podspec.description}}
     {% block update %}{% endblock %}
+    {% if doc.vg_wort %}<img src=https://ssl-vg03.met.vgwort.de/na/{{doc.vg_wort}} alt="" id=vg-wort>{% endif %}
   </footer>
