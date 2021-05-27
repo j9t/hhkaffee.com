@@ -96,6 +96,14 @@ Die von Ihnen in Ihrer E-Mail eingegebenen Daten verbleiben bei uns, bis Sie uns
 
 Für E-Mail benutzen wir Gmail und ProtonMail, jeweils zusätzlich abgesichert durch Zwei-Faktor-Authentifizierung. Beachten Sie [Googles](https://policies.google.com/privacy) und [ProtonMails Datenschutzerklärungen](https://protonmail.com/de/privacy-policy).
 
+#### VG Wort
+
+Diese Website setzt Session-Cookies der [VG Wort](https://www.vgwort.de/) zur Messung von Textzugriffen ein; die VG Wort wiederum nutzt das »Skalierbare Zentrale Messverfahren« (SZM) der INFOnline GmbH für die Ermittlung statistischer Kennwerte zur Bestimmung der Kopierwahrscheinlichkeit von Texten. Die Messung erfolgt mit berechtigtem Interesse nach Art.&nbsp;6 Abs.&nbsp;1 lit.&nbsp;f DSGVO.
+
+Bei der Zugriffszahlenmessung werden anonyme Messwerte erhoben. Sie verwendet zur Wiedererkennung von Computersystemen entweder ein Session-Cookie oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert; Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
+
+Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, die sogenannte Session-ID. Außerdem enthält ein Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG Wort ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG Wort partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß §&nbsp;53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter [optout.ioam.de](https://optout.ioam.de/) widersprechen.
+
 #### Verschiedenes
 
 Einige Links auf dieser Website sind, um nicht nur auf Informationen und Produkte zu verweisen, sondern auch den Erwerb selbiger zu vereinfachen, sogenannte Affiliate-Links. Wenn Sie auf so einen Affiliate-Link klicken und über diesen Link einkaufen, erhalten wir von dem betreffenden Anbieter eine Provision. Für Sie verändert sich dadurch nicht der Preis.
