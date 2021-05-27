@@ -1,7 +1,7 @@
 ---
 $title@: Lowinsky’s
-$date: 2020-01-29
 $slug: lowinskys
+$date: 2020-01-29
 
 logo: /media/venues/lowinskys.png
 email: hillel@lowinskys.com

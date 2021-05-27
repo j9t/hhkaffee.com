@@ -1,7 +1,7 @@
 ---
 $title@: HAMER’s
-$date: 2018-08-16
 $slug: hamers
+$date: 2018-08-16
 candidate: 1
 
 logo: /media/venues/hamers.png
