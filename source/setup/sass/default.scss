@@ -415,7 +415,9 @@ span,
 	}
 
 	ul#venues li {
-		min-height: 3.4em; /* coupled to general leading */
+		overflow-x: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
 	}
 
 	img.logo,
