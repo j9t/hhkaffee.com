@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/balzundbalz/
 locations:
 - address: Lehmweg 6<br>20251 Hamburg
   coordinates: "53.5794726,9.976665400000002"
-  hours@: Dienstag – Freitag 8–18 Uhr<br>Samstag/Sonntag 9–17 Uhr
+  hours@: Dienstag – Freitag 8–18&nbsp;Uhr<br>Samstag/Sonntag 9–17&nbsp;Uhr
   phone: 60438833
 
 coffee: 3

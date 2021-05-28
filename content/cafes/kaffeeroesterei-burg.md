@@ -11,11 +11,11 @@ facebook: https://www.facebook.com/kaffeeroestereiburg/
 locations:
 - address: St. Annenufer 2<br>20457 Hamburg
   coordinates: "53.5447535,9.996791099999996"
-  hours@: Montag – Sonntag 10–18 Uhr
+  hours@: Montag – Sonntag 10–18&nbsp;Uhr
   phone: 55204258
 - address: Mercado<br>Ottenser Hauptstraße 10<br>22765 Hamburg
   coordinates: "53.5523493,9.932403300000033"
-  hours@: Montag – Samstag 9:30–20 Uhr
+  hours@: Montag – Samstag 9:30–20&nbsp;Uhr
 
 coffee: 2,50
 espresso: 2

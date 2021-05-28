@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/_aendre_/
 locations:
 - address: Lehmweg 31a<br>20251 Hamburg
   coordinates: "53.5824423852122,9.979653591462018"
-  hours@: Montag – Sonntag 9–18 Uhr
+  hours@: Montag – Sonntag 9–18&nbsp;Uhr
 
 espresso: 2
 internet@: ja

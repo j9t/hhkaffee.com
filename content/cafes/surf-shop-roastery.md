@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/surfshoproastery/
 locations:
 - address: Lappenbergsallee 43<br>20257 Hamburg
   coordinates: "53.5775327,9.941639"
-  hours@: Montag – Sonntag 10–17 Uhr
+  hours@: Montag – Sonntag 10–17&nbsp;Uhr
 
 coffee: 4
 espresso: 3

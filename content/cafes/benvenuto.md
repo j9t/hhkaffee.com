@@ -12,7 +12,7 @@ twitter: https://twitter.com/benvenutocaffe
 locations:
 - address: Heinrich-Barth-Straße 15<br>20146 Hamburg
   coordinates: "53.5709558,9.980414699999983"
-  hours@: Montag – Freitag 9:30–17 Uhr
+  hours@: Montag – Freitag 9:30–17&nbsp;Uhr
   phone: 4102920
 
 espresso: 1,50

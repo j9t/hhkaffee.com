@@ -14,11 +14,11 @@ instagram: https://www.instagram.com/huntcoffeeroasters/
 locations:
 - address: Ochsenzoller Straße 120<br>22848 Norderstedt
   coordinates: "53.6817,9.982780000000048"
-  hours@: Montag – Samstag 10–18 Uhr<br>Sonntag 13–17 Uhr
+  hours@: Montag – Samstag 10–18&nbsp;Uhr<br>Sonntag 13–17&nbsp;Uhr
   phone: 94361881
 - address: Colonnaden 5<br>20354 Hamburg
   coordinates: "53.5552462,9.9905103"
-  hours@: Montag – Freitag 10–17 Uhr<br>Samstag 10–18 Uhr<br>Sonntag 10–17 Uhr
+  hours@: Montag – Freitag 10–17&nbsp;Uhr<br>Samstag 10–18&nbsp;Uhr<br>Sonntag 10–17&nbsp;Uhr
 zoom: 9
 
 coffee: 3,50

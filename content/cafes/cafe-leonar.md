@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/cafeleonar/
 locations:
 - address: Grindelhof 59<br>20146 Hamburg
   coordinates: "53.56976660751291,9.984115999424844"
-  hours@: Montag – Samstag 9–22:30 Uhr<br>Sonntag 9–18 Uhr
+  hours@: Montag – Samstag 9–22:30&nbsp;Uhr<br>Sonntag 9–18&nbsp;Uhr
   phone: 27881012
 
 espresso: 2,10

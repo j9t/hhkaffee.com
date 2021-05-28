@@ -11,7 +11,7 @@ facebook: https://www.facebook.com/HAMERsCafe/
 locations:
 - address: Claus-Ferck-Straße 4<br>22359 Hamburg
   coordinates: "53.6490204,10.164152999999942"
-  hours@: Montag – Samstag 9–18 Uhr<br>Sonntag 13–18 Uhr
+  hours@: Montag – Samstag 9–18&nbsp;Uhr<br>Sonntag 13–18&nbsp;Uhr
   phone: 30740830
 zoom: 10
 

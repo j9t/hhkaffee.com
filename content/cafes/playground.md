@@ -13,7 +13,7 @@ instagram: https://instagram.com/playgroundcoffee/
 locations:
 - address: Detlev-Bremer-Straße 21<br>20359 Hamburg
   coordinates: "53.551671,9.965384699999959"
-  hours@: Montag – Freitag 9–17 Uhr<br>Samstag/Sonntag 10–17 Uhr
+  hours@: Montag – Freitag 9–17&nbsp;Uhr<br>Samstag/Sonntag 10–17&nbsp;Uhr
 
 espresso: 1,80
 coffee: 2
