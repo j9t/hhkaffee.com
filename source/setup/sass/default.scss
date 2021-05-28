@@ -26,8 +26,8 @@ img.logo {
 
 html {
 	color: #000;
-	font: 100%/1.75 optima, lato, sans-serif;
-	padding: 1.5em 1em 1em;
+	font: 75%/1.75 optima, lato, sans-serif;
+	padding: 1.33em 1em 1em;
 }
 
 body {
@@ -43,7 +43,7 @@ h2#websites + ul {
 }
 
 header {
-	margin: 0 0 1em;
+	margin: 0 0 2em;
 }
 
 header img,
@@ -87,7 +87,7 @@ ul.meta li {
 nav li {
 	padding: .5em;
 	position: relative;
-	top: 0;
+	top: .5em;
 }
 
 nav li a:focus,
@@ -420,10 +420,23 @@ span,
 
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 760px) {
+
+	html {
+		font-size: 1em;
+		padding-top: 1.5em;
+	}
 
 	body {
 		max-width: 666px;
+	}
+
+	header {
+		margin-bottom: 1em;
+	}
+
+	nav li {
+		top: 0;
 	}
 
 }
