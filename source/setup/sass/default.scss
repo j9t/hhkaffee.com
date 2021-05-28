@@ -327,15 +327,11 @@ ul#venues {
 img.logo,
 img.product {
 	margin: .33em 0 1em 1em;
+	width: 100px;
 }
 
 img.logo {
-	height: 110px;
-	width: 110px;
-}
-
-img.product {
-	width: 100px;
+	height: 100px;
 }
 
 img#vg-wort {
@@ -418,6 +414,15 @@ span,
 		width: 52px;
 	}
 
+	img.logo,
+	img.product {
+		width: 90px;
+	}
+
+	img.logo {
+		height: 90px;
+	}
+
 }
 
 @media screen and (min-width: 760px) {
@@ -437,6 +442,15 @@ span,
 
 	nav li {
 		top: 0;
+	}
+
+	img.logo,
+	img.product {
+		width: 110px;
+	}
+
+	img.logo {
+		height: 110px;
 	}
 
 }
