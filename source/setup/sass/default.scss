@@ -26,8 +26,8 @@ img.logo {
 
 html {
 	color: #000;
-	font: 75%/1.75 optima, lato, sans-serif;
-	padding: 1.33em 1em 1em;
+	font: 87.5%/1.75 optima, lato, sans-serif;
+	padding: 1em;
 }
 
 body {
@@ -87,7 +87,7 @@ ul.meta li {
 nav li {
 	padding: .5em;
 	position: relative;
-	top: .5em;
+	top: .2em;
 }
 
 nav li a:focus,
@@ -388,14 +388,14 @@ span,
 	color: #888;
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 400px) {
 
 	header {
 		margin-bottom: 1em;
 	}
 
 	nav li {
-		top: .25em;
+		top: -.1em;
 	}
 
 	nav li:nth-last-of-type(3)::after {
