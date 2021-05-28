@@ -1,6 +1,7 @@
 ---
 $title@: Mutterland
 $date: 2020-10-29
+candidate: 1
 
 logo: /media/venues/mutterland.png
 email: kommunikation@mutterland.de
