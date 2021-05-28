@@ -26,15 +26,13 @@ img.logo {
 
 html {
 	color: #000;
-	font: .75em/1.75 optima, lato, sans-serif;
-	/* font: 87.5%/1.75 optima, lato, sans-serif; */
-	padding: 1.33em 1em 1em;
+	font: 100%/1.75 optima, lato, sans-serif;
+	padding: 1.5em 1em 1em;
 }
 
 body {
 	margin: auto;
-	max-width: 500px;
-	/* max-width: 555px; */
+	max-width: 555px;
 }
 
 header,
@@ -45,7 +43,7 @@ h2#websites + ul {
 }
 
 header {
-	margin: 0 0 2em;
+	margin: 0 0 1em;
 }
 
 header img,
@@ -89,7 +87,7 @@ ul.meta li {
 nav li {
 	padding: .5em;
 	position: relative;
-	top: .5em;
+	top: 0;
 }
 
 nav li a:focus,
@@ -228,7 +226,7 @@ div#map ~ ul.meta {
 div#social,
 div#notification {
 	border: 2px solid #f7f7f7;
-	padding: .3em .2em .2em;
+	padding: .3em .5em .2em;
 }
 
 div#notification {
@@ -424,21 +422,8 @@ span,
 
 @media screen and (min-width: 1200px) {
 
-	html {
-		font-size: 1em;
-		padding-top: 1.5em;
-	}
-
 	body {
 		max-width: 666px;
-	}
-
-	header {
-		margin-bottom: 1em;
-	}
-
-	nav li {
-		top: 0;
 	}
 
 }
