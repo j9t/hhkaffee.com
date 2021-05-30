@@ -386,6 +386,10 @@ span,
 
 @media screen and (max-width: 400px) {
 
+	header {
+		margin-bottom: 0;
+	}
+
 	nav li {
 		top: -.35em;
 	}
