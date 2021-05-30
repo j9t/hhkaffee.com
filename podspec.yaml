@@ -29,7 +29,9 @@ sitemap:
   enabled: true
 
 ext:
-- extensions.html_min.HtmlMinExtension
+- extensions.html_min.HtmlMinExtension:
+    options:
+      remove_optional_attribute_quotes: false
 
 deployments:
   default:
