@@ -3,6 +3,7 @@ $title@: Über uns
 $titles:
   nav@: Über&nbsp;uns
 $order: 3
+vg_wort: 7141ec40d33b4fa7ae80be0fa7a70b05
 
 logo: /media/logo-alt.png
 website: /
