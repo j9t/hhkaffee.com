@@ -23,7 +23,7 @@
   {% if doc.views %}
     <div id=views>
       {% for view in doc.views %}
-      <img src={{g.static('/source/media/venues/' + view.image).url.path}} alt="{{_(view.title)}}" loading=lazy>
+      <img src={{g.static('/source/media/venues/' + view.image).url.path}} alt="{{_(view.title)}}">
       {% endfor %}
       <p>({{_('Copyright')}} {{doc.title}})
     </div>
