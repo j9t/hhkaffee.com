@@ -17,4 +17,4 @@ espresso: 2,10
 internet@: nein
 ---
 
-Die große Unbekannte für uns hier bei HH Kaffee: die erste liebe bar (erstmals eröffnet 2002).
+Dafür, dass es sie schon so lange gibt, haben wir bisher noch überraschend wenige Informationen über sie: die erste liebe bar (erstmals eröffnet 2002).
