@@ -48,7 +48,7 @@ Unter den angegebenen Kontaktdaten können Sie jederzeit folgende Rechte ausübe
 
 Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
 
-Sie können sich jederzeit mit einer Beschwerde an die für Sie zuständige Aufsichtsbehörde wenden. Eine Liste der Aufsichtsbehörden (für den nicht-öffentlichen Bereich) mitsamt Anschrift finden Sie beim [Bundesbeauftragten für den Datenschutz](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
+Sie können sich jederzeit mit einer Beschwerde an die für Sie zuständige Aufsichtsbehörde wenden. Eine Liste der Aufsichtsbehörden (für den nicht-öffentlichen Bereich) mitsamt Anschrift finden Sie beim [Bundesbeauftragten für den Datenschutz](https://web.archive.org/web/20210528044255/https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
 #### Zwecke der Datenverarbeitung
 
