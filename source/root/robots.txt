@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /cafes/demo/
+
+Sitemap: https://hhkaffee.com/sitemap.xml
