@@ -39,7 +39,7 @@ Header always edit Set-Cookie (.*) "$1; SameSite=Lax; Secure"
 Header always set X-Content-Type-Options nosniff
 Header always set X-Frame-Options SAMEORIGIN
 
-<FilesMatch "\.(html|php)$">
+<FilesMatch "\.(html|php|xml)$">
 	Header always set Content-Security-Policy "upgrade-insecure-requests; default-src 'self'; font-src 'self' fonts.gstatic.com; img-src 'self' data: maps.googleapis.com maps.gstatic.com *.met.vgwort.de; script-src 'self' 'unsafe-inline' maps.googleapis.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com; report-uri https://o212391.ingest.sentry.io/api/5383807/security/?sentry_key=19c83e1f560844f09c5ef11ed77b3bda"
 	Header always set Feature-Policy "camera 'none'; microphone 'none'; payment 'none'"
 	Header always set Permissions-Policy: interest-cohort=()
