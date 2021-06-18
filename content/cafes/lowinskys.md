@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/lowinskys_/
 locations:
 - address: Lehmweg 36<br>20251 Hamburg
   coordinates: "53.583771079744906,9.980206495390181"
-  hours@: Montag, Mittwoch – Freitag 9–18&nbsp;Uhr<br>Samstag 9:30–18&nbsp;Uhr<br>Sonntag 10–17&nbsp;Uhr
+  hours@: Montag, Mittwoch – Sonntag 10–17&nbsp;Uhr
   phone: 46774392
 
 coffee: 2
