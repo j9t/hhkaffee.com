@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/speicherstadt_kaffee/
 locations:
 - address: Kehrwieder 5<br>20457 Hamburg
   coordinates: "53.5436653,9.988141799999994"
-  hours@: Montag – Sonntag 10–19&nbsp;Uhr
+  hours@: Montag – Sonntag 10–18&nbsp;Uhr
   phone: 537998510
 - address: Eppendorfer Baum 38
   coordinates: "53.58460789999999,9.982469700000024"
@@ -25,8 +25,8 @@ views:
 - title@: Speicherstadt Kaffeerösterei von innen.
   image: speicherstadt-kaffeeroesterei-interior.jpg
 
-coffee: 3,40
-espresso: 2,10
+coffee: 3,50
+espresso: 2,20
 internet@: ja
 ---
 
