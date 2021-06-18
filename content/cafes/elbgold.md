@@ -14,7 +14,7 @@ instagram: https://www.instagram.com/elbgoldkaffee/
 locations:
 - address: Lagerstraße 34c<br>20357 Hamburg
   coordinates: "53.56289229999999,9.966776600000003"
-  hours@: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag 9–18&nbsp;Uhr<br>Sonntag 10–18&nbsp;Uhr
+  hours@: Montag – Freitag 7–18&nbsp;Uhr<br>Samstag 9–18&nbsp;Uhr<br>Sonntag 10–18&nbsp;Uhr
   phone: 23517520
 - address: Eppendorfer Baum 26<br>20249 Hamburg
   coordinates: "53.5839739,9.983915499999966"
@@ -25,7 +25,7 @@ locations:
   hours@: Montag – Freitag 7–18&nbsp;Uhr<br>Samstag 8–18&nbsp;Uhr<br>Sonntag 9–18&nbsp;Uhr
 - address: Schauenburgerstraße 50<br>20095 Hamburg
   coordinates: "53.5496884,9.993023600000015"
-  hours@: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag 10–18&nbsp;Uhr
+  hours@: "(in Kürze wieder geöffnet)"
 - address: Alsterhaus Hamburg<br>Jungfernstieg 16–20<br>20354 Hamburg
   coordinates: "53.5529911,9.991460299999972"
   hours@: Montag – Samstag 10–20&nbsp;Uhr
