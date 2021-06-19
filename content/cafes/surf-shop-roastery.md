@@ -4,7 +4,6 @@ $date: 2019-09-29
 roaster: 1
 
 logo: /media/venues/surf-shop-roastery.png
-email: mail@surfshoproastery.de
 website: https://surfshoproastery.com/
 facebook: https://www.facebook.com/surfshoproasteryhamburg
 instagram: https://www.instagram.com/surfshoproastery/
@@ -12,7 +11,7 @@ instagram: https://www.instagram.com/surfshoproastery/
 locations:
 - address: Lappenbergsallee 43<br>20257 Hamburg
   coordinates: "53.5775327,9.941639"
-  hours@: Montag – Sonntag 10–17&nbsp;Uhr
+  hours@: (aktuell nicht geöffnet)
 
 coffee: 4
 espresso: 3
