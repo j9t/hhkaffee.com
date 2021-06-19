@@ -19,7 +19,7 @@ locations:
   hours@: Montag – Donnerstag 10–17&nbsp;Uhr<br>Freitag – Sonntag 9–17&nbsp;Uhr
 - address: Brandstwiete 3<br>20457 Hamburg
   coordinates: "53.5469479,9.9977212"
-  hours@: "(ab 1. Juli wieder geöffnet)"
+  hours@: (ab 1. Juli wieder geöffnet)
 
 coffee: 3,90
 espresso: 1,80

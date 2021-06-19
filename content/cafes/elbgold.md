@@ -25,7 +25,7 @@ locations:
   hours@: Montag – Freitag 7–18&nbsp;Uhr<br>Samstag 8–18&nbsp;Uhr<br>Sonntag 9–18&nbsp;Uhr
 - address: Schauenburgerstraße 50<br>20095 Hamburg
   coordinates: "53.5496884,9.993023600000015"
-  hours@: "(in Kürze wieder geöffnet)"
+  hours@: (in Kürze wieder geöffnet)
 - address: Alsterhaus Hamburg<br>Jungfernstieg 16–20<br>20354 Hamburg
   coordinates: "53.5529911,9.991460299999972"
   hours@: Montag – Samstag 10–20&nbsp;Uhr
