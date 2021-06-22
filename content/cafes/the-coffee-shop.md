@@ -1,7 +1,6 @@
 ---
 $title@: the coffee shop
 $date: 2018-08-12
-candidate: 1
 
 logo: /media/venues/the-coffee-shop.jpg
 email: kontakt@the-coffee-shop.de
@@ -21,8 +20,8 @@ views:
 - title@: the coffee shop von innen.
   image: the-coffee-shop-interior.jpg
 
-coffee: 2,20
-espresso: 2,10
+coffee: 2,30
+espresso: 2,20
 internet@: ja
 ---
 
