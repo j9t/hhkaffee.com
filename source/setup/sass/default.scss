@@ -13,7 +13,6 @@
 
 html,
 div#social p,
-div#notification p,
 div#map,
 h2#locations + ul li p {
 	margin: 0;
@@ -195,14 +194,6 @@ blockquote {
 }
 
 div#social,
-div#notification,
-div#views p,
-ul.meta {
-	text-align: center;
-}
-
-div#social,
-div#notification,
 div#map,
 div#promo,
 div#archive,
@@ -212,7 +203,12 @@ img.product {
 }
 
 div#social,
-div#notification,
+div#views p,
+ul.meta {
+	text-align: center;
+}
+
+div#social,
 div#promo,
 th {
 	background: #fcfcfc;
@@ -223,14 +219,9 @@ div#map ~ ul.meta {
 	margin-top: 1.38em;
 }
 
-div#social,
-div#notification {
+div#social {
 	border: 2px solid #f7f7f7;
 	padding: .3em .5em .2em;
-}
-
-div#notification {
-	margin-bottom: 1.38em;
 }
 
 div#map {
@@ -471,7 +462,6 @@ span,
 
 	nav,
 	div#social,
-	div#notification,
 	ul.meta {
 		display: none;
 	}
