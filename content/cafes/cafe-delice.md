@@ -9,11 +9,11 @@ facebook: https://www.facebook.com/cafedelice.hamburg
 locations:
 - address: Osterstraße 168<br>20255 Hamburg
   coordinates: "53.5788703,9.946821699999987"
-  hours@: Dienstag – Freitag 8–18&nbsp;Uhr<br>Samstag/Sonntag 9–18&nbsp;Uhr
+  hours@: Montag – Freitag 8–19&nbsp;Uhr<br>Samstag/Sonntag 9–18&nbsp;Uhr
   phone: 60783580
 
-espresso: 1,80
+espresso: 1,90
 internet@: ja
 ---
 
-»Ein Stück Frankreich in Eimsbüttel« – und im Café Délice (eröffnet 2016) gibt es auch guten Kaffee.
+»Ein Stück Frankreich in Eimsbüttel« – und im Café Délice (eröffnet 2015) gibt es auch guten Kaffee.
