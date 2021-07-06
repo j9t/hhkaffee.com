@@ -1,7 +1,6 @@
 ---
 $title@: Mutterland
 $date: 2020-10-29
-candidate: 1
 
 logo: /media/venues/mutterland.png
 email: kommunikation@mutterland.de
@@ -21,8 +20,8 @@ locations:
   coordinates: "53.553651127709834,9.989660553308862"
   hours@: Montag – Freitag 8–19&nbsp;Uhr<br>Samstag 9–19&nbsp;Uhr
 
-coffee: 2,40
-espresso: 1,90
+coffee: 2,60
+espresso: 2
 internet@: ja
 ---
 
