@@ -1,9 +1,10 @@
 ---
 $title@: Hanse Beans
 $date: 2017-11-02
+$hidden: true
 
 logo: /media/venues/hanse-beans.jpg
-email: info@hansebeans.de
+# email: info@hansebeans.de
 facebook: https://www.facebook.com/hansebeans
 instagram: https://www.instagram.com/hansebeans/
 
@@ -14,6 +15,8 @@ locations:
 
 espresso: 1,90
 internet@: ja
+
+archive: "Hanse Beans scheint seit 2021 nicht mehr geöffnet zu&nbsp;haben."
 ---
 
 Das Hanse Beans (eröffnet 2016) befindet sich direkt bei der Universität Hamburg und serviert »den besten Kaffee auf dem Campus«.
