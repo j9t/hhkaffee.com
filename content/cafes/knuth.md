@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/cafeknuth/
 locations:
 - address: Große Rainstraße 21<br>22765 Hamburg
   coordinates: "53.5530588,9.9310196"
-  hours@: Montag – Samstag 9–?&nbsp;Uhr<br>Sonntag 10–20&nbsp;Uhr
+  hours@: Montag – Freitag 10–23&nbsp;Uhr<br>Samstag/Sonntag 10–0&nbsp;Uhr
   phone: 46008708
 
 espresso: 1,90
