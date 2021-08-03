@@ -17,8 +17,6 @@ locations:
 coffee: 2
 espresso: 1,80
 internet@: nein
-
-promo@: "Das Albatros Café macht vom 20. Juli bis 2. August Sommerpause."
 ---
 
 Frühstück, Mittagessen, Kuchen – und Kaffee gibt es im Albatros Café (eröffnet 2019). Der gute Kaffee kommt von [onetake](https://www.onetake.coffee/).
