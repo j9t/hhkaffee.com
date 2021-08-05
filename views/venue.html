@@ -14,7 +14,7 @@
     {{_('Internet:')}} {{doc.internet}}
     {% if doc.favorite %} · HH-Kaffee-Favorit&nbsp;<span>★</span>{% endif %}
     {% if doc.candidate %} · HH-Kaffee-Kandidat&nbsp;<span>�</span>{% endif %}
-  {# @@ Price and promote option #}
+  {# @@ Promote feature #}
   {% if doc.promo %}
     <div id=promo>{{doc.promo|markdown|safe}}</div>
   {% endif %}
