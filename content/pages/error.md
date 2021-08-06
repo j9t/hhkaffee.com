@@ -4,4 +4,4 @@ $path@: /fehler/
 $hidden: true
 ---
 
-Es ist ein Fehler aufgetreten und wir haben keine Ahnung, was los ist 🍵
+Es ist ein Fehler aufgetreten und wir haben keine Ahnung, was los ist&nbsp;🍵
