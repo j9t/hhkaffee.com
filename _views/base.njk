@@ -12,7 +12,7 @@ date: Last Modified
 	<meta name=twitter:image content={{ metadata.url }}media/logo-social.png>
 	<meta property="og:image" content="{{ metadata.url }}media/logo-social.png">
 	<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
-	<!-- @@ --><link rel=stylesheet href=/setup/default.css>
+	<link rel=stylesheet href=/setup/default.min.css>
 	<link rel=alternate href={{ metadata.feed.path | url }} type=application/atom+xml title="{{ metadata.title }}">
 	<link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
 	{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
