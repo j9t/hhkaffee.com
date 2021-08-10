@@ -8,7 +8,7 @@ date: Last Modified
 	{% if description %}<meta name=description content="{{ description | truncate(140, false, ' …') }}">{% endif %}
 	<meta name=twitter:card content=summary>
 	<meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
-	<meta name=twitter:description content="{{ (description or metadata.description_alternative) | truncate(140, false, ' …') }}">
+	<meta name=twitter:description content="{{ (description or metadata.description) | truncate(140, false, ' …') }}">
 	<meta name=twitter:image content={{ metadata.url }}media/logo-social.png>
 	<meta property="og:image" content="{{ metadata.url }}media/logo-social.png">
 	<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
