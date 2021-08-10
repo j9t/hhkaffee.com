@@ -1,0 +1,15 @@
+---
+eleventyNavigation:
+  key: Schnack
+  order: 2
+layout: base.njk
+title: Schnack
+---
+
+<p>Neuigkeiten und Meinungen zu den Themen Kaffee und Hamburg.
+<ul>
+	{% set entries = collections.posts | reverse %}
+	{%- for entry in entries -%}
+	<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a> <span>vom {{ entry.date | localizedDate }}</span>
+	{% endfor -%}
+</ul>

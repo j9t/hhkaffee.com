@@ -1,7 +1,2 @@
-.depcache.json
-.DS_Store
-.grow/
-extensions/
-routescache.json
+_export/
 node_modules/
-source/setup/default.min.css

@@ -1,0 +1,16 @@
+---
+eleventyNavigation:
+  key: Cafés und Röstereien
+  order: 1
+layout: base.njk
+title: Cafés und Röstereien
+---
+
+<p>Vielleicht die umfassendste Auswahl herausragender Hamburger Cafés und Röstereien (und Restaurants, die guten Kaffee ausschenken). Tradition, Third Wave, Specialty Coffee – Hamburg hat alles zu bieten.
+<ul id=venues>
+	{% set entries = collections.venues %}
+	{%- for entry in entries | sortByTitle -%}
+	<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a>{% if entry in collections.favorites %}&nbsp;<span>★</span>{% endif %}{% if entry in collections.candidates %}&nbsp;<span>�</span>{% endif %}
+	{% endfor -%}
+</ul>
+{% include 'partials/map.njk' %}

@@ -1,0 +1,54 @@
+---
+description: "Finde schnell einen guten Kaffee: HH Kaffee ist die Website für die besten Cafés und Röstereien in Hamburg. Mit Neuigkeiten und Meinungen, zu Kaffee in Hamburg und zu Kaffee allgemein."
+layout: index.njk
+title: Kaffee in und aus Hamburg
+---
+
+<p>HH Kaffee ist die Website für die besten <a href=/cafes/>Cafés und Röstereien</a> in Hamburg. Mit <a href=/schnack/>Neuigkeiten und Meinungen</a>, zu Kaffee in Hamburg und zu Kaffee allgemein.
+<div id=stage>
+	<section>
+		<h2>Letzte Neuzugänge</h2>
+		{% set entries = collections.venues %}
+		{%- for entry in entries | reverse -%}
+		{%- if loop.index0 < 1 -%}
+		<a href={{ entry.url | url }}><img src={{ entry.data.logo }} alt="{{ entry.data.title }}"></a>
+		{%- endif -%}
+		{% endfor %}
+		<ul>
+			{% set entries = collections.venues %}
+			{%- for entry in entries | reverse -%}
+			{%- if loop.index0 < 5 -%}
+			<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a>
+			{% endif -%}
+			{%- endfor -%}
+		</ul>
+	</section>
+	<section>
+		<h2>Favoriten</h2>
+		{% set entries = collections.favorites %}
+		{%- for entry in entries | reverse -%}
+		{%- if loop.index0 < 1 -%}
+		<a href={{ entry.url | url }}><img src={{ entry.data.logo }} alt="{{ entry.data.title }}"></a>
+		{%- endif -%}
+		{% endfor %}
+		<ul>
+			{% set entries = collections.favorites %}
+			{%- for entry in entries | sortByTitle -%}
+			<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a>
+			{% endfor -%}
+		</ul>
+	</section>
+	<section>
+		<h2>Neuigkeiten und Meinungen</h2>
+		<ul>
+			{%- set entries = collections.posts | reverse -%}
+			{%- for entry in entries -%}
+			{% if loop.index0 < 3 %}
+			<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a> · {{ entry.templateContent | striptags | truncate(120, false, ' …') }}
+			{%- endif -%}
+			{% endfor %}
+		</ul>
+		<p>⚐ <a href=/schnack/>Aller Schnack</a>
+	</section>
+</div>
+{% include 'partials/map.njk' %}

@@ -1,20 +1,32 @@
 {
   "name": "hhkaffee.com",
-  "private": true,
   "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy",
     "imagemin": "imagemin-merlin"
   },
-  "devDependencies": {
-    "@sum.cumo/imagemin-merlin": "^2.0.0",
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^6.1.0",
-    "gulp-rename": "^1.4.0",
-    "gulp-sass": "^4.1.0",
-    "husky": "^3.1.0"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/j9t/hhkaffee.com-2.git"
   },
-  "browserslist": [
-    ">0.5%"
-  ],
+  "author": {
+    "name": "HH Kaffee",
+    "email": "info@hhkaffee.com",
+    "url": "https://hhkaffee.com/"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@sum.cumo/imagemin-merlin": "^2.0.0",
+    "husky": "^3.1.0",
+    "luxon": "^1.26.0",
+    "markdown-it": "^12.0.4",
+    "markdown-it-anchor": "^7.1.0"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "npm run imagemin -- --staged"

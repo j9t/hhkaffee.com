@@ -1,0 +1,17 @@
+{
+  "title": "HH Kaffee",
+  "url": "https://hhkaffee.com/",
+  "url_truncated": "https://hhkaffee.com",
+  "language": "de",
+  "description": "HH Kaffee ❤ Kaffee in und aus Hamburg",
+  "feed": {
+    "file": "index.xml",
+    "path": "/feed/index.xml",
+    "id": "https://hhkaffee.com/"
+  },
+  "author": {
+    "name": "HH Kaffee",
+    "email": "info@hhkaffee.com",
+    "url": "https://hhkaffee.com/"
+  }
+}

@@ -1,2 +1,0 @@
-path: /{slug}/               # The URL path format.
-view: /views/page.html      # The template to use.
