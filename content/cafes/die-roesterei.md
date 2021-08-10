@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/dieroesterei_coffeum/
 locations:
 - address: Steinstraße 19b<br>20095 Hamburg
   coordinates: "53.5499616,10.001921700000025"
-  hours@: Montag – Freitag 10–18&nbsp;Uhr<br>Samstag 11–17:30&nbsp;Uhr
+  hours@: Montag – Samstag 10–18&nbsp;Uhr
   phone: 32526364
 
 coffee: 2,20
