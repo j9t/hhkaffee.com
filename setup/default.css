@@ -1,6 +1,6 @@
 @font-face {
 	font-display: swap;
-	font-family: 'Lato';
+	font-family: lato;
 	font-style: normal;
 	font-weight: 400;
 	src: local('Lato Regular'), local('Lato-Regular'), url('/setup/quarantine/fonts/lato-v14-latin-regular.woff2') format('woff2'), url('/setup/quarantine/fonts/lato-v14-latin-regular.woff') format('woff');
