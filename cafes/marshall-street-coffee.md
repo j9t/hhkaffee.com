@@ -1,8 +1,6 @@
 ---
 title: Marshall Street Coffee
 date: 2020-05-09
-tags:
-  - roaster
 
 logo: /media/venues/marshall-street.png
 email: info@marshall-street.de
@@ -15,7 +13,7 @@ locations:
   coordinates: "53.5486531,9.9981614"
   hours: Mittwoch – Freitag 8–16&nbsp;Uhr<br>Samstag/Sonntag 9–16&nbsp;Uhr
 
-coffee: 2,50
+coffee: 3,20
 espresso: 1,80
 internet: ja
 ---
