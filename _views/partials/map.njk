@@ -13,9 +13,9 @@
 
   var venues = [
   {% set entries = collections.locations -%}
-  {%- for entry in entries -%}
+  {%- for entry in entries | sort -%}
     {%- set locations = entry.data.locations -%}
-    {%- for location in locations -%}
+    {%- for location in locations | sort -%}
     ['{{ entry.data.title }}', {{ location.coordinates }}, '{{ entry.url }}'],
     {% endfor -%}
   {%- endfor -%}
