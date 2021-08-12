@@ -20,4 +20,4 @@ internet: ja
 
 Das goldenblack wurde 2020 eröffnet und zeichnet sich u.a. durch seine wechselnden Specialty-Coffees aus. goldenblack bietet neben dem Café in der Sternschanze auch [Kaffee-Catering](https://www.goldenblack.de/kaffee-catering/).
 
-Schöner drückt es natürlich das goldenblack aus: »goldenblack ist ein Coffee-Sstore für alle, die gerne Kaffee trinken und jeden, der den guten Geschmack einer Tasse Kaffee zu schätzen weiß. Neben dem eigenen Blend stellen wir immer wieder außergewöhnliche lokale und nationale wie internationale Röster in einem unvoreingenommenen Format vor.«
+Schöner drückt es natürlich das goldenblack aus: »goldenblack ist ein Coffee-Store für alle, die gerne Kaffee trinken und jeden, der den guten Geschmack einer Tasse Kaffee zu schätzen weiß. Neben dem eigenen Blend stellen wir immer wieder außergewöhnliche lokale und nationale wie internationale Röster in einem unvoreingenommenen Format vor.«
