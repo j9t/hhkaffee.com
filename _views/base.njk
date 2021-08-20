@@ -37,6 +37,6 @@ date: Last Modified
 	</div>
 	<footer>
 		{{ metadata.description }}
-		{% if page.url == '/' %}<br><span>Letzte Aktualisierung: {{ page.date | localizedDate }}</span>{% endif -%}
+		{% if page.url == '/' %}<br><span>Letzte Aktualisierung: {% today %}</span>{% endif -%}
 		{% if vg_wort %}<img src=https://vg07.met.vgwort.de/na/{{ vg_wort }} alt="" id=fd-vg-wort>{% endif %}
 	</footer>

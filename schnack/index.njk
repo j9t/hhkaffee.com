@@ -10,6 +10,6 @@ title: Schnack
 <ul>
 	{% set entries = collections.posts | reverse %}
 	{%- for entry in entries -%}
-	<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a> <span>vom {{ entry.date | localizedDate }}</span>
+	<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a> <span>vom {{ entry.date | readableDate }}</span>
 	{% endfor -%}
 </ul>

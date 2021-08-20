@@ -16,20 +16,20 @@ module.exports = function(eleventyConfig) {
   // Alias `layout: post` to `layout: post.njk`
   eleventyConfig.addLayoutAlias("post", "post.njk");
 
-  eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: "utc"}).toFormat("MMMM d, yyyy");
+  // @@ Use verbose date format, properly localized
+  // Today’s date
+  eleventyConfig.addShortcode("today", function() {
+    return DateTime.now().setLocale("de").toFormat("d.M.yyyy");
   });
 
-  // Localized date, https://github.com/11ty/eleventy/issues/1157
-  eleventyConfig.addFilter("localizedDate", (dateObj) => {
-    const options = { year: "numeric", month: "long", day: "numeric" };
-    return dateObj.toLocaleDateString("de", options);
+  eleventyConfig.addFilter("readableDate", dateObj => {
+    return DateTime.fromJSDate(dateObj, {zone: "utc"}).setLocale("de").toFormat("d.M.yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  eleventyConfig.addFilter("htmlDateString", (dateObj) => {
+  /* eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     return DateTime.fromJSDate(dateObj, {zone: "utc"}).toFormat("yyyy-LL-dd");
-  });
+  }); */
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {

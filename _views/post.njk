@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 ---
-<p class=meta>Ein Beitrag vom {{ date | localizedDate }} ☕
+<p class=meta>Ein Beitrag vom {{ date | readableDate }} ☕
 {% if asin %}<div><a href="https://www.amazon.de/dp/{{ asin }}/?tag=hhk-21"><img src={{ asin_image }} alt="Produktbild von {{ title }}." class=product></a></div>{% endif %}
 {{ content | safe }}
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
