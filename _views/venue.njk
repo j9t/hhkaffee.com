@@ -1,20 +1,6 @@
 ---
 layout: base.njk
 ---
-{# <p class=meta>Ein Beitrag vom {{ date | readableDate }} ☕
-{% if asin %}<div><a href=https://www.amazon.de/dp/{{ asin }}/?tag=hhk-21><img src={{ asin_image }} alt="Produktbild von {{ title }}." class=product></a></div>{% endif %}
-{{ content | safe }}
-{% set nextVenue = collections.posts | getNextCollectionItem(page) %}
-{% set previousVenue = collections.posts | getPreviousCollectionItem(page) %}
-<ul class=meta>
-	{% if previousVenue %}
-	<li>←&nbsp;<a href={{ previousVenue.url | url }}>{{ previousVenue.data.title }}</a>
-	{% endif %}
-	{% if nextVenue %}
-	<li><a href={{ nextVenue.url | url }}>{{ nextVenue.data.title }}</a>&nbsp;→
-	{% endif %}
-</ul> #}
-
 {% if archive %}
 	<div id=archive>Dies ist eine Archivseite. {{ archive | safe }}</div>
 {% endif %}
