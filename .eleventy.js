@@ -16,14 +16,13 @@ module.exports = function(eleventyConfig) {
   // Alias `layout: post` to `layout: post.njk`
   eleventyConfig.addLayoutAlias("post", "post.njk");
 
-  // @@ Use verbose date format, properly localized
   // Today’s date
   eleventyConfig.addShortcode("today", function() {
-    return DateTime.now().setLocale("de").toFormat("d.M.yyyy");
+    return DateTime.now().setLocale("de").toFormat("d. MMMM yyyy");
   });
 
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: "utc+1"}).setLocale("de").toFormat("d.M.yyyy");
+    return DateTime.fromJSDate(dateObj, {zone: "utc+1"}).setLocale("de").toFormat("d. MMMM yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
