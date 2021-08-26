@@ -3,7 +3,7 @@ title: HERMETIC
 date: 2017-10-03
 tags:
   - roaster
-eleventyExcludeFromCollections: true
+hidden: true
 
 logo: /media/venues/hermetic.jpg
 # email: info@hermeticcoffee.com

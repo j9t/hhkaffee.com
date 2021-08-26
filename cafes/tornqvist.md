@@ -1,7 +1,7 @@
 ---
 title: Tōrnqvist
 date: 2017-10-01
-eleventyExcludeFromCollections: true
+hidden: true
 
 logo: /media/venues/tornqvist.png
 # email: hello@tornqvistcoffee.com

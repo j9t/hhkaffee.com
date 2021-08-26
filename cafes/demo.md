@@ -1,7 +1,7 @@
 ---
 title: Demo
 date: 2018-02-27
-eleventyExcludeFromCollections: true
+hidden: true
 
 logo: /media/logo-alt.png
 email: info@hhkaffee.com

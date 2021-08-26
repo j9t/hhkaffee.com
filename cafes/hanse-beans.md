@@ -1,7 +1,7 @@
 ---
 title: Hanse Beans
 date: 2017-11-02
-eleventyExcludeFromCollections: true
+hidden: true
 
 logo: /media/venues/hanse-beans.jpg
 # email: info@hansebeans.de
