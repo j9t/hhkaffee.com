@@ -10,6 +10,6 @@ Am 7. Januar gab es bei [elbgold](/cafes/elbgold/) neue schöne Karten – mit e
 
 Der »Feinschmecker« hat elbgold zur besten Rösterei Hamburgs gekürt. [Sagt das Abendblatt](https://www.abendblatt.de/hamburg/article213340557/Feinschmecker-kuert-Hamburgs-besten-Kaffee.html), wir haben keine Erstquelle gefunden. (Aber auch nicht lange gesucht.)
 
-[Public Coffee](/cafes/public/) hat die Öffnungszeiten angepasst und ist nun zum Teil [etwas länger offen](https://www.facebook.com/publiccoffeeroasters/photos/a.389606667816787.1073741830.389370594507061/1420002314777212/?type=3&theater). Wir haben die Infos natürlich auch bei uns aktualisiert.
+[Public Coffee](/cafes/public-coffee-roasters/) hat die Öffnungszeiten angepasst und ist nun zum Teil [etwas länger offen](https://www.facebook.com/publiccoffeeroasters/photos/a.389606667816787.1073741830.389370594507061/1420002314777212/?type=3&theater). Wir haben die Infos natürlich auch bei uns aktualisiert.
 
 (Was falsch? Was vergessen? Hilfe ist immer sehr willkommen: [anregungen@hhkaffee.com](mailto:anregungen@hhkaffee.com). Danke!)

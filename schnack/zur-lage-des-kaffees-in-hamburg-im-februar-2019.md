@@ -8,7 +8,7 @@ Das [Tōrnqvist](/cafes/tornqvist/) hat eine neue Location, und zwar in der Hein
 
 Noch etwas zum Tōrnqvist, wenn auch aus dem Dezember: Anders Husa preist Linus und das Tōrnqvist als [»das beste Café Hamburgs«](https://andershusa.com/tornqvist-the-best-coffee-shop-in-hamburg-its-a-fruit-barista-geek-linus-koster) an.
 
-Gute Nachrichten kommen dann von [Hunt Coffee Roasters](/cafes/hunt/), die bisher in Norderstedt beheimatet waren: Ab März gibt es Hunt auch in Hamburg, und zwar an den [Colonnaden](https://www.hamburg.de/colonnaden/). In der Hamburger Innenstadt findet man mittlerweile richtig viel guten Kaffee – das war vor drei, vier Jahren noch ganz anders.
+Gute Nachrichten kommen dann von [Hunt Coffee Roasters](/cafes/hunt-coffee-roasters/), die bisher in Norderstedt beheimatet waren: Ab März gibt es Hunt auch in Hamburg, und zwar an den [Colonnaden](https://www.hamburg.de/colonnaden/). In der Hamburger Innenstadt findet man mittlerweile richtig viel guten Kaffee – das war vor drei, vier Jahren noch ganz anders.
 
 Dann haben wir noch einen interessanten Artikel entdeckt, und zwar European Coffee Trips [_A Complete Guide to Third Wave Coffee in Hamburg_](https://europeancoffeetrip.com/a-complete-guide-to-third-wave-coffee-in-hamburg/). Da fanden wir vieles richtig – und wenn man sich die [Cafés und Röstereien](/cafes/) auf dieser Website so anschaut, scheint es ja so einigen Konsens zu geben.
 

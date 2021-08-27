@@ -6,7 +6,7 @@ vg_wort: e4d224c46a794150a486bf4576d23ada
 
 Etwas mehr los zuletzt, und wir schauen uns auch wieder Cafés an (bisher leider nichts, was so gut wäre, dass es zwingend auf HH Kaffee muss). Und wir hören auf euer Feedback – vermutlich organisieren wir noch im Juli neu, wie hier Cafés und Röster aufgeführt werden. Aber nun:
 
-[Hunt](/cafes/hunt/) ist seit Mitte Juni [auch wirklich in Hamburg](https://www.facebook.com/941902539215698/posts/2738542669551667/)! Und der neue Laden an den Colonnaden ist cool, es lohnt sich, vorbeizuschauen.
+[Hunt](/cafes/hunt-coffee-roasters/) ist seit Mitte Juni [auch wirklich in Hamburg](https://www.facebook.com/941902539215698/posts/2738542669551667/)! Und der neue Laden an den Colonnaden ist cool, es lohnt sich, vorbeizuschauen.
 
 [Tōrnqvist](/cafes/tornqvist/) macht noch was mit Simbiosa, ist aber nicht mehr in der Hein-Hoyer-Straße vor Ort.
 

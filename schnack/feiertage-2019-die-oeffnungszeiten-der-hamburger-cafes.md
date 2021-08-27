@@ -21,13 +21,13 @@ vg_wort: e9278f26c0fe4fc78e05b91e62dd2154
 | [elbgold](/cafes/elbgold/), andere Stand&shy;orte | ✓ (8–14) | — | — | ✓ (8–14) | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
 | [HERMETIC](/cafes/hermetic/) | — | — | — | ✓ (8:30–16) | — |
-| [Hunt Coffee Roasters](/cafes/hunt/) | — | — | — | — | — |
+| [Hunt Coffee Roasters](/cafes/hunt-coffee-roasters/) | — | — | — | — | — |
 | [Kaffeerösterei Burg](/cafes/kaffeeroesterei-burg/) | — | ✓ (11–18) | ✓ (10–18) | ✓ (10–15) | ✓ (11–18) |
 | [kopiba](/cafes/kaffeeroesterei-deathpresso/) | ✓ (9:30–14) | — | — | ✓ (9:30–18) | — |
 | [MAYA Kaffee&shy;rösterei](/cafes/maya-kaffeeroesterei/) | — | — | — | — | — |
-| [Nord Coast](/cafes/nord-coast/) | — | — | — | — | — |
-| [Public](/cafes/public/), Goldbek&shy;platz | — | — | — | ✓ (10–16) | — |
-| [Public](/cafes/public/), andere Stand&shy;orte | — | — | — | — | — |
+| [Nord Coast](/cafes/nord-coast-coffee-roastery/) | — | — | — | — | — |
+| [Public](/cafes/public-coffee-roasters/), Goldbek&shy;platz | — | — | — | ✓ (10–16) | — |
+| [Public](/cafes/public-coffee-roasters/), andere Stand&shy;orte | — | — | — | — | — |
 | [RAIN Cafeatery](/cafes/rain-cafeatery/) | ✓ (9–14) | — | — | ✓ (9–14) | — |
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Kehr&shy;wieder | ✓ (10–15) | ✓ (12–18) | ✓ (12–19) | ✓ (10–19) | ✓ (12–19) |
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Eppen&shy;dorfer Baum | ✓ (9–14) | — | ✓ (12–18) | ✓ (9–16) | ✓ (12–18) |

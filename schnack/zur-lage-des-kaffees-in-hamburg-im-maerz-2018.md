@@ -4,7 +4,7 @@ date: 2018-03-05
 vg_wort: db8907f2924d4cb195500b244542acb5 
 ---
 
-Das [Barista-Magazin](https://www.facebook.com/baristamagazin/) hat in seiner aktuellen Ausgabe gleich drei Hamburger Röster [präsentiert](https://www.facebook.com/baristamagazin/posts/1189177494546188): [elbgold](/cafes/elbgold/), [Public](/cafes/public/) und [Tōrnqvist](/cafes/tornqvist/). Das ist ziemlich cool 👌
+Das [Barista-Magazin](https://www.facebook.com/baristamagazin/) hat in seiner aktuellen Ausgabe gleich drei Hamburger Röster [präsentiert](https://www.facebook.com/baristamagazin/posts/1189177494546188): [elbgold](/cafes/elbgold/), [Public](/cafes/public-coffee-roasters/) und [Tōrnqvist](/cafes/tornqvist/). Das ist ziemlich cool 👌
 
 Seit dem 1. März ist der neue elbgold im Mühlenkamp geöffnet, am Mühlenkamp 59! Wir waren da und es gefällt uns gut 🙋‍♂️ [elbgolds Daten](/cafes/elbgold/) hier auf HH Kaffee sind aktuell.
 

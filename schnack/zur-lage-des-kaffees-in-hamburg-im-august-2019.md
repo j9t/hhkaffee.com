@@ -7,6 +7,6 @@ Nicht viel.
 
 Die [erste liebe bar](/cafes/erste-liebe-bar/) ist seit ein paar Wochen erstmal geschlossen, nach dem, was wir erfragen konnten, voraussichtlich bis Oktober.
 
-[Hunt](/cafes/hunt/), über die wir zuletzt recht viel berichtet haben, – bietet in Kürze auch Küche.
+[Hunt](/cafes/hunt-coffee-roasters/), über die wir zuletzt recht viel berichtet haben, – bietet in Kürze auch Küche.
 
 [Habt ihr noch was?](/kontakt/) Wir sind aktuell zwar einfach nur super-busy, freuen uns aber generell immer über Hinweise. Dank euch!

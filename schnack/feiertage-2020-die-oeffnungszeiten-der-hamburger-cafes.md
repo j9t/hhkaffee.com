@@ -17,18 +17,18 @@ vg_wort: 6e7cf487f6f04644baf722ba8c422aa8
 | [Café Délice](/cafes/cafe-delice/) | ✓ (8–14) | — | — | ✓ (8–14) | — |
 | [CODOS](/cafes/codos/), Bartelsstr. | ✓ (9–14) | — | — | ✓ (9–14) | — |
 | [CODOS](/cafes/codos/), Bahren&shy;felder Str. | ✓ (8–14) | ✓ (11–17) | ✓ (11–17) | ✓ (8–14) | ✓ (11–17) |
-| [Die Rösterei Coffeum](/cafes/die-roesterei/) | ✓ (10–14) | — | — | ✓ (10–14) | — |
+| [Die Rösterei Coffeum](/cafes/die-roesterei-coffeum/) | ✓ (10–14) | — | — | ✓ (10–14) | — |
 | [el rojito](/cafes/el-rojito/) | — | — | — | — | — |
 | [elbgold](/cafes/elbgold/), Eppen&shy;dorfer Baum und Mühlenkamp | ✓ (7–14) | — | — | ✓ (9–14) | — |
 | [elbgold](/cafes/elbgold/), andere Stand&shy;orte | — | — | — | — | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
 | [Kaffee&shy;rösterei Death&shy;presso](/cafes/kaffeeroesterei-deathpresso/) | — | — | — | — | — |
-| [Manufact Coffee Roasters](/cafes/manufact/) | — | — | — | ? | ✓ (ab 11) |
-| [Marshall Street Coffee](/cafes/marshall-street/) | — | — | — | — | — |
+| [Manufact Coffee Roasters](/cafes/manufact-coffee-roasters/) | — | — | — | ? | ✓ (ab 11) |
+| [Marshall Street Coffee](/cafes/marshall-street-coffee/) | — | — | — | — | — |
 | [MAYA Kaffee&shy;rösterei](/cafes/maya-kaffeeroesterei/) | — | — | — | — | — |
-| [Nord Coast](/cafes/nord-coast/) | — | — | — | — | — |
-| [Playground Coffee](/cafes/playground/) | — | — | — | ? | — |
-| [Public](/cafes/public/) | — | — | — | — | — |
+| [Nord Coast](/cafes/nord-coast-coffee-roastery/) | — | — | — | — | — |
+| [Playground Coffee](/cafes/playground-coffee/) | — | — | — | ? | — |
+| [Public](/cafes/public-coffee-roasters/) | — | — | — | — | — |
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Kehr&shy;wieder | ✓ (10–14) | ✓ (12–18) | ✓ (12–18) | ✓ (10–18) | ✓ (12–18) |
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Eppen&shy;dorfer Baum | ✓ (9–14) | — | ✓ (12–18) | ✓ (9–16) | — |
 | [Stockholm Espresso Club](/cafes/stockholm-espresso-club/) | — | — | — | ✓ (10–15) | ✓ (12–17) |

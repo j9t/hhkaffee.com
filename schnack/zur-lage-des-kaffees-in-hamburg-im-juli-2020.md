@@ -6,7 +6,7 @@ vg_wort: 9073369bd6c0495da004f8cc59c0d445
 
 Weiter Coronaviruslangsamkeit. Und auch einfach viel zu tun bei Jens.
 
-Wir haben schon im Mai [Marshall Street Coffee](/cafes/marshall-street/) aufgenommen. Nochmal willkommen! An alle anderen, wenn ihr noch nicht da wart, hin da 😉
+Wir haben schon im Mai [Marshall Street Coffee](/cafes/marshall-street-coffee/) aufgenommen. Nochmal willkommen! An alle anderen, wenn ihr noch nicht da wart, hin da 😉
 
 [elbgold](/cafes/elbgold/) wurde [im Juni](https://www.facebook.com/elbgold/posts/10156851270401090) vom [Hamburger](https://www.derhamburger.info/) gefeatured (← dieses Wort 😏).
 

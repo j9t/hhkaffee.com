@@ -7,7 +7,7 @@ logo: /media/venues/playground-coffee.png
 website: /cafes/playground-coffee/
 ---
 
-Vor ein paar Wochen haben wir uns [mit Chris Balz unterhalten](/schnack/3-fragen-an-chris-balz-balz-und-balz/), jetzt hatten wir das große Vergnügen, kurz mit Veljko Tatalović, dem Gründer und Besitzer von [Playground Coffee](/cafes/playground/) zu sprechen. Willkommen zu: 4 Fragen an Veljko Tatalović!
+Vor ein paar Wochen haben wir uns [mit Chris Balz unterhalten](/schnack/3-fragen-an-chris-balz-balz-und-balz/), jetzt hatten wir das große Vergnügen, kurz mit Veljko Tatalović, dem Gründer und Besitzer von [Playground Coffee](/cafes/playground-coffee/) zu sprechen. Willkommen zu: 4 Fragen an Veljko Tatalović!
 
 Jens (HH Kaffee): Was ist ein guter Kaffee für dich?
 

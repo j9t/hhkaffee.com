@@ -7,7 +7,7 @@ logo: /media/venues/elbgold.jpg
 website: /cafes/elbgold/
 ---
 
-Nachdem das letzte Interview mit [Aaron vom Teikei](/schnack/7-fragen-an-aaron-kueppers-teikei/) schon etwas her ist, gibt es endlich ein neues, und wir freuen uns heute auf – Timo Hildebrandt vom [elbgold](/cafes/elbgold/)! Wir hatten mit der Idee schon zu Timos Zeiten bei [Hunt](/cafes/hunt/) gespielt, und nun ist es endlich soweit!&nbsp;☕️
+Nachdem das letzte Interview mit [Aaron vom Teikei](/schnack/7-fragen-an-aaron-kueppers-teikei/) schon etwas her ist, gibt es endlich ein neues, und wir freuen uns heute auf – Timo Hildebrandt vom [elbgold](/cafes/elbgold/)! Wir hatten mit der Idee schon zu Timos Zeiten bei [Hunt](/cafes/hunt-coffee-roasters/) gespielt, und nun ist es endlich soweit!&nbsp;☕️
 
 Jens (HH Kaffee): Steigen wir direkt ein – was ist ein guter Kaffee für dich?
 
