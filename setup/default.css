@@ -26,7 +26,6 @@ img.logo {
 html {
 	color: #000;
 	font: 87.5%/1.75 optima, lato, sans-serif;
-	hyphens: auto;
 	padding: 1em;
 }
 
@@ -180,6 +179,10 @@ ul.meta {
 p + ul + div#map,
 div#stage + div#map {
 	margin-top: 2em;
+}
+
+p {
+	hyphens: auto;
 }
 
 blockquote,
