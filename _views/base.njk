@@ -13,7 +13,7 @@ date: Last Modified
 	<meta property="og:image" content="{{ metadata.url }}media/logo-social.png">
 	<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
 	<link rel=stylesheet href=/setup/default.min.css>
-	<link rel=alternate href={{ metadata.feed.path | url }} type=application/atom+xml title="{{ metadata.title }}">
+	<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
 	<link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
 	{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
 	<header>
@@ -33,7 +33,7 @@ date: Last Modified
 		{{ content | safe }}
 	</article>
 	<div id=social>
-		<p>Informiert bleiben? Folgt uns per <a href={{ metadata.feed.path | url }}>RSS-Feed</a> oder auf&nbsp;<a href=https://twitter.com/hhkaffeecom>Twitter</a>.
+		<p>Informiert bleiben? Folgt uns per <a href=/feed/>RSS-Feed</a> oder auf&nbsp;<a href=https://twitter.com/hhkaffeecom>Twitter</a>.
 	</div>
 	<footer>
 		{{ metadata.description }}
