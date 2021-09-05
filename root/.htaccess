@@ -61,7 +61,7 @@ Header always set X-Frame-Options SAMEORIGIN
 
 # Course Alterations: P1
 Redirect 301 /apple-touch-icon-precomposed.png https://hhkaffee.com/apple-touch-icon.png
-Redirect 301 /cafes/die-roesterei-coffeum/ https://hhkaffee.com/cafes/die-roesterei-coffeum/
+Redirect 301 /cafes/die-roesterei/ https://hhkaffee.com/cafes/die-roesterei-coffeum/
 Redirect 301 /cafes/die-roesterei https://hhkaffee.com/cafes/die-roesterei-coffeum/
 Redirect 301 /cafes/katelbach/ https://hhkaffee.com/cafes/
 Redirect 301 /cafes/kopiba/ https://hhkaffee.com/cafes/kaffeeroesterei-deathpresso/
