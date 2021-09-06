@@ -22,7 +22,7 @@
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@sum.cumo/imagemin-merlin": "^2.0.0",
-    "husky": "^7.0.1",
+    "husky": "^7.0.2",
     "luxon": "^2.0.2",
     "markdown-it": "^12.0.4"
   },
