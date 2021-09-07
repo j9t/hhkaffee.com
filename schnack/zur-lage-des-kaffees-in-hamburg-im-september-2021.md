@@ -1,7 +1,6 @@
 ---
 title: Zur Lage des Kaffees in Hamburg im September 2021
 date: 2021-09-07
-hidden: true
 vg_wort: 8dc3e0d89e194cf9a34b0cac53bfdbf9
 ---
 
