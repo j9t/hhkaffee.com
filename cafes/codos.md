@@ -9,7 +9,7 @@ facebook: https://www.facebook.com/codos.hh
 instagram: https://www.instagram.com/codoscoffee/
 
 locations:
-- address: Bahrenfelder Straße 139<br>22765 Hamburg
+- address: Bahrenfelder Straße 137–139<br>22765 Hamburg
   coordinates: "53.55348990282172,9.928964180046016"
   hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag 9–18&nbsp;Uhr<br>Sonntag 10–18&nbsp;Uhr
 - address: Bahrenfelder Straße 156<br>22765 Hamburg
