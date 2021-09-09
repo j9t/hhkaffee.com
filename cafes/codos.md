@@ -9,10 +9,9 @@ facebook: https://www.facebook.com/codos.hh
 instagram: https://www.instagram.com/codoscoffee/
 
 locations:
-- address: Bartelsstraße 26<br>20357 Hamburg
-  coordinates: "53.5623875,9.964579800000024"
-  hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag/Sonntag 10–18&nbsp;Uhr
-  phone: 30747334
+- address: Bahrenfelder Straße 139<br>22765 Hamburg
+  coordinates: "53.55348990282172,9.928964180046016"
+  hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag 9–18&nbsp;Uhr<br>Sonntag 10–18&nbsp;Uhr
 - address: Bahrenfelder Straße 156<br>22765 Hamburg
   coordinates: "53.553861,9.928945699999986"
   hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag/Sonntag 9–18&nbsp;Uhr
@@ -20,6 +19,10 @@ locations:
 - address: Große Bergstraße 247<br>22767 Hamburg
   coordinates: "53.55219249789674,9.93985488553009"
   hours: "\""
+- address: Bartelsstraße 26<br>20357 Hamburg
+  coordinates: "53.5623875,9.964579800000024"
+  hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag/Sonntag 10–18&nbsp;Uhr
+  phone: 30747334
 
 views:
 - title: CODOS von innen.
