@@ -1,5 +1,14 @@
 {
   "name": "hhkaffee.com",
+  "author": {
+    "name": "HH Kaffee",
+    "email": "info@hhkaffee.com",
+    "url": "https://hhkaffee.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/j9t/hhkaffee.com.git"
+  },
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -7,15 +16,6 @@
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy",
     "imagemin": "imagemin-merlin"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/j9t/hhkaffee.com.git"
-  },
-  "author": {
-    "name": "HH Kaffee",
-    "email": "info@hhkaffee.com",
-    "url": "https://hhkaffee.com/"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
