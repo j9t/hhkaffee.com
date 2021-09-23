@@ -37,10 +37,9 @@ ExpiresByType text/xml A60
 FileETag All
 Header always edit Set-Cookie (.*) "$1; SameSite=Lax; Secure"
 Header always set X-Content-Type-Options nosniff
-Header always set X-Frame-Options SAMEORIGIN
 
 <FilesMatch "\.(html|php|xml)$">
-	Header always set Content-Security-Policy "upgrade-insecure-requests; default-src 'self'; font-src 'self' fonts.gstatic.com; img-src 'self' data: maps.googleapis.com maps.gstatic.com *.met.vgwort.de; script-src 'self' 'unsafe-inline' maps.googleapis.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com"
+	Header always set Content-Security-Policy "upgrade-insecure-requests; default-src 'self'; font-src 'self' fonts.gstatic.com; img-src 'self' data: maps.googleapis.com maps.gstatic.com *.met.vgwort.de; script-src 'self' 'unsafe-inline' maps.googleapis.com; style-src 'self' 'unsafe-inline' fonts.googleapis.com; frame-ancestors 'self'"
 	# Header always set Feature-Policy "camera 'none'; microphone 'none'; payment 'none'"
 	Header always set Permissions-Policy: interest-cohort=()
 	Header always set Referrer-Policy "no-referrer-when-downgrade"
