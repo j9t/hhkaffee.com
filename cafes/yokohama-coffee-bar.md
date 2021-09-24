@@ -18,4 +18,4 @@ espresso: 1,90
 internet: ja
 ---
 
-»Das Neighbourhood-Café am Lohsepark« (eröffnet 2020). In der Yokohama Coffee Bar gibt es Kaffee von [Torrefaktum](/cafes/torrefaktum/), die dort vorher einen Standort hatten, sowie von [onetake](https://www.onetake.coffee/).
+»Das Neighbourhood-Café am Lohsepark« (eröffnet 2020). In der Yokohama Coffee Bar gibt es Kaffee von [onetake](https://www.onetake.coffee/).
