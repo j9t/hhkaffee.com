@@ -17,8 +17,8 @@ locations:
   hours: Montag – Freitag 9–17&nbsp;Uhr<br>Samstag 10–16&nbsp;Uhr
   phone: 39807272
 
-coffee: 3,90
-espresso: 1,70
+coffee: 2,80
+espresso: 2
 internet: ja
 ---
 
