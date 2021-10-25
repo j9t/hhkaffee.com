@@ -14,7 +14,7 @@ hidden: true
 			<link>{{ metadata.url }}</link>
 			<url>{{ metadata.url_truncated }}/media/logo-social.png</url>
 		</image>
-		{%- for post in collections.posts | reverse -%}
+		{%- for post in collections.all | reverse -%}
 		{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
 		{%- if loop.index0 < 25 %}
 		<item>
