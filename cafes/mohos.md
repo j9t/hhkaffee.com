@@ -3,7 +3,6 @@ title: MOHO’S
 date: 2021-10-25
 tags:
   - candidate
-hidden: true
 
 logo: /media/venues/mohos.png
 email: hj@mohos-barista.de
