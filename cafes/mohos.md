@@ -20,4 +20,4 @@ espresso: 2,10
 internet: ja
 ---
 
-Das MOHO’S (eröffnet 2019) liegt zentral, in der Nähe der Universität, und versorgt Kaffeeliebhaber mit Kaffee von [Public](/cafes/public-coffee-roasters/).
+Das MOHO’S (eröffnet 2019) liegt zentral – in der Nähe der Universität – und versorgt Kaffeeliebhaber mit Kaffee von [Public](/cafes/public-coffee-roasters/) (und jeden mit hausgemachten Kuchen und Aufstrichen).
