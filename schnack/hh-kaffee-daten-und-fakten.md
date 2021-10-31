@@ -9,3 +9,15 @@ website: /
 ---
 
 @@
+
+## Reichweite
+
+@@
+
+## Technische Daten
+
+@@
+
+## Paket und Optionen
+
+@@
