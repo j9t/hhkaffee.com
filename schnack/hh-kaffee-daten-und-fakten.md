@@ -18,9 +18,9 @@ Da ich HH Kaffee »nebenher« betreibe, komme ich nicht dazu, die Website so aus
 
 | Plattform | Zugriffe oder Follower | Trend |
 |---|---|---|
-| @@ | @@ | @@ |
-| @@ | @@ | @@ |
-| @@ | @@ | @@ |
+| [HH Kaffee](https://hhkaffee.com/) | 653 tägliche Zugriffe<br>20.246 monatliche Zugriffe<br>(Server-Logs für Oktober) | ↘ |
+| [Twitter](https://twitter.com/hhkaffeecom) | 126 Followers | → |
+| [Facebook](https://www.facebook.com/hhkaffeecom) | 110 Followers | → |
 
 ## Technische Daten
 
@@ -28,8 +28,9 @@ Da ich HH Kaffee »nebenher« betreibe, komme ich nicht dazu, die Website so aus
 
 | System | Detail |
 |---|---|
-| @@ | @@ |
-| @@ | @@ |
+| Hoster | @@ |
+| System | @@ |
+| Technische Anforderungen | @@ |
 | @@ | @@ |
 
 ## Interessiert?
