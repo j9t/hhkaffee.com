@@ -26,11 +26,19 @@ Da ich HH Kaffee »nebenher« betreibe, komme ich nicht dazu, die Website so aus
 
 @@
 
-| System | Detail |
+| System | Details |
 |---|---|
-| Hoster | @@ |
-| System | @@ |
-| Technische Anforderungen | @@ |
+| Content-Management-System | @@ |
+| Abhängigkeiten | @@ |
+| @@ | @@ |
+
+@@
+
+| Qualitätsmerkmal | Wert |
+|---|---|
+| Zugänglichkeit | @@ |
+| Performance | @@ |
+| Validität | @@ |
 | @@ | @@ |
 
 ## Interessiert?
