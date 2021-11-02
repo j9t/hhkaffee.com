@@ -28,7 +28,7 @@ Da ich HH Kaffee »nebenher« betreibe, komme ich nicht dazu, die Website so aus
 
 | System | Details |
 |---|---|
-| Content-Management-System | @@ |
+| Content-Management-System | [Eleventy](https://www.11ty.dev/) (Static Site Generator) |
 | Abhängigkeiten | @@ |
 | @@ | @@ |
 
