@@ -28,9 +28,11 @@ Da ich HH Kaffee »nebenher« betreibe, komme ich nicht dazu, die Website so aus
 
 | System | Details |
 |---|---|
+| Quelltext | [GitHub](https://github.com/j9t/hhkaffee.com)&nbsp;^*^ |
+| Versionskontrolle | Git |
 | Content-Management-System | [Eleventy](https://www.11ty.dev/) (Static Site Generator) |
-| Abhängigkeiten | @@ |
-| @@ | @@ |
+| Package-Management | [npm](https://www.npmjs.com/) (halbautomatisch aktualisiert über [Depfu](https://depfu.com/)&nbsp;^*^) |
+| Kartenanbieter | Google Maps&nbsp;^*^ |
 
 @@
 
@@ -48,3 +50,5 @@ Da ich HH Kaffee »nebenher« betreibe, komme ich nicht dazu, die Website so aus
 ### Paket und Optionen
 
 @@
+
+^*^ Für diese Systeme muss eine Übergabe organisiert werden, was bei Beibehaltung der Anbieter jedoch einfach ist.
