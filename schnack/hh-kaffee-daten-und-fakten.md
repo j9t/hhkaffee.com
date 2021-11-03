@@ -78,6 +78,8 @@ Nicht zum Verkauf gehören:
 * fortgeführtes Hosting
 * fortgesetzter Einsatz von Tools und Lizenzen (Google Maps, Depfu, u.ä.)
 * Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten [Cafés und Röstereien](/cafes/)
+* Rechte an persönlichen Daten (vor allen meinen)
+* Rechte an dieser Seite (bitte nach Übernahme löschen)
 * @@
 
 Nach abgeschlossenem Verkauf sollte folgendes erledigt werden:
