@@ -22,6 +22,10 @@ Da ich HH Kaffee »nebenher« betreibe, komme ich nicht dazu, die Website so aus
 | [Twitter](https://twitter.com/hhkaffeecom) | 126 Followers | → |
 | [Facebook](https://www.facebook.com/hhkaffeecom) | 110 Followers | → |
 
+## Wartbarkeit
+
+@@
+
 ## Technische Daten
 
 @@
