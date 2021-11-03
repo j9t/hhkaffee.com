@@ -10,11 +10,11 @@ website: /
 
 HH Kaffee ist ein Liebhaberprojekt, das [seit 2017](/ueber-uns/) exklusiv von [Jens Oliver Meiert](https://meiert.com/), einem in Hamburg ansässigen Engineering Manager und Autor betrieben wird. (Hi.)
 
-_HH Kaffee steht zum Verkauf:_ Da ich HH Kaffee nebenher betreibe, komme ich nicht dazu, die Website so auszubauen, dass sie noch mehr für Kaffee und Cafés in Hamburg tun kann (auch wenn ich noch einige Ideen habe). Ich habe auch nicht die Kapazität, die Website zu »monetarisieren« (was als Hamburger und Kaffeefreund auch nicht meine Motivation war).
+_HH Kaffee steht zum Verkauf:_ Da ich HH Kaffee nebenher betreibe, komme ich nicht dazu, die Website so auszubauen, dass sie noch mehr für Kaffee und Cafés in Hamburg tun kann (auch wenn ich noch einige Ideen habe). Ich habe auch nicht die Kapazität, die Website über Affiliate-Marketing und der Verwertung von Inhalten hinaus weiter zu »monetarisieren« (was als Hamburger und Kaffeefreund auch nicht meine Motivation war).
 
 ## Reichweite
 
-HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der schon 2018 bei etwa 400 Zugriffen am Tag, und 2021 bei etwa 700 Zugriffen am Tag lag (Server-Logs – beinhaltet allen Traffic).
+HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der schon 2018 bei etwa 400 Zugriffen am Tag, und 2021 bei etwa 700 Zugriffen am Tag liegt (Quelle: Server-Logs, beinhaltet _allen_ Traffic, einschließlich von Suchmaschinen).
 
 | Plattform | Zugriffe oder Follower | Trend |
 |---|---|---|
@@ -22,40 +22,71 @@ HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der sch
 | [Twitter](https://twitter.com/hhkaffeecom) | 126 Followers | → |
 | [Facebook](https://www.facebook.com/hhkaffeecom) | 110 Followers | → |
 
+## Monetarisierung
+
+Die Website ist bereits auf folgende Einkommensoptionen ausgelegt:
+
+| Vermarktung | Art der Integration |
+|---|---|
+| Affiliate-Marketing | vereinfachte Verlinkung von Produkten mit [Amazon PartnerNet](https://partnernet.amazon.de/) |
+| Verwertung von eigenen Inhalten | vereinfachte Verpixelung von Beiträgen mit Zählmarken der [VG WORT](https://www.vgwort.de/) |
+
+Die Einnahmen hierüber liegen bei einigen Euro.
+
 ## Wartbarkeit
 
 HH Kaffee ist erfordert ein bisschen technische Erfahrung, ist aber insgesamt leicht zu pflegen. Inhalte werden in [Markdown](https://daringfireball.net/projects/markdown/) geschrieben ([Beispiel für diese Seite](https://github.com/j9t/hhkaffee.com/blob/master/schnack/hh-kaffee-daten-und-fakten.md)), einem textähnlichen Format. Die Website mit allen Unterseiten wird dann über Eleventy, einen sogenannten »Static Site Generator« generiert und aktuell via SFTP mit dem Server synchronisiert.
 
 Die Inhalte sind durch Markdown leicht portierbar, solltest du oder ihr euch für ein anderes System entscheiden.
 
-## Technische Daten
+## Technologie
 
-HH Kaffee benutzt einen einfachen, aber modern Technologie-Stack, mit einem hochwertiger technischer Ausgabe (ich komme aus der Webentwicklung und forsche und publiziere über die Qualität von Websites).
+HH Kaffee benutzt einen einfachen, aber modern Technologie-Stack:
 
 | System | Details |
 |---|---|
 | Quelltext | [GitHub](https://github.com/j9t/hhkaffee.com)&nbsp;^*^ |
 | Versionskontrolle | Git |
 | Content-Management-System | [Eleventy](https://www.11ty.dev/) (Static Site Generator) |
-| Package-Management | [npm](https://www.npmjs.com/) (halbautomatisch aktualisiert über [Depfu](https://depfu.com/)&nbsp;^*^) |
+| Paket-Management | [npm](https://www.npmjs.com/) (halbautomatisch aktualisiert über [Depfu](https://depfu.com/)&nbsp;^*^) |
 | Kartenanbieter | Google Maps&nbsp;^*^ |
 
-@@
+## Qualität
+
+Der Quelltext und der ausgegebene Code sind hochwertig (ich komme aus der Webentwicklung und forsche und publiziere über die Qualität von Websites):
 
 | Qualitätsmerkmal | Wert |
 |---|---|
 | Zugänglichkeit | @@ |
-| Performance | @@ |
-| Validität | @@ |
+| Performance | [99/100 PageSpeed-Score](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhhkaffee.com%2F&tab=desktop)<br>[0,421&nbsp;s Speed Index](https://www.webpagetest.org/result/211103_BiDc40_94451b092d67a58a9e7c1d732a44a95f/) |
+| Validität | [0 Fehler im HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhhkaffee.com%2F)<br>[0 Fehler im CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhhkaffee.com%2F&profile=css3svg&usermedium=all&vextwarning=true) |
 | @@ | @@ |
 
 (Neugierig auf weitere Analysen und Daten? Nimm [HH Kaffee auf UITest.com](https://uitest.com/check/results/?url=https://hhkaffee.com/) unter die Lupe.)
 
+## Paket und Optionen
+
+Ich biete HH Kaffee zum Verkauf an.
+
+Hierzu gehört folgendes:
+
+* @@
+
+Nicht zum Verkauf gehören:
+
+* technische Arbeiten und Wartung, die über die Übergabe hinausgehen 
+* fortgeführtes Hosting
+* fortgesetzter Einsatz von Tools und Lizenzen (Google Maps, Depfu, u.ä.)
+* Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten [Cafés und Röstereien](/cafes/)
+* @@
+
+Nach abgeschlossenem Verkauf sollte folgendes erledigt werden:
+
+* @@
+
+Ich übergebe alles nach bestem Wissen und Gewissen und schließe nach vollzogenem Verkauf jegliche Verantwortung, Gewährleistung und Haftung aus. Du übernimmst alle Pflichten und Risiken, die mit dem Betrieb einer und dieser Website einhergehen.
+
 ## Interessiert?
-
-@@
-
-### Paket und Optionen
 
 @@
 
