@@ -22,6 +22,13 @@ HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der sch
 | [Twitter](https://twitter.com/hhkaffeecom) | 126 Followers | → |
 | [Facebook](https://www.facebook.com/hhkaffeecom) | 110 Followers | → |
 
+<div style="text-align: center;">
+
+![@@.](/media/temp-google-search-2021-10.png)
+Oktober-Daten aus der »Google Search Console«.
+
+</div>
+
 ## Monetarisierung
 
 Die Website ist bereits auf folgende Einkommensoptionen ausgelegt:
@@ -45,11 +52,11 @@ HH Kaffee benutzt einen einfachen, aber modern Technologie-Stack:
 
 | System | Details |
 |---|---|
-| Quelltext | [GitHub](https://github.com/j9t/hhkaffee.com)&nbsp;^*^ |
+| Quelltext | [GitHub](https://github.com/j9t/hhkaffee.com)&nbsp;† |
 | Versionskontrolle | Git |
 | Content-Management-System | [Eleventy](https://www.11ty.dev/) (Static Site Generator) |
-| Paket-Management | [npm](https://www.npmjs.com/) (halbautomatisch aktualisiert über [Depfu](https://depfu.com/)&nbsp;^*^) |
-| Kartenanbieter | Google Maps&nbsp;^*^ |
+| Paket-Management | [npm](https://www.npmjs.com/) (halbautomatisch aktualisiert über [Depfu](https://depfu.com/)&nbsp;†) |
+| Kartenanbieter | Google Maps&nbsp;† |
 
 ## Qualität
 
@@ -57,10 +64,10 @@ Der Quelltext und der ausgegebene Code sind hochwertig (ich komme aus der Webent
 
 | Qualitätsmerkmal | Wert |
 |---|---|
-| Zugänglichkeit | @@ |
 | Performance | [99/100 PageSpeed-Score](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhhkaffee.com%2F&tab=desktop)<br>[0,421&nbsp;s Speed Index](https://www.webpagetest.org/result/211103_BiDc40_94451b092d67a58a9e7c1d732a44a95f/) |
 | Validität | [0 Fehler im HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhhkaffee.com%2F)<br>[0 Fehler im CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhhkaffee.com%2F&profile=css3svg&usermedium=all&vextwarning=true) |
-| @@ | @@ |
+
+Etwaige Mängel, wie z.B. in der technischen [Analyse der Zugänglichkeit](https://wave.webaim.org/report#/https%3A%2F%2Fhhkaffee.com%2F), sind auf Code von Dritten zurückzuführen (wie Google Maps). 
 
 (Neugierig auf weitere Analysen und Daten? Nimm [HH Kaffee auf UITest.com](https://uitest.com/check/results/?url=https://hhkaffee.com/) unter die Lupe.)
 
@@ -71,25 +78,32 @@ Ich biete HH Kaffee zum Verkauf an.
 Hierzu gehört folgendes:
 
 * @@
+* volle Unterstützung bei der Übernahme
+* begrenzte Unterstützung für Rückfragen und ggf. Anpassungen
 
 Nicht zum Verkauf gehören:
 
+* @@
 * technische Arbeiten und Wartung, die über die Übergabe hinausgehen 
 * fortgeführtes Hosting
 * fortgesetzter Einsatz von Tools und Lizenzen (Google Maps, Depfu, u.ä.)
 * Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten [Cafés und Röstereien](/cafes/)
-* Rechte an persönlichen Daten (vor allen meinen)
-* Rechte an dieser Seite (bitte nach Übernahme löschen)
-* @@
+* Rechte an persönlichen Daten (insbesondere meinen)
+* Rechte an diesem Dokument (sofern nicht von mir erledigt, nach Übernahme löschen)
+* Zugänge für und Ansprüche auf Affiliate-Marketing und Rechteverwertung (Affiliate-IDs und VG-WORT-Pixel sind auszutauschen)
 
 Nach abgeschlossenem Verkauf sollte folgendes erledigt werden:
 
 * @@
+* Übertragung der Domain auf eigenes Hosting (Käufer)
+* Übertragung des HH-Kaffee-Codes (Transfer des GitHub-Repos zu Käufer, oder Übermittlung einer Archivdatei) (Verkäufer)
 
-Ich übergebe alles nach bestem Wissen und Gewissen und schließe nach vollzogenem Verkauf jegliche Verantwortung, Gewährleistung und Haftung aus. Du übernimmst alle Pflichten und Risiken, die mit dem Betrieb einer und dieser Website einhergehen.
+Ich übergebe alles nach bestem Wissen und Gewissen und schließe nach vollzogenem Verkauf jegliche Verantwortung, Gewährleistung und Haftung aus. Der Käufer übernimmt alle Pflichten und Risiken, die mit dem Betrieb einer und dieser Website einhergehen.
 
 ## Interessiert?
 
-@@
+Schicke mir [eine E-Mail](/kontakt/) mit Rückfragen bzw. einem Gebot. Der Mindestpreis für HH Kaffee beträgt 1.000 Euro.
 
-^*^ Für diese Systeme muss eine Übergabe organisiert werden, was bei Beibehaltung der Anbieter jedoch einfach ist.
+Vielen Dank für das Interesse – und auf eine gute und gesunde Kaffeekultur in Hamburg!&nbsp;☕️
+
+† Für diese Systeme muss eine Übergabe organisiert werden, was bei Beibehaltung der Anbieter jedoch einfach ist.
