@@ -78,6 +78,7 @@ Ich biete HH Kaffee zum Verkauf an.
 Hierzu gehört folgendes:
 
 * @@
+* meine Liste noch zu berücksichtigender Cafés und Röster (Kandidaten für die Aufnahme auf HH Kaffee)
 * volle Unterstützung bei der Übernahme
 * begrenzte Unterstützung für Rückfragen und ggf. Anpassungen
 
