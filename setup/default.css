@@ -356,12 +356,12 @@ em {
 
 th {
 	text-align: left;
-	width: 14%;
+	/* width: 14%; */
 }
 
-th:first-child {
+/* th:first-child {
 	width: 30%;
-}
+} */
 
 a {
 	color: #e30613;

@@ -10,11 +10,11 @@ website: /
 
 HH Kaffee ist ein Liebhaberprojekt, das [seit 2017](/ueber-uns/) exklusiv von [Jens Oliver Meiert](https://meiert.com/), einem in Hamburg ansässigen Engineering Manager und Autor betrieben wird. (Hi.)
 
-_HH Kaffee steht zum Verkauf:_ Da ich HH Kaffee nebenher betreibe, komme ich nicht dazu, die Website so auszubauen, dass sie noch mehr für Kaffee und Cafés in Hamburg tun kann (auch wenn ich noch einige Ideen habe). Ich habe auch nicht die Kapazität, die Website über Affiliate-Marketing und der Verwertung von Inhalten hinaus weiter zu »monetarisieren« (was als Hamburger und Kaffeefreund auch nicht meine Motivation war).
+_HH Kaffee steht zum Verkauf:_ Da ich HH Kaffee nebenher betreibe, komme ich nicht dazu, die Website so auszubauen, dass sie noch mehr für Kaffee und Cafés in Hamburg tun kann (auch wenn ich noch einige Ideen habe). Ich habe auch nicht die Kapazität, die Website über Affiliate-Marketing und der Verwertung von Inhalten hinaus weiter zu »monetarisieren« (was als Hamburger und Kaffeefreund auch nicht meine Hauptmotivation war).
 
 ## Reichweite
 
-HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der schon 2018 bei etwa 400 Zugriffen am Tag, und 2021 bei etwa 700 Zugriffen am Tag liegt (Quelle: Server-Logs, beinhaltet _allen_ Traffic, einschließlich von Suchmaschinen).
+HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der schon 2018 bei etwa 400 Zugriffen am Tag lag, und 2021 bei etwa 700 Zugriffen am Tag liegt (Quelle: Server-Logs, beinhaltet _allen_ Traffic, einschließlich von Suchmaschinen).
 
 | Plattform | Zugriffe oder Follower | Trend |
 |---|---|---|
@@ -38,17 +38,17 @@ Die Website ist bereits auf folgende Einkommensoptionen ausgelegt:
 | Affiliate-Marketing | vereinfachte Verlinkung von Produkten mit [Amazon PartnerNet](https://partnernet.amazon.de/) |
 | Verwertung von eigenen Inhalten | vereinfachte Verpixelung von Beiträgen mit Zählmarken der [VG WORT](https://www.vgwort.de/) |
 
-Die Einnahmen hierüber liegen bei einigen Euro.
+Die Einnahmen liegen aktuell bei einigen Euro im Jahr.
 
 ## Wartbarkeit
 
-HH Kaffee ist erfordert ein bisschen technische Erfahrung, ist aber insgesamt leicht zu pflegen. Inhalte werden in [Markdown](https://daringfireball.net/projects/markdown/) geschrieben ([Beispiel für diese Seite](https://github.com/j9t/hhkaffee.com/blob/master/schnack/hh-kaffee-daten-und-fakten.md)), einem textähnlichen Format. Die Website mit allen Unterseiten wird dann über Eleventy, einen sogenannten »Static Site Generator« generiert und aktuell via SFTP mit dem Server synchronisiert.
+HH Kaffee erfordert ein bisschen technische Erfahrung, ist aber insgesamt leicht zu pflegen. Inhalte werden in [Markdown](https://daringfireball.net/projects/markdown/) geschrieben ([Beispiel für diese Seite](https://github.com/j9t/hhkaffee.com/blob/master/schnack/hh-kaffee-daten-und-fakten.md)), einem textähnlichen Format. Die Website mit allen Unterseiten wird dann über Eleventy, einen sogenannten »Static Site Generator« generiert und aktuell via SFTP mit dem Server synchronisiert.
 
 Die Inhalte sind durch Markdown leicht portierbar, solltest du oder ihr euch für ein anderes System entscheiden.
 
 ## Technologie
 
-HH Kaffee benutzt einen einfachen, aber modern Technologie-Stack:
+HH Kaffee benutzt einen einfachen, aber modernen Technologie-Stack:
 
 | System | Details |
 |---|---|
@@ -69,7 +69,7 @@ Der Quelltext und der ausgegebene Code sind hochwertig (ich komme aus der Webent
 
 Etwaige Mängel, wie z.B. in der technischen [Analyse der Zugänglichkeit](https://wave.webaim.org/report#/https%3A%2F%2Fhhkaffee.com%2F), sind auf Code von Dritten zurückzuführen (wie Google Maps). 
 
-(Neugierig auf weitere Analysen und Daten? Nimm [HH Kaffee auf UITest.com](https://uitest.com/check/results/?url=https://hhkaffee.com/) unter die Lupe.)
+(Für weitere Analysen und Daten kannst du [HH Kaffee auf UITest.com](https://uitest.com/check/results/?url=https://hhkaffee.com/) weiter prüfen.)
 
 ## Paket und Optionen
 
@@ -78,6 +78,8 @@ Ich biete HH Kaffee zum Verkauf an.
 Hierzu gehört folgendes:
 
 * @@
+* Quelltext der gesamten Website
+* das HH-Kaffee-Logo nebst dazugehörigen Vorlagen
 * meine Liste noch zu berücksichtigender Cafés und Röster (Kandidaten für die Aufnahme auf HH Kaffee)
 * volle Unterstützung bei der Übernahme
 * begrenzte Unterstützung für Rückfragen und ggf. Anpassungen
@@ -88,9 +90,9 @@ Nicht zum Verkauf gehören:
 * technische Arbeiten und Wartung, die über die Übergabe hinausgehen 
 * fortgeführtes Hosting
 * fortgesetzter Einsatz von Tools und Lizenzen (Google Maps, Depfu, u.ä.)
-* Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten [Cafés und Röstereien](/cafes/)
+* Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten [Cafés und Röstereien](/cafes/) (ist ggf. direkt mit diesen abzustimmen)
 * Rechte an persönlichen Daten (insbesondere meinen)
-* Rechte an diesem Dokument (sofern nicht von mir erledigt, nach Übernahme löschen)
+* Rechte an diesem Dokument (sofern nicht von mir erledigt, nach Übernahme zu löschen)
 * Zugänge für und Ansprüche auf Affiliate-Marketing und Rechteverwertung (Affiliate-IDs und VG-WORT-Pixel sind auszutauschen)
 
 Nach abgeschlossenem Verkauf sollte folgendes erledigt werden:
@@ -103,7 +105,7 @@ Ich übergebe alles nach bestem Wissen und Gewissen und schließe nach vollzogen
 
 ## Interessiert?
 
-Schicke mir [eine E-Mail](/kontakt/) mit Rückfragen bzw. einem Gebot. Der Mindestpreis für HH Kaffee beträgt 1.000 Euro.
+Schicke mir [eine E-Mail](/kontakt/) mit Rückfragen bzw. einem Gebot. Der Mindestpreis für HH Kaffee beträgt 2.000 Euro.
 
 Vielen Dank für das Interesse – und auf eine gute und gesunde Kaffeekultur in Hamburg!&nbsp;☕️
 
