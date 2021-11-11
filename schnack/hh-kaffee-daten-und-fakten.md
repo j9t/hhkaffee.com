@@ -24,7 +24,7 @@ HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der sch
 
 <div style="text-align: center;">
 
-![@@.](/media/temp-google-search-2021-10.png)
+![Screenshot aus der »Google Search Console«.](/media/temp-google-search-2021-10.png)
 Oktober-Daten aus der »Google Search Console«.
 
 </div>
