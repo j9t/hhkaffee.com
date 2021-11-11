@@ -2,7 +2,6 @@
 title: "HH Kaffee: Daten und Fakten"
 date: 2021-11-03
 hidden: true
-vg_wort: "@@"
 
 logo: /media/logo-alt.png
 website: /
@@ -77,19 +76,17 @@ Ich biete HH Kaffee zum Verkauf an.
 
 Hierzu gehört folgendes:
 
-* @@
 * Quelltext der gesamten Website
 * das HH-Kaffee-Logo nebst dazugehörigen Vorlagen
-* meine Liste noch zu berücksichtigender Cafés und Röster (Kandidaten für die Aufnahme auf HH Kaffee)
+* meine Liste noch zu berücksichtigender und zu evaluierender Cafés und Röster (Kandidaten für die Aufnahme auf HH Kaffee)
 * volle Unterstützung bei der Übernahme
 * begrenzte Unterstützung für Rückfragen und ggf. Anpassungen
 
 Nicht zum Verkauf gehören:
 
-* @@
-* technische Arbeiten und Wartung, die über die Übergabe hinausgehen 
-* fortgeführtes Hosting
+* fortgeführtes Hosting und Übernahme der Kosten für Hosting
 * fortgesetzter Einsatz von Tools und Lizenzen (Google Maps, Depfu, u.ä.)
+* technische Arbeiten und Wartung, die über die Übergabe hinausgehen 
 * Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten [Cafés und Röstereien](/cafes/) (ist ggf. direkt mit diesen abzustimmen)
 * Rechte an persönlichen Daten (insbesondere meinen)
 * Rechte an diesem Dokument (sofern nicht von mir erledigt, nach Übernahme zu löschen)
@@ -97,7 +94,6 @@ Nicht zum Verkauf gehören:
 
 Nach abgeschlossenem Verkauf sollte folgendes erledigt werden:
 
-* @@
 * Übertragung der Domain auf eigenes Hosting (Käufer)
 * Übertragung des HH-Kaffee-Codes (Transfer des GitHub-Repos zu Käufer, oder Übermittlung einer Archivdatei) (Verkäufer)
 
