@@ -34,8 +34,8 @@ Die Website ist bereits auf folgende Einkommensoptionen ausgelegt:
 
 | Vermarktung | Art der Integration |
 |---|---|
-| Affiliate-Marketing | vereinfachte Verlinkung von Produkten mit [Amazon PartnerNet](https://partnernet.amazon.de/) |
-| Verwertung von eigenen Inhalten | vereinfachte Verpixelung von Beiträgen mit Zählmarken der [VG WORT](https://www.vgwort.de/) |
+| Affiliate-Marketing | einfache Verlinkung von Produkten mit [Amazon PartnerNet](https://partnernet.amazon.de/) |
+| Verwertung von eigenen Inhalten | einfache Verpixelung von Beiträgen mit Zählmarken der [VG WORT](https://www.vgwort.de/) |
 
 Die Einnahmen liegen aktuell bei einigen Euro im Jahr.
 
@@ -68,7 +68,7 @@ Der Quelltext und der ausgegebene Code sind hochwertig (ich komme aus der Webent
 
 Etwaige Mängel, wie z.B. in der technischen [Analyse der Zugänglichkeit](https://wave.webaim.org/report#/https%3A%2F%2Fhhkaffee.com%2F), sind auf Code von Dritten zurückzuführen (wie Google Maps). 
 
-(Für weitere Analysen und Daten kannst du [HH Kaffee auf UITest.com](https://uitest.com/check/results/?url=https://hhkaffee.com/) weiter prüfen.)
+(Für weitere Analysen und Daten kannst du [HH Kaffee auf UITest.com](https://uitest.com/check/results/?url=https://hhkaffee.com/) näher untersuchen.)
 
 ## Paket und Optionen
 
@@ -77,9 +77,9 @@ Ich biete HH Kaffee zum Verkauf an.
 Hierzu gehört folgendes:
 
 * Quelltext der gesamten Website
-* das HH-Kaffee-Logo nebst dazugehörigen Vorlagen
+* das HH-Kaffee-Logo nebst verfügbaren Vorlagen
 * meine Liste noch zu berücksichtigender und zu evaluierender Cafés und Röster (Kandidaten für die Aufnahme auf HH Kaffee)
-* volle Unterstützung bei der Übernahme
+* Unterstützung bei der Übernahme
 * begrenzte Unterstützung für Rückfragen und ggf. Anpassungen
 
 Nicht zum Verkauf gehören:
@@ -101,7 +101,7 @@ Ich übergebe alles nach bestem Wissen und Gewissen und schließe nach vollzogen
 
 ## Interessiert?
 
-Schicke mir [eine E-Mail](/kontakt/) mit Rückfragen bzw. einem Gebot. Der Mindestpreis für HH Kaffee beträgt 2.000 Euro.
+Sende mir [eine E-Mail](/kontakt/) mit Rückfragen bzw. einem Gebot. Der Mindestpreis für HH Kaffee beträgt 2.000 Euro.
 
 Vielen Dank für das Interesse – und auf eine gute und gesunde Kaffeekultur in Hamburg!&nbsp;☕️
 
