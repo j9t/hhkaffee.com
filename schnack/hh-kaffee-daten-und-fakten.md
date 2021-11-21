@@ -15,9 +15,9 @@ _HH Kaffee steht zum Verkauf:_ Da ich HH Kaffee nebenher betreibe, komme ich nic
 
 HH Kaffee besteht aktuell aus
 
-* @@ Seiten für [Cafés und Röstereien](/cafes/)
-* @@ [Artikeln und »Nachrichten«](/schnack/)
-* @@ weiteren Seiten (wie [»Über uns«](/ueber-uns/), [Kontakt](/kontakt/) oder Fehlerseiten)
+* ~50 Seiten für [Cafés und Röstereien](/cafes/)
+* ~60 [Artikeln und »Nachrichten«](/schnack/)
+* 4 weiteren Seiten ([Homepage](/), [»Über uns«](/ueber-uns/), [Kontakt](/kontakt/), Fehlerseite)
 
 ## Reichweite
 
