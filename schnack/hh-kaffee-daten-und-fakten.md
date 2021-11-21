@@ -11,6 +11,14 @@ HH Kaffee ist ein Liebhaberprojekt, das [seit 2017](/ueber-uns/) exklusiv von [J
 
 _HH Kaffee steht zum Verkauf:_ Da ich HH Kaffee nebenher betreibe, komme ich nicht dazu, die Website so auszubauen, dass sie noch mehr für Kaffee und Cafés in Hamburg tun kann (auch wenn ich noch einige Ideen habe). Ich habe auch nicht die Kapazität, die Website über Affiliate-Marketing und der Verwertung von Inhalten hinaus weiter zu »monetarisieren« (was als Hamburger und Kaffeefreund auch nicht meine Hauptmotivation war).
 
+## Umfang
+
+HH Kaffee besteht aktuell aus
+
+* @@ Seiten für [Cafés und Röstereien](/cafes/)
+* @@ [Artikeln und »Nachrichten«](/schnack/)
+* @@ weiteren Seiten (wie [»Über uns«](/ueber-uns/), [Kontakt](/kontakt/) oder Fehlerseiten)
+
 ## Reichweite
 
 HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der schon 2018 bei etwa 400 Zugriffen am Tag lag, und 2021 bei etwa 700 Zugriffen am Tag liegt (Quelle: Server-Logs, beinhaltet _allen_ Traffic, einschließlich von Suchmaschinen).
@@ -78,7 +86,7 @@ Hierzu gehört folgendes:
 
 * Quelltext der gesamten Website
 * das HH-Kaffee-Logo nebst verfügbaren Vorlagen
-* meine Liste noch zu berücksichtigender und zu evaluierender Cafés und Röster (Kandidaten für die Aufnahme auf HH Kaffee)
+* meine Liste noch zu berücksichtigender und zu evaluierender Cafés und Röstereien (Kandidaten für die Aufnahme auf HH Kaffee)
 * Unterstützung bei der Übernahme
 * begrenzte Unterstützung für Rückfragen und ggf. Anpassungen
 
@@ -87,7 +95,7 @@ Nicht zum Verkauf gehören:
 * fortgeführtes Hosting und Übernahme der Kosten für Hosting
 * fortgesetzter Einsatz von Tools und Lizenzen (Google Maps, Depfu, u.ä.)
 * technische Arbeiten und Wartung, die über die Übergabe hinausgehen 
-* Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten [Cafés und Röstereien](/cafes/) (ist ggf. direkt mit diesen abzustimmen)
+* Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten Cafés und Röstereien (ist ggf. direkt mit diesen abzustimmen)
 * Rechte an persönlichen Daten (insbesondere meinen)
 * Rechte an diesem Dokument (sofern nicht von mir erledigt, nach Übernahme zu löschen)
 * Zugänge für und Ansprüche auf Affiliate-Marketing und Rechteverwertung (Affiliate-IDs und VG-WORT-Pixel sind auszutauschen)
