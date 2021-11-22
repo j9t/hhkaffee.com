@@ -84,8 +84,11 @@ Ich biete HH Kaffee zum Verkauf an.
 
 Hierzu gehört folgendes:
 
-* Quelltext der gesamten Website
+* der Name und die Domains für »HH Kaffee« (hhkaffee.de und hhkaffee.com)
 * das HH-Kaffee-Logo nebst verfügbaren Vorlagen
+* Quelltext der gesamten Website von hhkaffee.com
+* der Twitter-Handle [@hhkaffeecom](https://twitter.com/hhkaffeecom)
+* die Facebook-Seite [facebook.com/hhkaffeecom](https://www.facebook.com/hhkaffeecom)
 * meine Liste noch zu berücksichtigender und zu evaluierender Cafés und Röstereien (Kandidaten für die Aufnahme auf HH Kaffee)
 * Unterstützung bei der Übernahme
 * begrenzte Unterstützung für Rückfragen und ggf. Anpassungen
