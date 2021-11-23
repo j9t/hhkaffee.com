@@ -1,6 +1,6 @@
 ---
 title: "HH Kaffee: Daten und Fakten"
-date: 2021-11-03
+date: 2021-11-23
 hidden: true
 
 logo: /media/logo-alt.png
@@ -18,6 +18,8 @@ HH Kaffee besteht aktuell aus
 * ~50 Seiten für [Cafés und Röstereien](/cafes/)
 * ~60 [Artikeln und »Nachrichten«](/schnack/)
 * 4 weiteren Seiten ([Homepage](/), [»Über uns«](/ueber-uns/), [Kontakt](/kontakt/), Fehlerseite)
+
+Dazu kommen ein [Twitter-Account](https://twitter.com/hhkaffeecom) mit >100 Tweets sowie eine (pausierte) [Facebook-Seite](https://www.facebook.com/hhkaffeecom) mit einer ebenfalls unteren dreistelligen Zahl von Beiträgen.
 
 ## Reichweite
 
@@ -87,7 +89,7 @@ Hierzu gehört folgendes:
 * der Name und die Domains für »HH Kaffee« (hhkaffee.de und hhkaffee.com)
 * das HH-Kaffee-Logo nebst verfügbaren Vorlagen
 * Quelltext der gesamten Website von hhkaffee.com
-* der Twitter-Handle [@hhkaffeecom](https://twitter.com/hhkaffeecom)
+* das Twitter-Konto [@hhkaffeecom](https://twitter.com/hhkaffeecom)
 * die Facebook-Seite [facebook.com/hhkaffeecom](https://www.facebook.com/hhkaffeecom)
 * meine Liste noch zu berücksichtigender und zu evaluierender Cafés und Röstereien (Kandidaten für die Aufnahme auf HH Kaffee)
 * Unterstützung bei der Übernahme
