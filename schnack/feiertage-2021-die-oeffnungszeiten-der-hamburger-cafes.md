@@ -1,6 +1,6 @@
 ---
 title: "Weihnachten und Silvester 2021: Die Öffnungszeiten der Hamburger Cafés"
-date: 2021-12-10
+date: 2021-12-09
 hidden: true
 vg_wort: "@@"
 ---
