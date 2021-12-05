@@ -7,9 +7,10 @@ vg_wort: "@@"
 
 Über die Feiertage und zwischen den Jahren haben wie jedes Jahr einige [Cafés und Röstereien](/cafes/) geöffnet, wenn auch aufgrund der Pandemie weiter eingeschränkt. Wie jedes Jahr haben wir uns bei allen guten Cafés aus Hamburg über ihre Öffnungszeiten über die Feiertage erkundigt, damit ihr trotzdem einen ausgezeichneten Kaffee bekommt. (Diese Übersicht wird im Laufe des Dezembers aktualisiert und erweitert.)
 
-| Café oder Röster | 24.12. | 25.12. | 26.12. | 31.12. | 1.1. |
-|---|---|---|---|---|---|
-| [blanco coffee](/cafes/blanco-coffee/) | — | — | — | — | — |
+| Café oder Röster                           | 24.12. | 25.12. | 26.12. | 31.12. | 1.1. |
+|--------------------------------------------|---|---|---|---|---|
+| [blanco coffee](/cafes/blanco-coffee/)     | — | — | — | — | — |
+| [Drilling](/cafes/drilling/)               | — | — | — | — | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
 | [the coffee shop](/cafes/the-coffee-shop/) | — | — | — | ✓ (8–18) | — |
 
