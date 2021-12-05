@@ -11,6 +11,7 @@ vg_wort: "@@"
 |---|---|---|---|---|---|
 | [blanco coffee](/cafes/blanco-coffee/) | — | — | — | — | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
+| [the coffee shop](/cafes/the-coffee-shop/) | — | — | — | ✓ (8–18) | — |
 
 @@
 
@@ -37,7 +38,6 @@ vg_wort: "@@"
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Kehr&shy;wieder | ✓ (10–14) | ✓ (12–18) | ✓ (12–18) | ✓ (10–18) | ✓ (12–18) |
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Eppen&shy;dorfer Baum | ✓ (9–14) | — | ✓ (12–18) | ✓ (9–16) | — |
 | [Stockholm Espresso Club](/cafes/stockholm-espresso-club/) | — | — | — | ✓ (10–15) | ✓ (12–17) |
-| [the coffee shop](/cafes/the-coffee-shop/) | ✓ (8–14) | — | — | ✓ (8–18) | — |
 | [Torrefaktum](/cafes/torrefaktum/), Bahren&shy;felder Str. | ✓ (8–13) | — | — | ✓ (8–13) | — |
 | [Torrefaktum](/cafes/torrefaktum/), Speersort | — | — | — | ✓ (9–14) | — |
 | [Torrefaktum](/cafes/torrefaktum/), Eppen&shy;dorfer Weg | ✓ (8–13) | — | — | ✓ (12–17) | — |
