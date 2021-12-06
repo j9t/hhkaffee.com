@@ -7,14 +7,15 @@ vg_wort: "@@"
 
 Über die Feiertage und zwischen den Jahren haben wie jedes Jahr einige [Cafés und Röstereien](/cafes/) geöffnet, wenn auch aufgrund der Pandemie weiter eingeschränkt. Wie jedes Jahr haben wir uns bei allen guten Cafés aus Hamburg über ihre Öffnungszeiten über die Feiertage erkundigt, damit ihr trotzdem einen ausgezeichneten Kaffee bekommt. (Diese Übersicht wird im Laufe des Dezembers aktualisiert und erweitert.)
 
-| Café oder Röster                                   | 24.12. | 25.12. | 26.12. | 31.12. | 1.1. |
-|----------------------------------------------------|---|---|---|---|---|
+| Café oder Röster | 24.12. | 25.12. | 26.12. | 31.12. | 1.1. |
+|---|---|---|---|---|---|
 | [Balz und Balz](/cafes/balz-und-balz/) | — | — | — | — | — |
 | [Becking Kaffee](/cafes/becking-kaffee/) | — | — | — | — | — |
-| [blanco coffee](/cafes/blanco-coffee/)             | — | — | — | — | — |
-| [Drilling](/cafes/drilling/)                       | — | — | — | — | — |
-| [erste liebe bar](/cafes/erste-liebe-bar/)         | — | — | — | — | — |
-| [the coffee shop](/cafes/the-coffee-shop/)         | — | — | — | ✓ (8–18) | — |
+| [blanco coffee](/cafes/blanco-coffee/) | — | — | — | — | — |
+| [CODOS](/cafes/codos/) | ✓ (8–16) | ✓ (12–18) | ✓ (12–18) | ✓ (8–16) | ✓ (12–18) |
+| [Drilling](/cafes/drilling/) | — | — | — | — | — |
+| [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
+| [the coffee shop](/cafes/the-coffee-shop/) | — | — | — | ✓ (8–18) | — |
 | [Yokohama Coffee Bar](/cafes/yokohama-coffee-bar/) | — | — | — | — | — |
 
 @@
@@ -24,8 +25,6 @@ vg_wort: "@@"
 | [Black Delight](/cafes/black-delight/) | ✓ (9–16) | — | — | ✓ (9–16) | — |
 | [blackline](/cafes/blackline/) | ✓ (10–14) | — | — | — | — |
 | [Café Délice](/cafes/cafe-delice/) | ✓ (8–14) | — | — | ✓ (8–14) | — |
-| [CODOS](/cafes/codos/), Bartelsstr. | ✓ (9–14) | — | — | ✓ (9–14) | — |
-| [CODOS](/cafes/codos/), Bahren&shy;felder Str. | ✓ (8–14) | ✓ (11–17) | ✓ (11–17) | ✓ (8–14) | ✓ (11–17) |
 | [Die Rösterei Coffeum](/cafes/die-roesterei-coffeum/) | ✓ (10–14) | — | — | ✓ (10–14) | — |
 | [el rojito](/cafes/el-rojito/) | — | — | — | — | — |
 | [elbgold](/cafes/elbgold/), Eppen&shy;dorfer Baum und Mühlenkamp | ✓ (7–14) | — | — | ✓ (9–14) | — |
