@@ -9,6 +9,7 @@ vg_wort: "@@"
 
 | Café oder Röster                                   | 24.12. | 25.12. | 26.12. | 31.12. | 1.1. |
 |----------------------------------------------------|---|---|---|---|---|
+| [Balz und Balz](/cafes/balz-und-balz/) | — | — | — | — | — |
 | [Becking Kaffee](/cafes/becking-kaffee/) | — | — | — | — | — |
 | [blanco coffee](/cafes/blanco-coffee/)             | — | — | — | — | — |
 | [Drilling](/cafes/drilling/)                       | — | — | — | — | — |
@@ -19,7 +20,6 @@ vg_wort: "@@"
 @@
 
 | [Albatros Café](/cafes/albatros-cafe/) | — | — | — | — | — |
-| [Balz und Balz](/cafes/balz-und-balz/) | — | — | — | — | — |
 | [Benvenuto](/cafes/benvenuto/) | ✓ (?) | — | — | — | — |
 | [Black Delight](/cafes/black-delight/) | ✓ (9–16) | — | — | ✓ (9–16) | — |
 | [blackline](/cafes/blackline/) | ✓ (10–14) | — | — | — | — |
