@@ -15,6 +15,7 @@ vg_wort: "@@"
 | [CODOS](/cafes/codos/) | ✓ (8–16) | ✓ (12–18) | ✓ (12–18) | ✓ (8–16) | ✓ (12–18) |
 | [Drilling](/cafes/drilling/) | — | — | — | — | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
+| [MAYA Kaffee&shy;rösterei](/cafes/maya-kaffeeroesterei/) | — | — | — | — | — |
 | [Nord Coast](/cafes/nord-coast-coffee-roastery/) | — | — | — | — | — |
 | [Public Coffee Roasters](/cafes/public-coffee-roasters/) | — | — | — | — | — |
 | [the coffee shop](/cafes/the-coffee-shop/) | — | — | — | ✓ (8–18) | — |
@@ -35,7 +36,6 @@ vg_wort: "@@"
 | [Kaffee&shy;rösterei Death&shy;presso](/cafes/kaffeeroesterei-deathpresso/) | — | — | — | — | — |
 | [Manufact Coffee Roasters](/cafes/manufact-coffee-roasters/) | — | — | — | ? | ✓ (ab 11) |
 | [Marshall Street Coffee](/cafes/marshall-street-coffee/) | — | — | — | — | — |
-| [MAYA Kaffee&shy;rösterei](/cafes/maya-kaffeeroesterei/) | — | — | — | — | — |
 | [Playground Coffee](/cafes/playground-coffee/) | — | — | — | ? | — |
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Kehr&shy;wieder | ✓ (10–14) | ✓ (12–18) | ✓ (12–18) | ✓ (10–18) | ✓ (12–18) |
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Eppen&shy;dorfer Baum | ✓ (9–14) | — | ✓ (12–18) | ✓ (9–16) | — |
