@@ -13,6 +13,7 @@ vg_wort: "@@"
 | [Becking Kaffee](/cafes/becking-kaffee/) | — | — | — | — | — |
 | [blanco coffee](/cafes/blanco-coffee/) | — | — | — | — | — |
 | [CODOS](/cafes/codos/) | ✓ (8–16) | ✓ (12–18) | ✓ (12–18) | ✓ (8–16) | ✓ (12–18) |
+| [Die Rösterei Coffeum](/cafes/die-roesterei-coffeum/) | ✓ (10–14) | — | — | ✓ (10–14) | — |
 | [Drilling](/cafes/drilling/) | — | — | — | — | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
 | [MAYA Kaffee&shy;rösterei](/cafes/maya-kaffeeroesterei/) | — | — | — | — | — |
@@ -29,7 +30,6 @@ vg_wort: "@@"
 | [Black Delight](/cafes/black-delight/) | ✓ (9–16) | — | — | ✓ (9–16) | — |
 | [blackline](/cafes/blackline/) | ✓ (10–14) | — | — | — | — |
 | [Café Délice](/cafes/cafe-delice/) | ✓ (8–14) | — | — | ✓ (8–14) | — |
-| [Die Rösterei Coffeum](/cafes/die-roesterei-coffeum/) | ✓ (10–14) | — | — | ✓ (10–14) | — |
 | [el rojito](/cafes/el-rojito/) | — | — | — | — | — |
 | [elbgold](/cafes/elbgold/), Eppen&shy;dorfer Baum und Mühlenkamp | ✓ (7–14) | — | — | ✓ (9–14) | — |
 | [elbgold](/cafes/elbgold/), andere Stand&shy;orte | — | — | — | — | — |
