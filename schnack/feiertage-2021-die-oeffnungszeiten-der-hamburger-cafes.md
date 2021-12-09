@@ -2,7 +2,7 @@
 title: "Weihnachten und Silvester 2021: Die Öffnungszeiten der Hamburger Cafés"
 date: 2021-12-09
 hidden: true
-vg_wort: "@@"
+vg_wort: 6ce37f7bbd5243209ae7f90e8bbfc0fe
 ---
 
 Über die Feiertage und zwischen den Jahren haben wie jedes Jahr einige [Cafés und Röstereien](/cafes/) geöffnet, wenn auch aufgrund der Pandemie weiter eingeschränkt. Wie jedes Jahr haben wir uns bei allen guten Cafés aus Hamburg über ihre Öffnungszeiten über die Feiertage erkundigt, damit ihr trotzdem einen ausgezeichneten Kaffee bekommt. (Diese Übersicht wird im Laufe des Dezembers aktualisiert und erweitert.)
