@@ -14,7 +14,7 @@ vg_wort: 6ce37f7bbd5243209ae7f90e8bbfc0fe
 | [CODOS](/cafes/codos/) | ✓ (8–16) | ✓ (12–18) | ✓ (12–18) | ✓ (8–16) | ✓ (12–18) |
 | [Die Rösterei Coffeum](/cafes/die-roesterei-coffeum/) | ✓ (10–14) | — | — | ✓ (10–14) | — |
 | [Drilling](/cafes/drilling/) | — | — | — | — | — |
-| [elbgold](/cafes/elbgold/) | ? | — | — | ? | — |
+| [elbgold](/cafes/elbgold/) | ✓ | — | — | ✓ | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
 | [MAYA Kaffee&shy;rösterei](/cafes/maya-kaffeeroesterei/) | — | — | — | — | — |
 | [Nord Coast](/cafes/nord-coast-coffee-roastery/) | — | — | — | — | — |
