@@ -15,6 +15,7 @@ vg_wort: "@@"
 | [CODOS](/cafes/codos/) | ✓ (8–16) | ✓ (12–18) | ✓ (12–18) | ✓ (8–16) | ✓ (12–18) |
 | [Die Rösterei Coffeum](/cafes/die-roesterei-coffeum/) | ✓ (10–14) | — | — | ✓ (10–14) | — |
 | [Drilling](/cafes/drilling/) | — | — | — | — | — |
+| [elbgold](/cafes/elbgold/) | ? | — | — | ? | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
 | [MAYA Kaffee&shy;rösterei](/cafes/maya-kaffeeroesterei/) | — | — | — | — | — |
 | [Nord Coast](/cafes/nord-coast-coffee-roastery/) | — | — | — | — | — |
@@ -22,26 +23,5 @@ vg_wort: "@@"
 | [the coffee shop](/cafes/the-coffee-shop/) | — | — | — | ✓ (8–18) | — |
 | [ujote espresso](/cafes/ujote-espresso/) | ✓ (?–14:30) | — | — | — | ✓ (11:30–?) |
 | [Yokohama Coffee Bar](/cafes/yokohama-coffee-bar/) | — | — | — | — | — |
-
-@@
-
-| [Albatros Café](/cafes/albatros-cafe/) | — | — | — | — | — |
-| [Benvenuto](/cafes/benvenuto/) | ✓ (?) | — | — | — | — |
-| [Black Delight](/cafes/black-delight/) | ✓ (9–16) | — | — | ✓ (9–16) | — |
-| [blackline](/cafes/blackline/) | ✓ (10–14) | — | — | — | — |
-| [Café Délice](/cafes/cafe-delice/) | ✓ (8–14) | — | — | ✓ (8–14) | — |
-| [el rojito](/cafes/el-rojito/) | — | — | — | — | — |
-| [elbgold](/cafes/elbgold/), Eppen&shy;dorfer Baum und Mühlenkamp | ✓ (7–14) | — | — | ✓ (9–14) | — |
-| [elbgold](/cafes/elbgold/), andere Stand&shy;orte | — | — | — | — | — |
-| [Kaffee&shy;rösterei Death&shy;presso](/cafes/kaffeeroesterei-deathpresso/) | — | — | — | — | — |
-| [Manufact Coffee Roasters](/cafes/manufact-coffee-roasters/) | — | — | — | ? | ✓ (ab 11) |
-| [Marshall Street Coffee](/cafes/marshall-street-coffee/) | — | — | — | — | — |
-| [Playground Coffee](/cafes/playground-coffee/) | — | — | — | ? | — |
-| [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Kehr&shy;wieder | ✓ (10–14) | ✓ (12–18) | ✓ (12–18) | ✓ (10–18) | ✓ (12–18) |
-| [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Eppen&shy;dorfer Baum | ✓ (9–14) | — | ✓ (12–18) | ✓ (9–16) | — |
-| [Stockholm Espresso Club](/cafes/stockholm-espresso-club/) | — | — | — | ✓ (10–15) | ✓ (12–17) |
-| [Torrefaktum](/cafes/torrefaktum/), Bahren&shy;felder Str. | ✓ (8–13) | — | — | ✓ (8–13) | — |
-| [Torrefaktum](/cafes/torrefaktum/), Speersort | — | — | — | ✓ (9–14) | — |
-| [Torrefaktum](/cafes/torrefaktum/), Eppen&shy;dorfer Weg | ✓ (8–13) | — | — | ✓ (12–17) | — |
 
 Legende: ✓ geöffnet, () Uhrzeit, — geschlossen, ? unklar
