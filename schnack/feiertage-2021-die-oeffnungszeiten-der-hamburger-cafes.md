@@ -18,6 +18,7 @@ vg_wort: 6ce37f7bbd5243209ae7f90e8bbfc0fe
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
 | [Knuth](/cafes/knuth/) | — | — | — | ✓ (?–14) | — |
 | [MAYA Kaffee&shy;rösterei](/cafes/maya-kaffeeroesterei/) | — | — | — | — | — |
+| [MOHO’S](/cafes/mohos/) | — | — | — | — | — |
 | [Nord Coast](/cafes/nord-coast-coffee-roastery/) | — | — | — | — | — |
 | [Public Coffee Roasters](/cafes/public-coffee-roasters/) | — | — | — | — | — |
 | [Speicher&shy;stadt](/cafes/speicherstadt-kaffeeroesterei/), Kehr&shy;wieder | ✓ (10–14) | ✓ (10–18) | ✓ (10–18) | ✓ (10–18) | ✓ (12–18) |
