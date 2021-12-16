@@ -14,6 +14,7 @@ vg_wort: 6ce37f7bbd5243209ae7f90e8bbfc0fe
 | [CODOS](/cafes/codos/) | ✓ (8–16) | ✓ (12–18) | ✓ (12–18) | ✓ (8–16) | ✓ (12–18) |
 | [Die Rösterei Coffeum](/cafes/die-roesterei-coffeum/) | ✓ (10–14) | — | — | ✓ (10–14) | — |
 | [Drilling](/cafes/drilling/) | — | — | — | — | — |
+| [el rojito](/cafes/el-rojito/) | — | — | — | — | — |
 | [elbgold](/cafes/elbgold/) | ✓ | — | — | ✓ | — |
 | [erste liebe bar](/cafes/erste-liebe-bar/) | — | — | — | — | — |
 | [Knuth](/cafes/knuth/) | — | — | — | ✓ (?–14) | — |
