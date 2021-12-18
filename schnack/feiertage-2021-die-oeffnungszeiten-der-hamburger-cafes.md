@@ -8,6 +8,7 @@ vg_wort: 6ce37f7bbd5243209ae7f90e8bbfc0fe
 
 | Café oder Röster | 24.12. | 25.12. | 26.12. | 31.12. | 1.1. |
 |---|---|---|---|---|---|
+| [Albatros Café](/cafes/albatros-cafe/) | ✓ (10–13) | — | — | ✓ (10–13) | — |
 | [Balz und Balz](/cafes/balz-und-balz/) | — | — | — | — | — |
 | [Becking Kaffee](/cafes/becking-kaffee/) | — | — | — | — | — |
 | [blanco coffee](/cafes/blanco-coffee/) | — | — | — | — | — |
