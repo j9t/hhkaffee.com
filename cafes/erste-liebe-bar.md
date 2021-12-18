@@ -10,7 +10,7 @@ facebook: https://www.facebook.com/ersteliebebar
 locations:
 - address: Michaelisbrücke 3<br>20459 Hamburg
   coordinates: "53.5493368,9.98414409999998"
-  hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag 9:30–18&nbsp;Uhr
+  hours: Montag – Freitag 8–16&nbsp;Uhr<br>Samstag 9:30–16&nbsp;Uhr
 
 coffee: 3,20
 espresso: 2,10
