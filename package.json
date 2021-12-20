@@ -23,8 +23,8 @@
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@sum.cumo/imagemin-merlin": "^2.0.0",
     "husky": "^7.0.4",
-    "luxon": "^2.1.1",
-    "markdown-it": "^12.0.4"
+    "luxon": "^2.2.0",
+    "markdown-it": "^12.3.0"
   },
   "husky": {
     "hooks": {
