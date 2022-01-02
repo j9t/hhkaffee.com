@@ -4,8 +4,6 @@ date: 2020-12-10
 vg_wort: 6e7cf487f6f04644baf722ba8c422aa8
 ---
 
-(Die Daten für 2021 findet ihr in unserer [aktuellen Übersicht](/schnack/feiertage-2021-die-oeffnungszeiten-der-hamburger-cafes/). Schöne Feiertage!)
-
 Über die Feiertage und zwischen den Jahren sind einige [Cafés und Röstereien](/cafes/) geöffnet – wenn auch aufgrund der Coronapandemie eingeschränkt und nur für Takeaway. Wie jedes Jahr haben wir uns bei allen guten Cafés aus Hamburg erkundigt, wie ihre Öffnungszeiten über die Feiertage sind, damit ihr trotzdem einen schönen Kaffee bekommt.
 
 | Café oder Röster | 24.12. | 25.12. | 26.12. | 31.12. | 1.1. |
