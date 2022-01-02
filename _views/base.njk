@@ -17,6 +17,9 @@ date: Last Modified
 	<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
 	<link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
 	{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
+	<!-- <div id=notification>
+		<p>HH Kaffee steht <a href=/schnack/hh-kaffee-daten-und-fakten/>zum Verkauf</a>.
+	</div> -->
 	<header>
 		{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src=/media/logo.png alt="{{ metadata.title }}">{% if page.url != '/' %}</a>{% endif %}
 		<nav>

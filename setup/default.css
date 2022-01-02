@@ -471,3 +471,26 @@ span,
 	}
 
 }
+
+/* Temp */
+
+div#notification {
+	background: #fcfcfc;
+	border: 2px solid #f7f7f7;
+	border-radius: 2px;
+	margin-bottom: 1.38em;
+	padding: .3em .5em .2em;
+	text-align: center;
+}
+
+div#notification p {
+	margin: 0;
+}
+
+@media print {
+
+	div#notification {
+		display: none;
+	}
+
+}
