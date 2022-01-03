@@ -1,6 +1,6 @@
 ---
 title: "HH Kaffee: Daten und Fakten"
-date: 2021-11-23
+date: 2022-01-03
 hidden: true
 
 logo: /media/logo-alt.png
@@ -15,8 +15,8 @@ _HH Kaffee steht zum Verkauf:_ Da ich HH Kaffee nebenher betreibe, komme ich nic
 
 HH Kaffee besteht aktuell aus
 
-* ~50 Seiten für [Cafés und Röstereien](/cafes/)
-* ~60 [Artikeln und »Nachrichten«](/schnack/)
+* ca. 50 Seiten für [Cafés und Röstereien](/cafes/)
+* ca. 60 [Artikeln und »Nachrichten«](/schnack/)
 * 4 weiteren Seiten ([Homepage](/), [»Über uns«](/ueber-uns/), [Kontakt](/kontakt/), Fehlerseite)
 
 Dazu kommen ein [Twitter-Account](https://twitter.com/hhkaffeecom) mit >100 Tweets sowie eine (pausierte) [Facebook-Seite](https://www.facebook.com/hhkaffeecom) mit einer ebenfalls unteren dreistelligen Zahl von Beiträgen.
@@ -27,8 +27,8 @@ HH Kaffee ist organisch gewachsen. Die Website erhält stetigen Traffic, der sch
 
 | Plattform | Zugriffe oder Follower | Trend |
 |---|---|---|
-| [HH Kaffee](https://hhkaffee.com/) | 653 tägliche Zugriffe<br>20.246 monatliche Zugriffe<br>(Server-Logs für Oktober) | ↘ |
-| [Twitter](https://twitter.com/hhkaffeecom) | 126 Followers | → |
+| [HH Kaffee](https://hhkaffee.com/) | 674 tägliche Zugriffe<br>20.901 monatliche Zugriffe<br>(Server-Logs für Dezember) | ↗ |
+| [Twitter](https://twitter.com/hhkaffeecom) | 127 Followers | → |
 | [Facebook](https://www.facebook.com/hhkaffeecom) | 110 Followers | → |
 
 <div style="text-align: center;">
@@ -61,9 +61,9 @@ HH Kaffee benutzt einen einfachen, aber modernen Technologie-Stack:
 
 | System | Details |
 |---|---|
-| Quelltext | [GitHub](https://github.com/j9t/hhkaffee.com)&nbsp;† |
+| Quelltext | HTML, CSS, JavaScript (in [GitHub](https://github.com/j9t/hhkaffee.com)&nbsp;†) |
 | Versionskontrolle | Git |
-| Content-Management-System | [Eleventy](https://www.11ty.dev/) (Static Site Generator) |
+| Content-Management | [Eleventy](https://www.11ty.dev/) |
 | Paket-Management | [npm](https://www.npmjs.com/) (halbautomatisch aktualisiert über [Depfu](https://depfu.com/)&nbsp;†) |
 | Kartenanbieter | Google Maps&nbsp;† |
 
@@ -73,7 +73,7 @@ Der Quelltext und der ausgegebene Code sind hochwertig (ich komme aus der Webent
 
 | Qualitätsmerkmal | Wert |
 |---|---|
-| Performance | [99/100 PageSpeed-Score](https://pagespeed.web.dev/report?url=https%3A%2F%2Fhhkaffee.com%2F)<br>[0,421&nbsp;s Speed Index](https://www.webpagetest.org/result/211103_BiDc40_94451b092d67a58a9e7c1d732a44a95f/) |
+| Performance | [99/100 PageSpeed-Score](https://pagespeed.web.dev/report?url=https%3A%2F%2Fhhkaffee.com%2F)<br>[0,421&nbsp;s Speed Index](https://www.webpagetest.org/result/211103_BiDc40_94451b092d67a58a9e7c1d732a44a95f/) (Frankfurt) |
 | Validität | [0 Fehler im HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhhkaffee.com%2F)<br>[0 Fehler im CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhhkaffee.com%2F&profile=css3svg&usermedium=all&vextwarning=true) |
 
 Etwaige Mängel, wie z.B. in der technischen [Analyse der Zugänglichkeit](https://wave.webaim.org/report#/https%3A%2F%2Fhhkaffee.com%2F), sind auf Code von Dritten zurückzuführen (wie Google Maps). 
