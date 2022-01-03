@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /cafes/demo/
+Disallow: /schnack/hh-kaffee-daten-und-fakten/
 
 Sitemap: https://hhkaffee.com/sitemap.xml
