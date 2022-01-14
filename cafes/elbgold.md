@@ -31,7 +31,7 @@ locations:
   coordinates: "53.5529911,9.991460299999972"
   hours: Montag – Samstag 10–20&nbsp;Uhr
 
-coffee: 2
+coffee: 2,40
 espresso: 2
 internet: nein
 ---
