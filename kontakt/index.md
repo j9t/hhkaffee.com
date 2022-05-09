@@ -30,7 +30,7 @@ Verantwortlich für journalistisch-redaktionelle Inhalte gemäß §&nbsp;55 II R
 
 Steuernummer: 48/157/00835.
 
-Zur Online-Streitbeilegung gemäß Art.&nbsp;14 Abs.&nbsp;1 ODRVO stellt die Europäische Kommission eine [Plattform](https://ec.europa.eu/consumers/odr/) bereit.
+Gemäß Art.&nbsp;14 Abs.&nbsp;1 ODRVO stellt die Europäische Kommission eine [Plattform zur Online-Streitbeilegung](https://ec.europa.eu/consumers/odr/) bereit.
 
 ### Urheberrecht
 
@@ -74,7 +74,7 @@ Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir 
 
 #### Verschlüsselung
 
-Zum Schutz Ihrer Daten werden diese über HTTPS übertragen.
+Zum Schutz Ihrer Daten werden diese über [HTTPS](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) übertragen und mittels TLS verschlüsselt.
 
 #### Server-Logs
 
@@ -107,7 +107,7 @@ Für E-Mail benutzen wir Gmail und ProtonMail, jeweils zusätzlich abgesichert d
 
 #### VG WORT
 
-Diese Website setzt Session-Cookies der [VG WORT](https://www.vgwort.de/) zur Messung von Textzugriffen ein; die VG WORT wiederum nutzt das »Skalierbare Zentrale Messverfahren« (SZM) der INFOnline GmbH für die Ermittlung statistischer Kennwerte zur Bestimmung der Kopierwahrscheinlichkeit von Texten. Die Messung erfolgt mit berechtigtem Interesse nach Art.&nbsp;6 Abs.&nbsp;1 lit.&nbsp;f DSGVO.
+Diese Website setzt Session-Cookies der [VG WORT](https://www.vgwort.de/) zur Messung von Textzugriffen ein. Die VG WORT wiederum nutzt das »Skalierbare Zentrale Messverfahren« (SZM) der INFOnline GmbH für die Ermittlung statistischer Kennwerte zur Bestimmung der Kopierwahrscheinlichkeit von Texten. Die Messung erfolgt mit berechtigtem Interesse nach Art.&nbsp;6 Abs.&nbsp;1 lit.&nbsp;f DSGVO.
 
 Bei der Zugriffszahlenmessung werden anonyme Messwerte erhoben. Sie verwendet zur Wiedererkennung von Computersystemen entweder ein Session-Cookie oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert; Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
 
