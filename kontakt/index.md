@@ -40,7 +40,7 @@ Die Logos und Fotos aufgeführter [Cafés und Röstereien](/cafes/) sind Eigentu
 
 ### Datenschutzerklärung
 
-Verantwortlich im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO): Jens Oliver Meiert.
+Verantwortlich im Sinne des Datenschutzes, insbesondere der EU-Datenschutzgrundverordnung (DSGVO): Jens Oliver Meiert.
 
 Diese Datenschutzerklärung gebraucht eine den Gepflogenheiten für Datenschutzerklärungen entsprechende formelle Sprache. Ihr seid auf unserer Website weiterhin sehr willkommen.
 
@@ -70,7 +70,7 @@ Wir verarbeiten etwaige personenbezogenen Daten nur zu den in dieser Datenschutz
 
 #### Löschung oder Sperrung von Daten
 
-Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir speichern etwaige personenbezogenen Daten daher nur solange, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen vielfältigen Speicherfristen vorsehen. Nach Fortfall des jeweiligen Zweckes bzw. Ablauf dieser Fristen werden die entsprechenden Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
+Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir speichern etwaige personenbezogenen Daten daher nur solange, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen Speicherfristen vorsehen. Nach Fortfall des jeweiligen Zweckes bzw. Ablauf dieser Fristen werden die entsprechenden Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
 
 #### Verschlüsselung
 
@@ -87,7 +87,7 @@ Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/PA68572347FA65)) 
 * Referrer-URL
 * Zeit der Serveranfrage
 
-Wir haben mit ALL-INKL.COM einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen, in dem wir ALL-INKL.COM verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben.
+Wir haben mit ALL-INKL.COM einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen, in dem wir ALL-INKL.COM verpflichten, die Daten unserer Nutzer zu schützen und sie nicht an Dritte weiterzugeben.
 
 Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
 
@@ -111,13 +111,13 @@ Diese Website setzt Session-Cookies der [VG WORT](https://www.vgwort.de/) zur Me
 
 Bei der Zugriffszahlenmessung werden anonyme Messwerte erhoben. Sie verwendet zur Wiedererkennung von Computersystemen entweder ein Session-Cookie oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert; Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
 
-Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, die sogenannte Session-ID. Außerdem enthält ein Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG WORT ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG WORT partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß §&nbsp;53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter [optout.ioam.de](https://optout.ioam.de/) widersprechen.
+Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, eine sogenannte Session-ID. Außerdem enthält ein Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG WORT ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG WORT partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß §&nbsp;53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter [optout.ioam.de](https://optout.ioam.de/) widersprechen.
 
 #### Verschiedenes
 
-Einige Links auf dieser Website sind, um nicht nur auf Informationen und Produkte zu verweisen, sondern auch den Erwerb selbiger zu vereinfachen, sogenannte Affiliate-Links. Wenn Sie auf so einen Affiliate-Link klicken und über diesen Link einkaufen, erhalten wir von dem betreffenden Anbieter eine Provision. Für Sie verändert sich dadurch nicht der Preis.
+Einige Links auf dieser Website sind, um nicht nur auf Informationen und Produkte zu verweisen, sondern auch den Erwerb selbiger zu vereinfachen, sogenannte Affiliate-Links. Wenn Sie auf so einen Affiliate-Link klicken und über diesen Link einkaufen, erhalten wir von dem betreffenden Anbieter eine Provision. Der Preis verändert sich für Sie dadurch nicht.
 
-Diese Website verwendet die Google Maps API, um geographische Informationen visuell darzustellen. Bei der Nutzung von Google Maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Beachten Sie [Googles Datenschutzerklärung](https://policies.google.com/privacy).
+Diese Website verwendet die Google Maps API, um geographische Informationen anzuzeigen. Bei der Nutzung von Google Maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Beachten Sie [Googles Datenschutzerklärung](https://policies.google.com/privacy).
 
 Sporadisch setzt diese Website [Sentry](https://sentry.io/) ein, um die Befolgung von [Sicherheitsrichtlinien](https://de.wikipedia.org/wiki/Content_Security_Policy) zu überprüfen. Dies dient der generellen Sicherheit Ihrer Daten wie auch der Bestätigung von Angaben dieser Datenschutzerklärung, und geschieht nur sporadisch, um sowohl Sicherheit als auch Datenschutz zu stärken. Wie bei anderen externen Diensten auch beachten Sie bei Fragen dazu, wie Sentry Daten verarbeitet, die [Datenschutzerklärung von Sentry](https://sentry.io/privacy/).
 
