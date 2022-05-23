@@ -24,7 +24,7 @@
     "@sum.cumo/imagemin-merlin": "^2.0.0",
     "husky": "^8.0.1",
     "luxon": "^2.4.0",
-    "markdown-it": "^13.0.0"
+    "markdown-it": "^13.0.1"
   },
   "husky": {
     "hooks": {
