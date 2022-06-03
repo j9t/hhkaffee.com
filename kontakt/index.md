@@ -103,7 +103,7 @@ Die Verarbeitung der in der E-Mail eingegebenen Daten erfolgt ausschließlich au
 
 Die von Ihnen in Ihrer E-Mail eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Zwingende gesetzliche Bestimmungen, insbesondere Aufbewahrungsfristen, bleiben unberührt.
 
-Für E-Mail benutzen wir Gmail und ProtonMail, jeweils zusätzlich abgesichert durch Zwei-Faktor-Authentifizierung. Beachten Sie [Googles](https://policies.google.com/privacy) und [ProtonMails Datenschutzerklärungen](https://protonmail.com/de/privacy-policy).
+Für E-Mail benutzen wir Gmail und Proton Mail, jeweils zusätzlich abgesichert durch Zwei-Faktor-Authentifizierung. Beachten Sie [Googles](https://policies.google.com/privacy) und [Protons Datenschutzerklärungen](https://proton.me/de/legal/privacy).
 
 #### VG WORT
 
