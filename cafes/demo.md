@@ -10,7 +10,7 @@ twitter: https://twitter.com/hhkaffeecom
 facebook: https://www.facebook.com/hhkaffeecom
 
 locations:
-- address: Bäckerbreitergang 18<br>20355 Hamburg
+- address: Bäckerbreitergang 12<br>20355 Hamburg
   coordinates: "53.555042256625036,9.982232072924603"
   hours: Montag – Sonntag 8–18&nbsp;Uhr
 

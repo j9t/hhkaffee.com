@@ -16,7 +16,7 @@ facebook: https://www.facebook.com/hhkaffeecom
 
 HH Kaffee
 c/o [Jens Oliver Meiert](https://meiert.com/)
-Bäckerbreitergang 18
+Bäckerbreitergang 12
 20355 Hamburg
 [0157-50117717](tel:+49-157-50117717)
 
