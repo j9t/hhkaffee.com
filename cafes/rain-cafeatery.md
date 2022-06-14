@@ -4,7 +4,7 @@ date: 2018-11-05
 
 logo: /media/venues/rain-cafeatery.jpg
 email: hello@raincafeatery.de
-website: http://raincafeatery.de/
+website: https://raincafeatery.de/
 facebook: https://www.facebook.com/raincafeatery/
 instagram: https://www.instagram.com/rain_cafeatery/
 

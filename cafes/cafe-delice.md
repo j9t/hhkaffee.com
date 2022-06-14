@@ -3,7 +3,7 @@ title: Café Délice
 date: 2018-01-03
 
 logo: /media/venues/cafe-delice.png
-website: http://cafe-delice.de/
+website: https://cafedelice.de/
 facebook: https://www.facebook.com/cafedelice.hamburg
 
 locations:
