@@ -3,44 +3,44 @@ date: Last Modified
 ---
 <!DOCTYPE html>
 <html lang=de>
-	<meta charset=utf-8>
-	<meta name=viewport content="initial-scale=1,minimum-scale=1,width=device-width">
-	{% if description %}<meta name=description content="{{ description | truncate(150, false, ' …') }}">{% endif %}
-	<meta name=twitter:card content=summary_large_image>
-	<meta name=twitter:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
-	<meta name=twitter:description content="{{ (description or metadata.description) | truncate(150, false, ' …') }}">
-	<meta name=twitter:image content={{ metadata.url }}media/logo-social.png>
-	<meta property="og:image" content="{{ metadata.url }}media/logo-social.png">
-	<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
-	<link rel=icon href=/favicon.ico>
-	<link rel=stylesheet href=/setup/default.min.css>
-	<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
-	<link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
-	{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
-	<div id=notification>
-		<p>HH Kaffee macht aktuell Pause. ({% if page.url != '/schnack/hh-kaffee-daten-und-fakten/' %}<a href=/schnack/hh-kaffee-daten-und-fakten/>{% endif %}Am Projekt&nbsp;interessiert?{% if page.url != '/schnack/hh-kaffee-daten-und-fakten/' %}</a>{% endif %})
-	</div>
-	<header>
-		{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src=/media/logo.png alt="{{ metadata.title }}">{% if page.url != '/' %}</a>{% endif %}
-		<nav>
-			<ul>
-				{%- for entry in collections.all | eleventyNavigation %}
-				<li>{% if entry.url != page.url %}<a href={{ entry.url | url }}>{% endif %}{{ entry.title | safe }}{% if entry.url != page.url %}</a>{% endif %}
-				{%- endfor %}
-			</ul>
-		</nav>
-	</header>
-	{% if logo %}{% if website %}<a href={{ website }}>{% endif %}<img src="{{ logo }}" alt="Logo von {{ title }}." class=logo>{% if website %}</a>{% endif %}{% endif %}
-	<article>
-		<h1>{{ title }}</h1>
-		<!-- Beware of code entropy -->
-		{{ content | safe }}
-	</article>
-	<div id=social>
-		<p>Informiert bleiben? Folgt uns per <a href=/feed/>RSS-Feed</a> oder auf&nbsp;<a href=https://twitter.com/hhkaffeecom>Twitter</a>.
-	</div>
-	<footer>
-		{{ metadata.description }}
-		{% if page.url == '/' %}<br><span>Letzte Aktualisierung: {% today %}</span>{% endif -%}
-		{% if vg_wort %}<img src=https://vg07.met.vgwort.de/na/{{ vg_wort }} alt="" id=fd-vg-wort>{% endif %}
-	</footer>
+	<!-- htmlmin:ignore --><head><!-- htmlmin:ignore -->
+		<meta charset=utf-8>
+		<meta name=viewport content="initial-scale=1,minimum-scale=1,width=device-width">
+		{% if description %}<meta name=description property=og:description content="{{ description | truncate(150, false, ' …') }}">{% endif %}
+		<meta name=twitter:card content=summary_large_image>
+		<meta property=og:title content="{% if title %}{{ title }} · {% endif %}{{ metadata.title }}">
+		<meta property="og:image" content="{{ metadata.url }}media/logo-social.png">
+		<title>{% if title %}{{ title }} · {% endif %}{{ metadata.title }}</title>
+		<link rel=icon href=/favicon.ico>
+		<link rel=stylesheet href=/setup/default.min.css>
+		<link rel=alternate href=/feed/ type=application/rss+xml title="{{ metadata.title }}">
+		<link rel=preconnect href=https://maps.googleapis.com/ crossorigin>
+		{% if page.url != '/' %}<link rel=prerender href=/>{% endif %}
+	<!-- htmlmin:ignore --><body><!-- htmlmin:ignore -->
+		<div id=notification>
+			<p>HH Kaffee macht aktuell Pause. ({% if page.url != '/schnack/hh-kaffee-daten-und-fakten/' %}<a href=/schnack/hh-kaffee-daten-und-fakten/>{% endif %}Am Projekt&nbsp;interessiert?{% if page.url != '/schnack/hh-kaffee-daten-und-fakten/' %}</a>{% endif %})
+		</div>
+		<header>
+			{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src=/media/logo.png alt="{{ metadata.title }}">{% if page.url != '/' %}</a>{% endif %}
+			<nav>
+				<ul>
+					{%- for entry in collections.all | eleventyNavigation %}
+					<li>{% if entry.url != page.url %}<a href={{ entry.url | url }}>{% endif %}{{ entry.title | safe }}{% if entry.url != page.url %}</a>{% endif %}
+					{%- endfor %}
+				</ul>
+			</nav>
+		</header>
+		{% if logo %}{% if website %}<a href={{ website }}>{% endif %}<img src="{{ logo }}" alt="Logo von {{ title }}." class=logo>{% if website %}</a>{% endif %}{% endif %}
+		<article>
+			<h1>{{ title }}</h1>
+			<!-- Beware of code entropy -->
+			{{ content | safe }}
+		</article>
+		<div id=social>
+			<p>Informiert bleiben? Folgt uns per <a href=/feed/>RSS-Feed</a> oder auf&nbsp;<a href=https://twitter.com/hhkaffeecom>Twitter</a>.
+		</div>
+		<footer>
+			{{ metadata.description }}
+			{% if page.url == '/' %}<br><span>Letzte Aktualisierung: {% today %}</span>{% endif -%}
+			{% if vg_wort %}<img src=https://vg07.met.vgwort.de/na/{{ vg_wort }} alt="" id=fd-vg-wort>{% endif %}
+		</footer>
