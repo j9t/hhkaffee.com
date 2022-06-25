@@ -51,6 +51,6 @@ Gibt es etwas, dass uns nicht gefällt?
 
 1. Man kann nix sehen.
 
-Insgesamt sind wir aber auch hier sehr zufrieden – und holen, wenn man mal wirklich was sehen muss, die Beem raus.
+Insgesamt sind wir aber auch hier sehr zufrieden – und holen, wenn man mal was sehen muss, die Beem raus.
 
 Das ist unser aktuelles Setup! Was ist eures? Hier ist es ja eher Einbahnstraßenfußball, aber zumindest auf [den Tweet](https://twitter.com/hhkaffeecom/status/1351582969195061248) könnt ihr antworten, und auf diese Antworten freuen wir uns!
