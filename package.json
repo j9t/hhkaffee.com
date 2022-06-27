@@ -15,7 +15,8 @@
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy",
-    "imagemin": "imagemin-merlin"
+    "imagemin": "imagemin-merlin",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
@@ -25,10 +26,5 @@
     "husky": "^8.0.1",
     "luxon": "^2.4.0",
     "markdown-it": "^13.0.1"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run imagemin -- --staged"
-    }
   }
 }
