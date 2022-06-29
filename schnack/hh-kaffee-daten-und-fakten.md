@@ -7,7 +7,7 @@ logo: /media/logo-alt.png
 website: /
 ---
 
-HH Kaffee ist ein Liebhaberprojekt, das [seit 2017](/ueber-uns/) exklusiv von [Jens Oliver Meiert](https://meiert.com/), einem in Hamburg ansässigen Engineering Manager und Autor betrieben wird. (Hi.)
+HH Kaffee ist ein Liebhaberprojekt, das [seit 2017](/ueber-uns/) exklusiv von [Jens Oliver Meiert](https://meiert.com/), einem in Hamburg ansässigen Engineering Lead und Autor betrieben wird. (Hi.)
 
 _HH Kaffee steht zum Verkauf:_ Da ich HH Kaffee nebenher betreibe, komme ich nicht dazu, die Website so auszubauen, dass sie noch mehr für Kaffee und Cafés in Hamburg tun kann (auch wenn ich noch einige Ideen habe). Ich habe auch nicht die Kapazität, die Website über Affiliate-Marketing und der Verwertung von Inhalten hinaus weiter zu »monetarisieren« (was als Hamburger und Kaffeefreund auch nicht meine Hauptmotivation war).
 
