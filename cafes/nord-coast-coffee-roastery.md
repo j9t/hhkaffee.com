@@ -20,6 +20,10 @@ locations:
   coordinates: "53.58325048797584,9.985642912246135"
   hours: Montag – Sonntag 10–18&nbsp;Uhr
   phone: 32860636
+- address: Eppendorfer Weg 171<br>20253 Hamburg
+  coordinates: "53.57967261047681,9.966390615860279"
+  hours: Montag, Donnerstag – Sonntag 10–17&nbsp;Uhr
+  phone: 45028595
 
 coffee: 3,90
 espresso: 1,80
