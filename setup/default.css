@@ -484,6 +484,7 @@ div#notification {
 }
 
 div#notification p {
+	hyphens: manual;
 	margin: 0;
 }
 
