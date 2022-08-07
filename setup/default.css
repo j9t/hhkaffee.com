@@ -379,7 +379,7 @@ span,
 	color: #888;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 430px) {
 
 	header {
 		margin-bottom: 0;
