@@ -13,7 +13,7 @@ Wir sind hier weiter ganz bescheiden – wir lernen wie vielleicht auch ein paar
 
 ## Mühle: Kinu M47 Phoenix
 
-Wir sind vor ein paar Monaten [wieder](/schnack/comandante-c40-mk3-nitro-blade/) umgestiegen, und zwar von der [Comandante (228 Euro)](https://comandantegrinder.com/) auf eine&nbsp;[Kinu M47 Phoenix (199 Euro)](https://www.kinugrinders.com/index.php?page=m_home_page.public.show_product&Id_Product=24).
+Wir sind vor ein paar Monaten [wieder](/schnack/comandante-c40-mk3-nitro-blade/) umgestiegen, und zwar von der [Comandante (228 Euro)](https://comandantegrinder.com/) auf eine&nbsp;[Kinu M47 Phoenix (199 Euro)](https://kinugrinders.com/product/m47-phoenix/).
 
 Die Comandante ist immer noch im Haus, die wird auch noch benutzt, aber uns gefällt die Kinu nochmal ein ganzes Stück besser. Vor allem: der besser einstell- und merkbare Mahlgrad, und das noch feinere Mahlergebnis. Bei der Kinu _muss_ man eigentlich schon Espresso mahlen – das Ergebnis ist hier (aus unserer bescheidenen Sicht) phänomenal.
 
