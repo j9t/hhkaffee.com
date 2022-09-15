@@ -14,7 +14,7 @@ facebook: https://www.facebook.com/beckingkaffee/
 locations:
 - address: Leverkusenstraße 31<br>22761 Hamburg
   coordinates: "53.566416,9.93183190000002"
-  hours: Montag – Freitag 8–19&nbsp;Uhr
+  hours: Montag – Freitag 8–19 Uhr
   phone: 8519283
 
 coffee: 1,30

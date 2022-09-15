@@ -13,7 +13,7 @@ Wir sind hier weiter ganz bescheiden – wir lernen wie vielleicht auch ein paar
 
 ## Mühle: Kinu M47 Phoenix
 
-Wir sind vor ein paar Monaten [wieder](/schnack/comandante-c40-mk3-nitro-blade/) umgestiegen, und zwar von der [Comandante (228 Euro)](https://comandantegrinder.com/) auf eine&nbsp;[Kinu M47 Phoenix (199 Euro)](https://kinugrinders.com/product/m47-phoenix/).
+Wir sind vor ein paar Monaten [wieder](/schnack/comandante-c40-mk3-nitro-blade/) umgestiegen, und zwar von der [Comandante (228 Euro)](https://comandantegrinder.com/) auf eine [Kinu M47 Phoenix (199 Euro)](https://kinugrinders.com/product/m47-phoenix/).
 
 Die Comandante ist immer noch im Haus, die wird auch noch benutzt, aber uns gefällt die Kinu nochmal ein ganzes Stück besser. Vor allem: der besser einstell- und merkbare Mahlgrad, und das noch feinere Mahlergebnis. Bei der Kinu _muss_ man eigentlich schon Espresso mahlen – das Ergebnis ist hier (aus unserer bescheidenen Sicht) phänomenal.
 
@@ -21,7 +21,7 @@ Die Comandante ist immer noch im Haus, die wird auch noch benutzt, aber uns gef�
 
 Eine Sache vorweg: Wir liebäugeln schon ewig mit der [Pearl (140 Dollar)](https://acaia.co/products/pearl)! Später mal.
 
-Nach einiger Zeit mit der [Hario VST-2000B (65 Euro)](https://www.amazon.de/dp/B009GPJMOU/?tag=hhk-21) sind wir auf eine neue Waage umgestiegen. Warum? _Eigentlich_ reichte uns die Hario, aber sie – die Gewichtsanzeige – ist einfach etwas langsam. Auch wenn sich die Verzögerung im Zehntelsekundenbereich bewegen mag, fühlt es sich beim Abwiegen doch ständig alles einfach&nbsp;… langsam an.
+Nach einiger Zeit mit der [Hario VST-2000B (65 Euro)](https://www.amazon.de/dp/B009GPJMOU/?tag=hhk-21) sind wir auf eine neue Waage umgestiegen. Warum? _Eigentlich_ reichte uns die Hario, aber sie – die Gewichtsanzeige – ist einfach etwas langsam. Auch wenn sich die Verzögerung im Zehntelsekundenbereich bewegen mag, fühlt es sich beim Abwiegen doch ständig alles einfach … langsam an.
 
 Auf welche Waage sind wir umgestiegen? Auf eine [Timemore Black Mirror TES005 (52 Euro)](https://www.amazon.de/gp/product/B08BFZXCQQ/?tag=hhk-21). Die Waage ist bisher top: Sie scheint gut verarbeitet, sieht nett aus und misst deutlich schneller. Einziger Haken: Wenn wir mit der Hario vergleichen, kriegen wir unterschiedliche Messergebnisse – eine der beiden Waagen misst also falsch (wenn nicht sogar beide). Da der Unterschied aber im Zehntelgrammbereich zu liegen scheint, haben wir es bisher hingenommen.
 

@@ -26,7 +26,7 @@ Bäckerbreitergang 12
 
 ## Rechtliche Hinweise
 
-Verantwortlich für journalistisch-redaktionelle Inhalte (aber nicht für verlinkte Websites) gemäß §&nbsp;55 II RStV: Jens Oliver Meiert. Alle Angaben ohne Gewähr.
+Verantwortlich für journalistisch-redaktionelle Inhalte (aber nicht für verlinkte Websites) gemäß § 55 II RStV: Jens Oliver Meiert. Alle Angaben ohne Gewähr.
 
 ### Urheberrecht
 
@@ -89,7 +89,7 @@ Wir haben mit ALL-INKL.COM einen Vertrag zur Auftragsdatenverarbeitung abgeschlo
 
 Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
 
-Grundlage für die Datenverarbeitung ist Art.&nbsp;6 Abs.&nbsp;1 (f) DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
+Grundlage für die Datenverarbeitung ist Art. 6 Abs. 1 (f) DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
 
 In den uns zugänglichen Server-Statistiken werden IP-Adressen vollständig anonymisiert und die Log-Dateien nach 30 Tagen gelöscht.
 
@@ -97,7 +97,7 @@ In den uns zugänglichen Server-Statistiken werden IP-Adressen vollständig anon
 
 Wenn Sie uns per E-Mail kontaktieren, werden Ihre Angaben einschließlich der von Ihnen geteilten Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
-Die Verarbeitung der in der E-Mail eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art.&nbsp;6 Abs.&nbsp;1 (a) DSGVO). Sie können diese Einwilligung jederzeit widerrufen; hierzu reicht eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+Die Verarbeitung der in der E-Mail eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 (a) DSGVO). Sie können diese Einwilligung jederzeit widerrufen; hierzu reicht eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
 Die von Ihnen in Ihrer E-Mail eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Zwingende gesetzliche Bestimmungen, insbesondere Aufbewahrungsfristen, bleiben unberührt.
 
@@ -105,11 +105,11 @@ Für E-Mail benutzen wir Gmail und Proton Mail, jeweils zusätzlich abgesichert 
 
 #### VG WORT
 
-Manche Seiten dieser Website benutzen zur Messung von Textzugriffen Session-Cookies der [VG WORT](https://www.vgwort.de/). Die VG WORT wiederum nutzt das »Skalierbare Zentrale Messverfahren« (SZM) der INFOnline GmbH für die Ermittlung statistischer Kennwerte zur Bestimmung der Kopierwahrscheinlichkeit von Texten. Die Messung erfolgt mit berechtigtem Interesse nach Art.&nbsp;6 Abs.&nbsp;1 (f) DSGVO.
+Manche Seiten dieser Website benutzen zur Messung von Textzugriffen Session-Cookies der [VG WORT](https://www.vgwort.de/). Die VG WORT wiederum nutzt das »Skalierbare Zentrale Messverfahren« (SZM) der INFOnline GmbH für die Ermittlung statistischer Kennwerte zur Bestimmung der Kopierwahrscheinlichkeit von Texten. Die Messung erfolgt mit berechtigtem Interesse nach Art. 6 Abs. 1 (f) DSGVO.
 
 Bei der Zugriffszahlenmessung werden anonyme Messwerte erhoben. Sie verwendet zur Wiedererkennung von Computersystemen entweder einen Session-Cookie oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert; Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
 
-Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, die sogenannte Session-ID. Außerdem enthält ein solcher Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG WORT ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG WORT partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß §&nbsp;53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter [optout.ioam.de](https://optout.ioam.de/) widersprechen.
+Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, die sogenannte Session-ID. Außerdem enthält ein solcher Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG WORT ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG WORT partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß § 53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter [optout.ioam.de](https://optout.ioam.de/) widersprechen.
 
 #### Verschiedenes
 
@@ -127,4 +127,4 @@ Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets de
 
 Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person: Jens Oliver Meiert (Kontaktdaten obenstehend).
 
-Gemäß Art.&nbsp;14 Abs.&nbsp;1 ODRVO stellt die Europäische Kommission eine [Plattform zur Online-Streitbeilegung](https://ec.europa.eu/consumers/odr/) bereit.
+Gemäß Art. 14 Abs. 1 ODRVO stellt die Europäische Kommission eine [Plattform zur Online-Streitbeilegung](https://ec.europa.eu/consumers/odr/) bereit.

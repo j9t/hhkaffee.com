@@ -27,4 +27,4 @@ Veljko: Da könnte sich sicher mehr tun. Es gibt viele Standardcafés, die Kaffe
 
 Was Third Wave und Specialty Coffee anbelangt, ist es über die Jahre einfacher geworden, man muss nicht mehr so viel erklären. Wir sind hier aber wie gesagt locker, bei Playground wollen wir niemand etwas aufdrücken. Uns ist es eher wichtig, ein guter Gastgeber zu sein.
 
-Jens: Vielen Dank, Veljko&nbsp;…!
+Jens: Vielen Dank, Veljko …!

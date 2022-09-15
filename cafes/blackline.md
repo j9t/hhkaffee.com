@@ -10,7 +10,7 @@ facebook: https://www.facebook.com/blacklinecoffeebar
 locations:
 - address: Eppendorfer Weg 67<br>20259 Hamburg
   coordinates: "53.5716809,9.958464100000015"
-  hours: Montag – Freitag 9–16&nbsp;Uhr<br>Samstag 10–16&nbsp;Uhr 
+  hours: Montag – Freitag 9–16 Uhr<br>Samstag 10–16 Uhr 
   phone: 64880078
 - address: Paul-Roosen-Straße 39<br>22767 Hamburg
   coordinates: "53.55329132080078,9.957418441772461"

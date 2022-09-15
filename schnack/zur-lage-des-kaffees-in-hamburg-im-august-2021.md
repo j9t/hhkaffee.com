@@ -4,7 +4,7 @@ date: 2021-08-05
 vg_wort: e1be9a7ef57f4a20825242095346f86f
 ---
 
-Hi hallo moin zu einem neuen verzerrten Überblick über Kaffee in Hamburg&nbsp;✨
+Hi hallo moin zu einem neuen verzerrten Überblick über Kaffee in Hamburg ✨
 
 Das Wichtigste zuerst: Wir haben mit dem [goldenblack](/cafes/goldenblack/) einen weiteren Neuzugang. Etwas spät (goldenblack gibt es seit mehr als einem Jahr), aber das kommt vor. Und besser spät als nie! (Wenn ihr was wisst, was wir hier noch nicht wissen, freuen wir uns immer über Hinweise!)
 

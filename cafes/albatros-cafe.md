@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/albatroshamburg/
 locations:
 - address: Wagnerstraße 5<br>22087 Hamburg
   coordinates: "53.574867,10.0367753"
-  hours: Dienstag – Sonntag 9–17&nbsp;Uhr
+  hours: Dienstag – Sonntag 9–17 Uhr
   phone: 21086325
 
 coffee: 2

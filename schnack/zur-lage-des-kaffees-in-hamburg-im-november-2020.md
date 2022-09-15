@@ -8,7 +8,7 @@ Au Coronavirus. Scheiße für alle, auch uns Kaffeeliebhaber und unsere Zuliefer
 
 Wir haben vor dem aktuellen »Lockdown light« das [Albatros](/cafes/albatros-cafe/) sowie [Mutterland](/cafes/mutterland/) aufgenommen. Was wir am Albatros so cool finden, ist dass wir in Hamburg endlich mal was östlich der Alster am Start haben. Holt euch dort mal einen Kaffee raus. Mutterland kennt jeder, da denkt man nicht glatt an Specialty Coffee, aber – gefehlt! Auch mal vorbeiturnen.
 
-Das [Tōrnqvist](/cafes/tornqvist/) ist vorbei&nbsp;✝ Wir schenken dem ehemals Berlin-ähnlichsten Café der Stadt eine Archivseite für die Ewigkeit.
+Das [Tōrnqvist](/cafes/tornqvist/) ist vorbei ✝ Wir schenken dem ehemals Berlin-ähnlichsten Café der Stadt eine Archivseite für die Ewigkeit.
 
 [blackline](/cafes/blackline/) hat neue Daten – ob die nach ein paar Tagen aber jetzt noch gelten, wissen wir selbst nicht.
 

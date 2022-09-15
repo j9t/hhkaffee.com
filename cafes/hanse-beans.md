@@ -11,12 +11,12 @@ instagram: https://www.instagram.com/hansebeans/
 locations:
 - address: Fröbelstraße 2<br>20146 Hamburg
   coordinates: "53.5654,9.98348999999996"
-  hours: Montag – Freitag 10–17&nbsp;Uhr
+  hours: Montag – Freitag 10–17 Uhr
 
 espresso: 1,90
 internet: ja
 
-archive: "Hanse Beans scheint seit 2021 nicht mehr geöffnet zu&nbsp;haben."
+archive: "Hanse Beans scheint seit 2021 nicht mehr geöffnet zu haben."
 ---
 
 Das Hanse Beans (eröffnet 2016) befindet sich direkt bei der Universität Hamburg und serviert »den besten Kaffee auf dem Campus«.

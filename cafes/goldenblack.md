@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/goldenblack_coffeestore/
 locations:
 - address: Karolinenstraße 23<br>20357 Hamburg
   coordinates: "53.55869312747866,9.975179114995196"
-  hours: Montag – Sonntag 10–18&nbsp;Uhr
+  hours: Montag – Sonntag 10–18 Uhr
 
 coffee: 3
 espresso: 2,20

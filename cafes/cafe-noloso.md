@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/cafe_noloso/
 locations:
 - address: Holstenstraße 175<br>22765 Hamburg
   coordinates: "53.56016959524,9.948600818170238"
-  hours: Montag – Sonntag 10–18&nbsp;Uhr
+  hours: Montag – Sonntag 10–18 Uhr
 
 espresso: 1,90
 internet: ja

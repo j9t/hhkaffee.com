@@ -11,10 +11,10 @@ instagram: https://www.instagram.com/codoscoffee/
 locations:
 - address: Bahrenfelder Straße 137–139<br>22765 Hamburg
   coordinates: "53.55348990282172,9.928964180046016"
-  hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag 9–18&nbsp;Uhr<br>Sonntag 10–18&nbsp;Uhr
+  hours: Montag – Freitag 8–18 Uhr<br>Samstag 9–18 Uhr<br>Sonntag 10–18 Uhr
 - address: Bahrenfelder Straße 156<br>22765 Hamburg
   coordinates: "53.553861,9.928945699999986"
-  hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag/Sonntag 9–18&nbsp;Uhr
+  hours: Montag – Freitag 8–18 Uhr<br>Samstag/Sonntag 9–18 Uhr
   phone: 63739990
 - address: Große Bergstraße 247<br>22767 Hamburg
   coordinates: "53.55219249789674,9.93985488553009"

@@ -7,7 +7,7 @@ logo: /media/venues/speicherstadt-kaffeeroesterei.jpg
 website: /cafes/speicherstadt-kaffeeroesterei/
 ---
 
-Wie ihr wisst, [interviewen wir gerne](/schnack/) Mitglieder der Hamburger Kaffeeszene. Heute haben wir das Vergnügen, etwas mit Andreas Wessel-Ellermann zu sprechen, einem der Geschäftsführer der [Speicherstadt Kaffeerösterei](/cafes/speicherstadt-kaffeeroesterei/). Los geht’s!&nbsp;☕️
+Wie ihr wisst, [interviewen wir gerne](/schnack/) Mitglieder der Hamburger Kaffeeszene. Heute haben wir das Vergnügen, etwas mit Andreas Wessel-Ellermann zu sprechen, einem der Geschäftsführer der [Speicherstadt Kaffeerösterei](/cafes/speicherstadt-kaffeeroesterei/). Los geht’s! ☕️
 
 Jens (HH Kaffee): Unsere Lieblingsfrage zuerst – was ist ein guter Kaffee für dich?
 

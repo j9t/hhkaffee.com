@@ -14,7 +14,7 @@ instagram: https://www.instagram.com/huntcoffeeroasters/
 locations:
 - address: Ochsenzoller Straße 120<br>22848 Norderstedt
   coordinates: "53.6817,9.982780000000048"
-  hours: Montag – Samstag 10–18&nbsp;Uhr<br>Sonntag 13–17&nbsp;Uhr
+  hours: Montag – Samstag 10–18 Uhr<br>Sonntag 13–17 Uhr
   phone: 94361881
 zoom: 9
 

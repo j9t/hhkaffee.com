@@ -13,7 +13,7 @@ instagram: https://www.instagram.com/mohos_barista/
 locations:
 - address: Schlüterstraße 12<br>20146 Hamburg
   coordinates: "53.564985434068504,9.986927461715819"
-  hours: Montag – Freitag, Sonntag 9–17&nbsp;Uhr
+  hours: Montag – Freitag, Sonntag 9–17 Uhr
   phone: 45060404
 
 espresso: 2,10

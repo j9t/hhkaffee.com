@@ -12,7 +12,7 @@ instagram: https://www.instagram.com/thecoffeeshop_hamburg/
 locations:
 - address: Poststraße 6a<br>20354 Hamburg
   coordinates: "53.552507,9.99106329999995"
-  hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag 9–19&nbsp;Uhr
+  hours: Montag – Freitag 8–18 Uhr<br>Samstag 9–19 Uhr
 
 views:
 - title: the coffee shop von außen.

@@ -14,7 +14,7 @@ facebook: https://www.facebook.com/kopiba
 locations:
 - address: Beim Grünen Jäger 24<br>20359 Hamburg
   coordinates: "53.55885809999999,9.963507899999968"
-  hours: Montag – Sonntag 10–18&nbsp;Uhr
+  hours: Montag – Sonntag 10–18 Uhr
   phone: 343824
 
 coffee: 3,10

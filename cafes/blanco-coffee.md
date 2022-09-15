@@ -9,7 +9,7 @@ instagram: https://www.instagram.com/cafe.blanco/
 locations:
 - address: Lange Reihe 87<br>20099 Hamburg
   coordinates: "53.558451373430415,10.012454997341527"
-  hours: Montag – Freitag 8–18&nbsp;Uhr<br>Samstag/Sonntag 9–18&nbsp;Uhr
+  hours: Montag – Freitag 8–18 Uhr<br>Samstag/Sonntag 9–18 Uhr
 - address: Bartelsstraße 2<br>20357 Hamburg
   coordinates: "53.56167438978576,9.965221468827053"
   hours: "\""

@@ -10,7 +10,7 @@ instagram: https://www.instagram.com/ujote.espresso/
 locations:
 - address: Bismarckstraße 88<br>20253 Hamburg
   coordinates: "53.576877252894036,9.969808583635448"
-  hours: Montag/Dienstag, Donnerstag/Freitag 7:30–17:30&nbsp;Uhr<br>Samstag/Sonntag 9:30–17:30&nbsp;Uhr
+  hours: Montag/Dienstag, Donnerstag/Freitag 7:30–17:30 Uhr<br>Samstag/Sonntag 9:30–17:30 Uhr
 
 espresso: 1,80
 internet: nein

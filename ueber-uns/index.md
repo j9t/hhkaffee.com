@@ -1,6 +1,6 @@
 ---
 eleventyNavigation:
-  key: Über&nbsp;uns
+  key: Über uns
   order: 3
 layout: index.njk
 title: Über uns

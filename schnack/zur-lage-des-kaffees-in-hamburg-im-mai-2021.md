@@ -8,7 +8,7 @@ Schnell schnell schnell!
 
 Wir haben das [Café Noloso](/cafes/cafe-noloso/) aufgenommen.
 
-(Wir stehen kurz davor, noch ein neues Café aus Eimsbüttel aufzunehmen&nbsp;✨)
+(Wir stehen kurz davor, noch ein neues Café aus Eimsbüttel aufzunehmen ✨)
 
 [Copenhagen Coffee Lab](/cafes/copenhagen-coffee-lab/) gibt es seit einem Monat auch in der Rindermarkthalle. Dort, wo vorher die Kaffeerösterei Brügmann war, die wir aus uns unerfindlichen Gründen nie erproben konnten.
 

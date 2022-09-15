@@ -7,7 +7,7 @@ logo: /media/venues/elbgold.jpg
 website: /cafes/elbgold/
 ---
 
-Nachdem das letzte Interview mit [Aaron vom Teikei](/schnack/7-fragen-an-aaron-kueppers-teikei/) schon etwas her ist, gibt es endlich ein neues, und wir freuen uns heute auf – Timo Hildebrandt vom [elbgold](/cafes/elbgold/)! Wir hatten mit der Idee schon zu Timos Zeiten bei [Hunt](/cafes/hunt-coffee-roasters/) gespielt, und nun ist es endlich soweit!&nbsp;☕️
+Nachdem das letzte Interview mit [Aaron vom Teikei](/schnack/7-fragen-an-aaron-kueppers-teikei/) schon etwas her ist, gibt es endlich ein neues, und wir freuen uns heute auf – Timo Hildebrandt vom [elbgold](/cafes/elbgold/)! Wir hatten mit der Idee schon zu Timos Zeiten bei [Hunt](/cafes/hunt-coffee-roasters/) gespielt, und nun ist es endlich soweit! ☕️
 
 Jens (HH Kaffee): Steigen wir direkt ein – was ist ein guter Kaffee für dich?
 
@@ -37,4 +37,4 @@ Jens: Hast du einen Tipp für uns, was wir mal ausprobieren sollten?
 
 Timo: Wie überall ist die Devise, rausgehen (oder ab ins Internet) und probieren. Um guten Kaffee trinken gehen zu können, braucht es in der Regel nicht viel in einer Stadt wie Hamburg. Man fragt Locals oder das Internet mit Schlagwörtern wie »Spezialitätenkaffee«, »Specialty Coffee« oder »Third Wave Coffee Shops« und kommt man dann schon weit. Und meist ist es so, dass wenn man einen guten Laden in einer Stadt gefunden hat, die anderen durch Nachfrage und Empfehlung vor Ort (oder Internet) auch nicht mehr weit weg sind.
 
-Jens: Vielen Dank, Timo&nbsp;…!
+Jens: Vielen Dank, Timo …!

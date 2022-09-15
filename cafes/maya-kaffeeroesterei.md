@@ -13,11 +13,11 @@ instagram: https://www.instagram.com/mayakaffeeroesterei/
 locations:
 - address: Hammerbrookstraße 75<br>20097 Hamburg
   coordinates: "53.54599229999999,10.024719000000005"
-  hours: Montag – Freitag 7–18&nbsp;Uhr
+  hours: Montag – Freitag 7–18 Uhr
   phone: 63664554
 - address: Borgweg 15<br>22303 Hamburg
   coordinates: "53.59094289999999,10.01521809999997"
-  hours: Montag – Freitag 7–17&nbsp;Uhr<br>Samstag/Sonntag 9–17&nbsp;Uhr
+  hours: Montag – Freitag 7–17 Uhr<br>Samstag/Sonntag 9–17 Uhr
   phone: 23686968
 
 coffee: 2,60

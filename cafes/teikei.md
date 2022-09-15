@@ -13,7 +13,7 @@ instagram: https://www.instagram.com/teikeicoffee/
 locations:
 - address: Marktstraße 25<br>20357 Hamburg
   coordinates: "53.5582723,9.9719331"
-  hours: Montag – Sonntag 10–18&nbsp;Uhr
+  hours: Montag – Sonntag 10–18 Uhr
 
 coffee: 2,30
 espresso: 2,20

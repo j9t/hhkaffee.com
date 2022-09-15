@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/rain_cafeatery/
 locations:
 - address: Große Rainstraße 15<br>22765 Hamburg
   coordinates: "53.5528741,9.930774400000018"
-  hours: Montag, Donnerstag – Sonntag 9–17&nbsp;Uhr
+  hours: Montag, Donnerstag – Sonntag 9–17 Uhr
   phone: 30391130
 
 espresso: 1,90

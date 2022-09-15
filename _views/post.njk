@@ -8,9 +8,9 @@ layout: base.njk
 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 <ul class=meta>
 	{%- if previousPost %}
-	<li>←&nbsp;<a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a>
+	<li>← <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a>
 	{%- endif -%}
 	{% if nextPost %}
-	<li><a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a>&nbsp;→
+	<li><a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a> →
 	{%- endif %}
 </ul>

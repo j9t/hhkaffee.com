@@ -4,7 +4,7 @@ date: 2020-12-05
 vg_wort: 83d501a616c14f52b49913b3385de506
 ---
 
-Es gibt nicht so viel zu erzählen – wie viele von euch halten auch wir fleißig die Füße still, damit wir möglichst bald aus dieser&nbsp;… Situation raus sind.
+Es gibt nicht so viel zu erzählen – wie viele von euch halten auch wir fleißig die Füße still, damit wir möglichst bald aus dieser … Situation raus sind.
 
 [elbgold](/cafes/elbgold/) wurde mal wieder ausgezeichnet: Vom Kaffee-Panel gab es [den ersten Platz](https://kaffee-panel.org/beste-filterkaffees-aus-afrika-2020/) in der Kategorie »bester ›divers‹ aufbereiteter Filterkaffee aus Afrika«. Wir freuen uns [mit dem elbgold mit](https://www.facebook.com/elbgold/posts/10157229261696090)! (_À propos_, habt ihr [unser Interview mit Timo](/schnack/5-fragen-an-timo-hildebrandt-elbgold/) gelesen? Wenn nicht, nachholen ☝️)
 

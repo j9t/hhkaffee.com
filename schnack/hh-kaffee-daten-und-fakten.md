@@ -61,11 +61,11 @@ HH Kaffee benutzt einen einfachen, aber modernen Technologie-Stack:
 
 | System | Details |
 |---|---|
-| Quelltext | HTML, CSS, JavaScript (in [GitHub](https://github.com/j9t/hhkaffee.com)&nbsp;†) |
+| Quelltext | HTML, CSS, JavaScript (in [GitHub](https://github.com/j9t/hhkaffee.com) †) |
 | Versionskontrolle | Git |
 | Content-Management | [Eleventy](https://www.11ty.dev/) |
-| Paket-Management | [npm](https://www.npmjs.com/) (halbautomatisch aktualisiert über [Depfu](https://depfu.com/)&nbsp;†) |
-| Kartenanbieter | Google Maps&nbsp;† |
+| Paket-Management | [npm](https://www.npmjs.com/) (halbautomatisch aktualisiert über [Depfu](https://depfu.com/) †) |
+| Kartenanbieter | Google Maps † |
 
 ## Qualität
 
@@ -73,7 +73,7 @@ Der Quelltext und der ausgegebene Code sind hochwertig (ich komme aus der Webent
 
 | Qualitätsmerkmal | Wert |
 |---|---|
-| Performance | [99/100 PageSpeed-Score](https://pagespeed.web.dev/report?url=https%3A%2F%2Fhhkaffee.com%2F)<br>[0,421&nbsp;s Speed Index](https://www.webpagetest.org/result/211103_BiDc40_94451b092d67a58a9e7c1d732a44a95f/) (Frankfurt) |
+| Performance | [99/100 PageSpeed-Score](https://pagespeed.web.dev/report?url=https%3A%2F%2Fhhkaffee.com%2F)<br>[0,421 s Speed Index](https://www.webpagetest.org/result/211103_BiDc40_94451b092d67a58a9e7c1d732a44a95f/) (Frankfurt) |
 | Validität | [0 Fehler im HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhhkaffee.com%2F)<br>[0 Fehler im CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhhkaffee.com%2F&profile=css3svg&usermedium=all&vextwarning=true) |
 
 Etwaige Mängel, wie z.B. in der technischen [Analyse der Zugänglichkeit](https://wave.webaim.org/report#/https%3A%2F%2Fhhkaffee.com%2F), sind auf Code von Dritten zurückzuführen (wie Google Maps). 
@@ -116,6 +116,6 @@ Ich übergebe alles nach bestem Wissen und Gewissen und schließe nach vollzogen
 
 Sende mir [eine E-Mail](/kontakt/) mit Rückfragen bzw. einem Gebot. Der Mindestpreis für HH Kaffee beträgt 2.000 Euro.
 
-Vielen Dank für das Interesse – und auf eine gute und gesunde Kaffeekultur in Hamburg!&nbsp;☕️
+Vielen Dank für das Interesse – und auf eine gute und gesunde Kaffeekultur in Hamburg! ☕️
 
 † Für diese Systeme muss eine Übergabe organisiert werden, was bei Beibehaltung der Anbieter jedoch einfach ist.

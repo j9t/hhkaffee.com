@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/marshall.street.coffee/
 locations:
 - address: Schopenstehl 30<br>20095 Hamburg
   coordinates: "53.5486531,9.9981614"
-  hours: Mittwoch – Freitag 8–16&nbsp;Uhr<br>Samstag/Sonntag 9–16&nbsp;Uhr
+  hours: Mittwoch – Freitag 8–16 Uhr<br>Samstag/Sonntag 9–16 Uhr
 
 coffee: 3,20
 espresso: 1,80

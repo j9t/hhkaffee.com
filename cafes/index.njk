@@ -10,7 +10,7 @@ title: Cafés und Röstereien
 <ul id=venues>
 	{% set entries = collections.venues %}
 	{%- for entry in entries | sortByTitle -%}
-	<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a>{% if entry in collections.favorites %}&nbsp;<span>★</span>{% endif %}{% if entry in collections.candidates %}&nbsp;<span>�</span>{% endif %}
+	<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a>{% if entry in collections.favorites %} <span>★</span>{% endif %}{% if entry in collections.candidates %} <span>�</span>{% endif %}
 	{% endfor -%}
 </ul>
 {% include 'partials/map.njk' %}

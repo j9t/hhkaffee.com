@@ -11,7 +11,7 @@ instagram: https://www.instagram.com/yokohamacoffeebar/
 locations:
 - address: Yokohamastraße 10<br>20457 Hamburg
   coordinates: "53.54223946516326,10.004492591052578"
-  hours: Montag – Freitag 9–18&nbsp;Uhr<br>Samstag/Sonntag 10–18&nbsp;Uhr
+  hours: Montag – Freitag 9–18 Uhr<br>Samstag/Sonntag 10–18 Uhr
 
 coffee: 2,50
 espresso: 1,90

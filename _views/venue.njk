@@ -7,11 +7,11 @@ layout: base.njk
 {{ content | safe }}
 <p>
 	{%- if tags and tags.includes('roaster') %}Rösterei · {% endif -%}
-	{%- if coffee %}Filterkaffee ab {{ coffee }}&nbsp;€ · {% endif -%}
-	{%- if espresso %}Espresso {{ espresso }}&nbsp;€ · {% endif -%}
+	{%- if coffee %}Filterkaffee ab {{ coffee }} € · {% endif -%}
+	{%- if espresso %}Espresso {{ espresso }} € · {% endif -%}
 	Internet: {{ internet }}
-	{%- if tags and tags.includes('favorite') %} · HH-Kaffee-Favorit&nbsp;<span>★</span>{% endif -%}
-	{%- if tags and tags.includes('candidate') %} · HH-Kaffee-Kandidat&nbsp;<span>�</span>{% endif -%}
+	{%- if tags and tags.includes('favorite') %} · HH-Kaffee-Favorit <span>★</span>{% endif -%}
+	{%- if tags and tags.includes('candidate') %} · HH-Kaffee-Kandidat <span>�</span>{% endif -%}
 {# @@ Promote feature #}
 {% if promo %}
 	<div id=promo>{{ promo | safe }}</div>
@@ -78,9 +78,9 @@ layout: base.njk
 {% set previousVenue = collections.venues | sortByTitle | getPreviousCollectionItem(page) %}
 <ul class=meta>
 	{%- if previousVenue %}
-	<li>←&nbsp;<a href={{ previousVenue.url | url }}>{{ previousVenue.data.title }}</a>
+	<li>← <a href={{ previousVenue.url | url }}>{{ previousVenue.data.title }}</a>
 	{%- endif -%}
 	{% if nextVenue %}
-	<li><a href={{ nextVenue.url | url }}>{{ nextVenue.data.title }}</a>&nbsp;→
+	<li><a href={{ nextVenue.url | url }}>{{ nextVenue.data.title }}</a> →
 	{%- endif %}
 </ul>
