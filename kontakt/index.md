@@ -28,8 +28,6 @@ Bäckerbreitergang 12
 
 Verantwortlich für journalistisch-redaktionelle Inhalte gemäß §&nbsp;55 II RStV: Jens Oliver Meiert. Alle Angaben ohne Gewähr.
 
-Steuernummer: 48/157/00835.
-
 Gemäß Art.&nbsp;14 Abs.&nbsp;1 ODRVO stellt die Europäische Kommission eine [Plattform zur Online-Streitbeilegung](https://ec.europa.eu/consumers/odr/) bereit.
 
 ### Urheberrecht
@@ -44,6 +42,8 @@ Verantwortlich im Sinne des Datenschutzes, insbesondere der EU-Datenschutzgrundv
 
 Diese Datenschutzerklärung gebraucht eine den Gepflogenheiten für Datenschutzerklärungen entsprechende formelle Sprache. Ihr seid auf unserer Website weiterhin sehr willkommen.
 
+Als Betreiber dieser Website wollen wir grundsätzlich keine Ihrer Daten, und erheben entsprechend auch möglichst keine. Wir behandeln alle zu verarbeitenden Daten verantwortungsbewusst.
+
 #### Ihre Rechte
 
 Unter den angegebenen Kontaktdaten können Sie jederzeit folgende Rechte ausüben:
@@ -57,7 +57,7 @@ Unter den angegebenen Kontaktdaten können Sie jederzeit folgende Rechte ausübe
 
 Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
 
-Sie können sich jederzeit mit einer Beschwerde an die für Sie zuständige Aufsichtsbehörde wenden. Eine Liste der Aufsichtsbehörden (für den nicht-öffentlichen Bereich) mitsamt Anschrift finden Sie beim [Bundesbeauftragten für den Datenschutz](https://web.archive.org/web/20210528044255/https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
+Sie können sich ebenfalls jederzeit mit einer Beschwerde an die [für Sie zuständige Aufsichtsbehörde](https://edpb.europa.eu/about-edpb/about-edpb/members_de) wenden.
 
 #### Zwecke der Datenverarbeitung
 
@@ -74,7 +74,7 @@ Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir 
 
 #### Verschlüsselung
 
-Zum Schutz Ihrer Daten werden diese über [HTTPS](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) übertragen und mittels TLS verschlüsselt.
+Zum Schutz Ihrer Daten werden diese über [HTTPS](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) übertragen und mittels [TLS](https://de.wikipedia.org/wiki/Transport_Layer_Security) verschlüsselt.
 
 #### Server-Logs
 
@@ -93,7 +93,7 @@ Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenomm
 
 Grundlage für die Datenverarbeitung ist Art.&nbsp;6 Abs.&nbsp;1 lit.&nbsp;f DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
 
-In den uns zugänglichen Server-Statistiken werden IPs vollständig anonymisiert und die Log-Dateien nach 30 Tagen gelöscht.
+In den uns zugänglichen Server-Statistiken werden IP-Adressen vollständig anonymisiert und die Log-Dateien nach 30 Tagen gelöscht.
 
 #### E-Mail
 
@@ -107,11 +107,11 @@ Für E-Mail benutzen wir Gmail und Proton Mail, jeweils zusätzlich abgesichert 
 
 #### VG WORT
 
-Diese Website setzt Session-Cookies der [VG WORT](https://www.vgwort.de/) zur Messung von Textzugriffen ein. Die VG WORT wiederum nutzt das »Skalierbare Zentrale Messverfahren« (SZM) der INFOnline GmbH für die Ermittlung statistischer Kennwerte zur Bestimmung der Kopierwahrscheinlichkeit von Texten. Die Messung erfolgt mit berechtigtem Interesse nach Art.&nbsp;6 Abs.&nbsp;1 lit.&nbsp;f DSGVO.
+Manche Seiten dieser Website benutzen zur Messung von Textzugriffen Session-Cookies der [VG WORT](https://www.vgwort.de/). Die VG WORT wiederum nutzt das »Skalierbare Zentrale Messverfahren« (SZM) der INFOnline GmbH für die Ermittlung statistischer Kennwerte zur Bestimmung der Kopierwahrscheinlichkeit von Texten. Die Messung erfolgt mit berechtigtem Interesse nach Art.&nbsp;6 Abs.&nbsp;1 lit.&nbsp;f DSGVO.
 
-Bei der Zugriffszahlenmessung werden anonyme Messwerte erhoben. Sie verwendet zur Wiedererkennung von Computersystemen entweder ein Session-Cookie oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert; Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
+Bei der Zugriffszahlenmessung werden anonyme Messwerte erhoben. Sie verwendet zur Wiedererkennung von Computersystemen entweder einen Session-Cookie oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert; Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
 
-Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, eine sogenannte Session-ID. Außerdem enthält ein Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG WORT ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG WORT partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß §&nbsp;53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter [optout.ioam.de](https://optout.ioam.de/) widersprechen.
+Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, die sogenannte Session-ID. Außerdem enthält ein solcher Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG WORT ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG WORT partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß §&nbsp;53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter [optout.ioam.de](https://optout.ioam.de/) widersprechen.
 
 #### Verschiedenes
 
@@ -119,11 +119,11 @@ Einige Links auf dieser Website sind, um nicht nur auf Informationen und Produkt
 
 Diese Website verwendet die Google Maps API, um geographische Informationen anzuzeigen. Bei der Nutzung von Google Maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Beachten Sie [Googles Datenschutzerklärung](https://policies.google.com/privacy).
 
-Sporadisch setzt diese Website [Sentry](https://sentry.io/) ein, um die Befolgung von [Sicherheitsrichtlinien](https://de.wikipedia.org/wiki/Content_Security_Policy) zu überprüfen. Dies dient der generellen Sicherheit Ihrer Daten wie auch der Bestätigung von Angaben dieser Datenschutzerklärung, und geschieht nur sporadisch, um sowohl Sicherheit als auch Datenschutz zu stärken. Wie bei anderen externen Diensten auch beachten Sie bei Fragen dazu, wie Sentry Daten verarbeitet, die [Datenschutzerklärung von Sentry](https://sentry.io/privacy/).
+Sporadisch setzt diese Website [Sentry](https://sentry.io/) ein, um die Befolgung von [Sicherheitsrichtlinien](https://de.wikipedia.org/wiki/Content_Security_Policy) zu überprüfen. Dies dient der generellen Sicherheit Ihrer Daten wie auch der Bestätigung von Angaben dieser Datenschutzerklärung, und geschieht nur sporadisch, um eine Balance zwischen Sicherheit und Datenschutz zu ermöglichen. Wie bei anderen externen Diensten auch beachten Sie bei Fragen dazu, wie Sentry Daten verarbeitet, die [Datenschutzerklärung von Sentry](https://sentry.io/privacy/).
 
 #### Änderungen
 
-Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung abzudecken, zum Beispiel bei der Einführung neuer Funktionen. Für Ihren erneuten Besuch gilt jeweils die neue Datenschutzerklärung.
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung abzudecken (zum Beispiel bei der Einführung neuer Funktionen). Für Ihren erneuten Besuch gilt entsprechend die dann öffentliche Datenschutzerklärung.
 
 #### Fragen
 
