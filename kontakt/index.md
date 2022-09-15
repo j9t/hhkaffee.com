@@ -28,8 +28,6 @@ Bäckerbreitergang 12
 
 Verantwortlich für journalistisch-redaktionelle Inhalte (aber nicht für verlinkte Websites) gemäß §&nbsp;55 II RStV: Jens Oliver Meiert. Alle Angaben ohne Gewähr.
 
-Gemäß Art.&nbsp;14 Abs.&nbsp;1 ODRVO stellt die Europäische Kommission eine [Plattform zur Online-Streitbeilegung](https://ec.europa.eu/consumers/odr/) bereit.
-
 ### Urheberrecht
 
 Alle Rechte vorbehalten.
@@ -128,3 +126,5 @@ Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets de
 #### Fragen
 
 Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person: Jens Oliver Meiert (Kontaktdaten obenstehend).
+
+Gemäß Art.&nbsp;14 Abs.&nbsp;1 ODRVO stellt die Europäische Kommission eine [Plattform zur Online-Streitbeilegung](https://ec.europa.eu/consumers/odr/) bereit.
