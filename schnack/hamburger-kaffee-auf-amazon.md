@@ -1,6 +1,6 @@
 ---
 title: Hamburger Kaffee auf Amazon
-date: 2017-12-10 
+date: 2017-12-10
 ---
 
 Na klar, jeder kann auf Amazon nach Kaffee suchen. Und nach Kaffee aus Hamburg. Wir haben das nun mal eben so testweise gemacht, um zu schauen, [wer denn so alles auf Amazon verkauft](https://www.amazon.de/gp/search?ie=UTF8&tag=hhk-21&linkCode=ur2&linkId=d4718e33e6e5e2185588202b1156487d&camp=1638&creative=6742&index=grocery&keywords=kaffee%20hamburg).

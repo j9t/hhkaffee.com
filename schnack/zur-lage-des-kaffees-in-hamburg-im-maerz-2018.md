@@ -1,7 +1,7 @@
 ---
 title: Zur Lage des Kaffees in Hamburg im März 2018
 date: 2018-03-05
-vg_wort: db8907f2924d4cb195500b244542acb5 
+vg_wort: db8907f2924d4cb195500b244542acb5
 ---
 
 Das [Barista-Magazin](https://www.facebook.com/baristamagazin/) hat in seiner aktuellen Ausgabe gleich drei Hamburger Röster [präsentiert](https://www.facebook.com/baristamagazin/posts/1189177494546188): [elbgold](/cafes/elbgold/), [Public](/cafes/public-coffee-roasters/) und [Tōrnqvist](/cafes/tornqvist/). Das ist ziemlich cool 👌

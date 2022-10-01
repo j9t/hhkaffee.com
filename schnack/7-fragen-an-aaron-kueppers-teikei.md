@@ -21,7 +21,7 @@ Aaron: Wir verwenden grundsätzlich nur Specialty Coffees, ab 80 (sehr gut), im 
 
 Jens: Was ist für dich ein guter Kaffee?
 
-Aaron: Grundsätzlich ist das für mich eine Zubereitungs- und dann eine Geschmacksfrage, aber guter Kaffee fängt bei der Pflanze an. Wenn man sich die Bedingungen anschaut, braucht man hier sicherlich keine Monokultur. Wir setzen deshalb auf Permakultur und pflanzen unseren Kaffee direkt im Regenwald. Ich halte guten Kaffee auch erst dann für gut, wenn er ethisch vertretbar ist. Das gilt für mich im Großen und Ganzen aber für jedes Produkt. 
+Aaron: Grundsätzlich ist das für mich eine Zubereitungs- und dann eine Geschmacksfrage, aber guter Kaffee fängt bei der Pflanze an. Wenn man sich die Bedingungen anschaut, braucht man hier sicherlich keine Monokultur. Wir setzen deshalb auf Permakultur und pflanzen unseren Kaffee direkt im Regenwald. Ich halte guten Kaffee auch erst dann für gut, wenn er ethisch vertretbar ist. Das gilt für mich im Großen und Ganzen aber für jedes Produkt.
 
 Arndt Steinacker [stößt kurz dazu]: Für mich macht guten Kaffee das Gesamtpaket aus, das heißt, vom Rohstoff bis zur fertigen Tasse. Qualität geht von A bis Z, vom Bauern vor Ort bis hin zum Barista. Guter Kaffee ist keine Ressourcenverschwendung, sondern Respekt; und für mich ist hier auch das Wissen vorausgesetzt, wie man einen guten Kaffee auch servieren kann.
 

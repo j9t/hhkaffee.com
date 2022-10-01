@@ -28,7 +28,7 @@ Jens: Was ist deine Ansicht zur Kaffeekultur in Hamburg?
 Timo: Wie gesagt, es sind gerade schwere und anstrengende Zeiten für die Kaffeekultur. Vor noch einem Jahr hätte ich geantwortet, dass die Kaffeekultur mit ihren Locations und Cafés einen Aufschwung erlebt. Hamburg ist ja bekanntlich ein Handelszentrum für Kaffee und zog mit seinem Ruf immer mehr gute Kaffee-Locations an. Ich glaube, dass guter Röstkaffee einen großen Aufschwung durchmacht, und das nicht nur in Hamburg.
 
 Was ich schon immer sehr an Hamburgs Kaffeeszene geschätzt habe, ist dass es hier eine große Kaffeegemeinschaft gibt. Gefühlt kennt jeder jeden und eigentlich hilft jeder jedem. Wenn man danach schaut, findet man hier in Hamburg eine Szene vor, die untereinander gut vernetzt ist und die mir manchmal eine Art von Zuhausegefühl gibt. Ich hoffe, dass dieses Gefühl noch länger anhält.
- 
+
 Jens: Du bist seit Anfang des Jahres bei [elbgold](/cafes/elbgold/) – was ist für dich das Besondere am elbgold?
 
 Timo: Als erstes möchte ich die Leidenschaft am und die Freude über Kaffee, die im ganzen Unternehmen elbgold herrscht, hervorheben, und die ich von Anfang an als etwas Besonderes empfand. Darum fühle ich mich dort verstanden. Die Inhaber sind voller Leidenschaft und haben mich sofort in ihren Bann gezogen. Dazu gibt es bei elbgold dieses starke Team, das einen großartigen Job macht. elbgold tut Gutes, und darum bin ich dort.

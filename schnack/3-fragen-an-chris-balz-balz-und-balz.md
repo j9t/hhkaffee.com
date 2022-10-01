@@ -19,6 +19,6 @@ Chris: Kompromisslosigkeit, und Liebe.
 
 Jens: Was wissen die wenigsten über Balz und Balz?
 
-Chris: Dass _ich_ der wesentlich jüngere von uns beiden [Kathrin und Chris Balz, Anm. d. Red.] bin. 😊 Dass wir nicht, wie viele denken, ein verliebtes oder gar verheiratetes Paar sind. Und auch, dass meine Schwester nicht die halbnackte junge Dame ist, die als Großformat im Café aushängt. 
+Chris: Dass _ich_ der wesentlich jüngere von uns beiden [Kathrin und Chris Balz, Anm. d. Red.] bin. 😊 Dass wir nicht, wie viele denken, ein verliebtes oder gar verheiratetes Paar sind. Und auch, dass meine Schwester nicht die halbnackte junge Dame ist, die als Großformat im Café aushängt.
 
 Jens: Vielen Dank …!

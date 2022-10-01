@@ -76,7 +76,7 @@ Der Quelltext und der ausgegebene Code sind hochwertig (ich komme aus der Webent
 | Performance | [99/100 PageSpeed-Score](https://pagespeed.web.dev/report?url=https%3A%2F%2Fhhkaffee.com%2F)<br>[0,421 s Speed Index](https://www.webpagetest.org/result/211103_BiDc40_94451b092d67a58a9e7c1d732a44a95f/) (Frankfurt) |
 | Validität | [0 Fehler im HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhhkaffee.com%2F)<br>[0 Fehler im CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fhhkaffee.com%2F&profile=css3svg&usermedium=all&vextwarning=true) |
 
-Etwaige Mängel, wie z.B. in der technischen [Analyse der Zugänglichkeit](https://wave.webaim.org/report#/https%3A%2F%2Fhhkaffee.com%2F), sind auf Code von Dritten zurückzuführen (wie Google Maps). 
+Etwaige Mängel, wie z.B. in der technischen [Analyse der Zugänglichkeit](https://wave.webaim.org/report#/https%3A%2F%2Fhhkaffee.com%2F), sind auf Code von Dritten zurückzuführen (wie Google Maps).
 
 (Für weitere Analysen und Daten kannst du [HH Kaffee auf UITest.com](https://uitest.com/check/results/?url=https://hhkaffee.com/) näher untersuchen.)
 
@@ -99,7 +99,7 @@ Nicht zum Verkauf gehören:
 
 * fortgeführtes Hosting und Übernahme der Kosten für Hosting
 * fortgesetzter Einsatz von Tools und Lizenzen (Google Maps, Depfu, u.ä.)
-* technische Arbeiten und Wartung, die über die Übergabe hinausgehen 
+* technische Arbeiten und Wartung, die über die Übergabe hinausgehen
 * Rechte an Namen, Logos und Fotos der auf HH Kaffee aufgeführten Cafés und Röstereien (ist ggf. direkt mit diesen abzustimmen)
 * Rechte an persönlichen Daten (insbesondere meinen)
 * Rechte an diesem Dokument (sofern nicht von mir erledigt, nach Übernahme zu löschen)

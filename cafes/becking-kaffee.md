@@ -7,7 +7,7 @@ tags:
 
 logo: /media/venues/becking-kaffee.jpg
 email: info@becking-kaffee.de
-website: https://www.becking-kaffee.de/ 
+website: https://www.becking-kaffee.de/
 twitter: https://twitter.com/beckingkaffee
 facebook: https://www.facebook.com/beckingkaffee/
 

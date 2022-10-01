@@ -1,7 +1,7 @@
 ---
 title: Zur Lage des Kaffees in Hamburg im Februar 2018
 date: 2018-02-12
-vg_wort: 7815e5293deb49df8f747a7775f60fac 
+vg_wort: 7815e5293deb49df8f747a7775f60fac
 ---
 
 Nicht so viel zu berichten.

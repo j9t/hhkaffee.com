@@ -5,7 +5,7 @@ hidden: true
 
 logo: /media/logo-alt.png
 email: info@hhkaffee.com
-website: https://hhkaffee.com/ 
+website: https://hhkaffee.com/
 twitter: https://twitter.com/hhkaffeecom
 facebook: https://www.facebook.com/hhkaffeecom
 

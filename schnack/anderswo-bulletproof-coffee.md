@@ -14,7 +14,7 @@ Was ist das überhaupt, was muss man wissen? [Bulletproof:](https://www.bulletpr
 
 [Coffee Circle](https://www.coffeecircle.com/de/b/bulletproof-coffee-butterkaffee) hat etwas Kontext:
 
-> Buttertee wird in Tibet schon seit Jahrhunderten getrunken. Das Getränk wird mit Teeblättern, Butter und Salz zubereitet. In den kalten Bergregionen ist es sowohl für Einwohner als auch Bergsteiger ein wärmender Energie-Spender. Dave Asprey, Erfinder des sogenannten »Bulletproof Coffee«, lernte den Buttertee dort beim Wandern kennen. 
+> Buttertee wird in Tibet schon seit Jahrhunderten getrunken. Das Getränk wird mit Teeblättern, Butter und Salz zubereitet. In den kalten Bergregionen ist es sowohl für Einwohner als auch Bergsteiger ein wärmender Energie-Spender. Dave Asprey, Erfinder des sogenannten »Bulletproof Coffee«, lernte den Buttertee dort beim Wandern kennen.
 
 Wie macht man so einen Bulletproof Coffee? Das beschreibt [Happy Coffee](https://de.happycoffee.org/blogs/kaffeespezialitaeten/bulletproof-coffee):
 
