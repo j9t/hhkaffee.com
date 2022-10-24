@@ -12,13 +12,13 @@
   }
 
   var venues = [
-  {% set entries = collections.locations -%}
-  {%- for entry in entries | sortByTitle -%}
-    {%- set locations = entry.data.locations -%}
-    {%- for location in locations | sort -%}
+  {% set entries = collections.locations %}
+  {% for entry in entries | sortByTitle %}
+    {% set locations = entry.data.locations %}
+    {% for location in locations | sort %}
     ['{{ entry.data.title }}', {{ location.coordinates }}, '{{ entry.url }}'],
-    {% endfor -%}
-  {%- endfor -%}
+    {% endfor %}
+  {% endfor %}
   ];
 
   function setMarkers(map) {

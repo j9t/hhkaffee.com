@@ -9,43 +9,43 @@ title: Kaffee in und aus Hamburg
 	<section>
 		<h2>Letzte Neuzugänge</h2>
 		{% set entries = collections.venues %}
-		{%- for entry in entries | reverse -%}
-		{%- if loop.index0 < 1 -%}
+		{% for entry in entries | reverse %}
+		{% if loop.index0 < 1 %}
 		<a href={{ entry.url | url }}><img src={{ entry.data.logo }} alt="{{ entry.data.title }}"></a>
-		{%- endif -%}
+		{% endif %}
 		{% endfor %}
 		<ul>
 			{% set entries = collections.venues %}
-			{%- for entry in entries | reverse -%}
-			{%- if loop.index0 < 5 -%}
+			{% for entry in entries | reverse %}
+			{% if loop.index0 < 5 %}
 			<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a>
-			{% endif -%}
-			{%- endfor -%}
+			{% endif %}
+			{% endfor %}
 		</ul>
 	</section>
 	<section>
 		<h2>Favoriten</h2>
 		{% set entries = collections.favorites %}
-		{%- for entry in entries | reverse -%}
-		{%- if loop.index0 < 1 -%}
+		{% for entry in entries | reverse %}
+		{% if loop.index0 < 1 %}
 		<a href={{ entry.url | url }}><img src={{ entry.data.logo }} alt="{{ entry.data.title }}"></a>
-		{%- endif -%}
+		{% endif %}
 		{% endfor %}
 		<ul>
 			{% set entries = collections.favorites %}
-			{%- for entry in entries | sortByTitle -%}
+			{% for entry in entries | sortByTitle %}
 			<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a>
-			{% endfor -%}
+			{% endfor %}
 		</ul>
 	</section>
 	<section>
 		<h2>Neuigkeiten und Meinungen</h2>
 		<ul>
-			{%- set entries = collections.posts | reverse -%}
-			{%- for entry in entries -%}
+			{% set entries = collections.posts | reverse %}
+			{% for entry in entries %}
 			{% if loop.index0 < 3 %}
 			<li><a href={{ entry.url | url }}>{{ entry.data.title }}</a> · {{ entry.templateContent | striptags | truncate(120, false, ' …') }}
-			{%- endif -%}
+			{% endif %}
 			{% endfor %}
 		</ul>
 		<p>⚐ <a href=/schnack/>Aller Schnack</a>
