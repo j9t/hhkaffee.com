@@ -32,7 +32,6 @@ date: Last Modified
 		{% if logo %}{% if website %}<a href={{ website }}>{% endif %}<img src="{{ logo }}" alt="Logo von {{ title }}." class=logo>{% if website %}</a>{% endif %}{% endif %}
 		<article>
 			<h1>{{ title }}</h1>
-			<!-- Beware of code entropy -->
 			{{ content | safe }}
 		</article>
 		<div id=social>
