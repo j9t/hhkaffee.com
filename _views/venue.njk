@@ -6,12 +6,12 @@ layout: base.njk
 {% endif %}
 {{ content | safe }}
 <p>
-	{% if tags and tags.includes('roaster') %}Rösterei · {% endif %}
-	{% if coffee %}Filterkaffee ab {{ coffee }} € · {% endif %}
-	{% if espresso %}Espresso {{ espresso }} € · {% endif %}
+	{%- if tags and tags.includes('roaster') %}Rösterei · {% endif -%}
+	{%- if coffee %}Filterkaffee ab {{ coffee }} € · {% endif -%}
+	{%- if espresso %}Espresso {{ espresso }} € · {% endif -%}
 	Internet: {{ internet }}
-	{% if tags and tags.includes('favorite') %} · HH-Kaffee-Favorit <span>★</span>{% endif %}
-	{% if tags and tags.includes('candidate') %} · HH-Kaffee-Kandidat <span>�</span>{% endif %}
+	{%- if tags and tags.includes('favorite') %} · HH-Kaffee-Favorit <span>★</span>{% endif -%}
+	{%- if tags and tags.includes('candidate') %} · HH-Kaffee-Kandidat <span>�</span>{% endif -%}
 {# @@ Promote feature #}
 {% if promo %}
 	<div id=promo>{{ promo | safe }}</div>
@@ -32,12 +32,12 @@ layout: base.njk
 		{% for location in locations %}
 		<li>
 			<p><a href=https://www.google.de/maps/place/{{ location.address | replace('<br>', ', ') | replace(' ', '%20') }}>{{ location.address | safe }}</a>
-			{% if location.phone %}
+			{%- if location.phone %}
 			<br><a href=tel:+49-40-{{ location.phone | safe }}>040-{{ location.phone | safe}}</a>
-			{% endif %}
+			{%- endif -%}
 			{% if location.hours %}
 			<p>{{ location.hours | safe }}
-			{% endif %}
+			{%- endif -%}
 		{% endfor %}
 	</ul>
 {% endif %}
@@ -56,9 +56,9 @@ layout: base.njk
   }
 
   var venues = [
-  {% for location in locations %}
+  {%- for location in locations %}
     ['{{ title }}', {{ location.coordinates }}, '{{ entry.url }}'],
-  {% endfor %}
+  {%- endfor %}
   ];
 
   function setMarkers(map) {
@@ -77,10 +77,10 @@ layout: base.njk
 {% set nextVenue = collections.venues | sortByTitle | getNextCollectionItem(page) %}
 {% set previousVenue = collections.venues | sortByTitle | getPreviousCollectionItem(page) %}
 <ul class=meta>
-	{% if previousVenue %}
+	{%- if previousVenue %}
 	<li>← <a href={{ previousVenue.url | url }}>{{ previousVenue.data.title }}</a>
-	{% endif %}
+	{%- endif -%}
 	{% if nextVenue %}
 	<li><a href={{ nextVenue.url | url }}>{{ nextVenue.data.title }}</a> →
-	{% endif %}
+	{%- endif %}
 </ul>

@@ -23,15 +23,16 @@ date: Last Modified
 			{% if page.url != '/' %}<a href={{ '/' | url }}>{% endif %}<img src=/media/logo.png alt="{{ metadata.title }}">{% if page.url != '/' %}</a>{% endif %}
 			<nav>
 				<ul>
-					{% for entry in collections.all | eleventyNavigation %}
+					{%- for entry in collections.all | eleventyNavigation %}
 					<li>{% if entry.url != page.url %}<a href={{ entry.url | url }}>{% endif %}{{ entry.title | safe }}{% if entry.url != page.url %}</a>{% endif %}
-					{% endfor %}
+					{%- endfor %}
 				</ul>
 			</nav>
 		</header>
 		{% if logo %}{% if website %}<a href={{ website }}>{% endif %}<img src="{{ logo }}" alt="Logo von {{ title }}." class=logo>{% if website %}</a>{% endif %}{% endif %}
 		<article>
 			<h1>{{ title }}</h1>
+			<!-- Beware of code entropy -->
 			{{ content | safe }}
 		</article>
 		<div id=social>
@@ -39,6 +40,6 @@ date: Last Modified
 		</div>
 		<footer>
 			{{ metadata.description }}
-			{% if page.url == '/' %}<br><span>Letzte Aktualisierung: {% today %}</span>{% endif %}
+			{% if page.url == '/' %}<br><span>Letzte Aktualisierung: {% today %}</span>{% endif -%}
 			{% if vg_wort %}<img src=https://vg07.met.vgwort.de/na/{{ vg_wort }} alt="" id=fd-vg-wort>{% endif %}
 		</footer>
