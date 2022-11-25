@@ -47,12 +47,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("filterTagList", tags => {
     // should match the list in tag.njk
     return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
-  })
+  });
 
   // Sort by title, https://github.com/11ty/eleventy/issues/898#issuecomment-662290629
   eleventyConfig.addFilter("sortByTitle", values => {
     return values.slice().sort((a, b) => a.data.title.localeCompare(b.data.title))
-  })
+  });
 
   // Create an array of all tags
   eleventyConfig.addCollection("tagList", function(collection) {
