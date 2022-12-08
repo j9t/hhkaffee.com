@@ -65,20 +65,14 @@ module.exports = function(eleventyConfig) {
   });
 
   // Create posts (“Schnack”) collection (folder-based)
-  eleventyConfig.addCollection("posts",
-    collection => collection
-      .getAllSorted()
-      .filter(item => item.url
-        && ! item.inputPath.includes("index.njk")
-        && item.inputPath.startsWith("./schnack/")))
+  eleventyConfig.addCollection("posts", function(collectionApi) {
+    return collectionApi.getAllSorted().filter(item => item.url && ! item.inputPath.includes("index.njk") && item.inputPath.startsWith("./schnack/"));
+  });
 
   // Create venues collection (folder-based)
-  eleventyConfig.addCollection("venues",
-    collection => collection
-      .getAllSorted()
-      .filter(item => item.url
-        && ! item.inputPath.includes("index.njk")
-        && item.inputPath.startsWith("./cafes/")))
+  eleventyConfig.addCollection("venues", function(collectionApi) {
+    return collectionApi.getAllSorted().filter(item => item.url && ! item.inputPath.includes("index.njk") && item.inputPath.startsWith("./cafes/"));
+  });
 
   // Create favorites collection (tag-based)
   eleventyConfig.addCollection("favorites", function(collectionApi) {
