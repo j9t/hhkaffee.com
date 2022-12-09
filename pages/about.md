@@ -3,6 +3,7 @@ eleventyNavigation:
   key: Über uns
   order: 3
 layout: index.njk
+permalink: /ueber-uns/
 title: Über uns
 vg_wort: 7141ec40d33b4fa7ae80be0fa7a70b05
 

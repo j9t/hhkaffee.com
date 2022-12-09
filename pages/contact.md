@@ -3,6 +3,7 @@ eleventyNavigation:
   key: Kontakt
   order: 4
 layout: index.njk
+permalink: /kontakt/
 title: Kontakt und Impressum
 
 logo: /media/logo-alt.png
