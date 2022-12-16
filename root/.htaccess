@@ -43,12 +43,10 @@ Header always set X-Content-Type-Options nosniff
 </FilesMatch>
 
 # Course Calibration
-<IfModule mod_rewrite.c>
-	RewriteEngine On
-	RewriteCond %{HTTPS} !=on [OR]
-	RewriteCond %{HTTP_HOST} !^hhkaffee\.com$ [NC]
-	RewriteRule ^ https://hhkaffee.com%{REQUEST_URI} [R=301,L]
-</IfModule>
+RewriteEngine On
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} !^hhkaffee\.com$ [NC]
+RewriteRule ^ https://hhkaffee.com%{REQUEST_URI} [R=301,L]
 
 # Course Alterations: P1
 Redirect 301 /apple-touch-icon-precomposed.png https://hhkaffee.com/apple-touch-icon.png
