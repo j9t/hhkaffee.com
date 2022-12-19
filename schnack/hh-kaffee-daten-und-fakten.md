@@ -78,7 +78,7 @@ Der Quelltext und der ausgegebene Code sind hochwertig (ich komme aus der Webent
 
 Etwaige Mängel, wie z.B. in der technischen [Analyse der Zugänglichkeit](https://wave.webaim.org/report#/https%3A%2F%2Fhhkaffee.com%2F), sind auf Code von Dritten zurückzuführen (wie Google Maps).
 
-(Für weitere Analysen und Daten kannst du [HH Kaffee auf UITest.com](https://uitest.com/check/results/?url=https://hhkaffee.com/) näher untersuchen.)
+(Für weitere Analysen und Daten kannst du [HH Kaffee auf Frontend Dogma](https://frontenddogma.com/tools/check/results/?url=https://hhkaffee.com/) näher untersuchen.)
 
 ## Paket und Optionen
 
