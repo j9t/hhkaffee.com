@@ -20,6 +20,7 @@ hidden: true
 		<item>
 			<title>{{ post.data.title }}</title>
 			<link>{{ absolutePostUrl }}</link>
+			<guid isPermaLink="true">{{ absolutePostUrl }}</guid>
 			<description><![CDATA[{% if post.templateContent %}{{ post.templateContent | truncate(1000, false, ' …') | htmlToAbsoluteUrls(absolutePostUrl) | safe }}{% else %}<p>{{ metadata.description }}</p>{% endif %}]]></description>
 		</item>
 		{%- endif -%}
