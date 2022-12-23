@@ -14,9 +14,9 @@ Eine andere Art bietet [#PayNowEatLater](https://www.paynoweatlater.de/): Dort k
 
 Wer, der auf HH Kaffee vertreten ist, kann denn bereits über #PayNowEatLater unterstützt werden? Die folgenden:
 
-* [Balz und Balz](https://www.paynoweatlater.de/at/balz-und-balz-hamburg/)
+* [Balz und Balz](https://web.archive.org/web/20200413150718/https://www.paynoweatlater.de/at/balz-und-balz-hamburg/)
 * [blackline](https://www.paynoweatlater.de/at/blackline-eimsbuettel-hamburg/)
-* [Hunt Coffee Roasters](https://www.paynoweatlater.de/at/hunt-coffee-roasters-hamburg/)
+* [Hunt Coffee Roasters](https://web.archive.org/web/20200413150020/https://www.paynoweatlater.de/at/hunt-coffee-roasters-hamburg/)
 * [Marshall Street Coffee](https://www.paynoweatlater.de/at/marshall-street-coffee-hamburg/) (bald auch offiziell auf HH Kaffee)
 * [Nord Coast Coffee Roastery](https://web.archive.org/web/20200413150502/https://www.paynoweatlater.de/at/nord-coast-coffee-roastery/)
 * [Playground Coffee](https://www.paynoweatlater.de/at/playground-coffee-hamburg/)
