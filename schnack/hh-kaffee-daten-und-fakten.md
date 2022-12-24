@@ -114,7 +114,7 @@ Ich übergebe alles nach bestem Wissen und Gewissen und schließe nach vollzogen
 
 ## Interessiert?
 
-Sende mir [eine E-Mail](/kontakt/) mit Rückfragen bzw. einem Gebot. Der Mindestpreis für HH Kaffee beträgt 2.000 Euro.
+Sende mir [eine E-Mail](/kontakt/) mit Rückfragen bzw. einem Gebot.
 
 Vielen Dank für das Interesse – und auf eine gute und gesunde Kaffeekultur in Hamburg! ☕️
 
