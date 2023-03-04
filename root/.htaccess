@@ -1,7 +1,7 @@
 # Startup Routine
 AddCharset utf-8 .css .html .js .php .txt .xml
 AddDefaultCharset utf-8
-AddOutputFilterByType DEFLATE application/javascript application/pdf application/rss+xml application/xml font/eot font/otf font/ttf image/svg+xml image/vnd.microsoft.icon image/x-icon text/css text/html text/javascript text/plain text/xml
+AddOutputFilterByType BROTLI_COMPRESS application/javascript application/pdf application/rss+xml application/xml font/eot font/otf font/ttf image/svg+xml image/vnd.microsoft.icon image/x-icon text/css text/html text/javascript text/plain text/xml
 AddType application/rss+xml .xml
 AddType font/eot .eot
 AddType font/otf .otf
