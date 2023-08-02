@@ -41,7 +41,7 @@ Verantwortlich im Sinne des Datenschutzes, insbesondere der EU-Datenschutzgrundv
 
 Diese Datenschutzerklärung gebraucht eine den Gepflogenheiten für Datenschutzerklärungen entsprechende formelle Sprache. Ihr seid auf unserer Website weiterhin sehr willkommen.
 
-Als Betreiber dieser Website wollen wir grundsätzlich von niemand irgendwelche Daten, und erfassen entsprechend möglichst keine. Wir behandeln alle zu verarbeitenden Daten verantwortungsbewusst.
+Als Betreiber dieser Website wollen wir grundsätzlich keine Daten, von niemand. Diese Erklärung ist weitestgehend aus technischen Gründen notwendig (sowie aus rechtlichen, die wir begrüßen).
 
 #### Ihre Rechte
 
