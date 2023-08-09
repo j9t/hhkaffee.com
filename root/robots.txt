@@ -2,6 +2,7 @@ User-agent: *
 Disallow: /cafes/demo/
 Disallow: /schnack/hh-kaffee-daten-und-fakten/
 
+User-agent: CCBot
 User-agent: ChatGPT-User
 User-agent: GPTBot
 Disallow: /
