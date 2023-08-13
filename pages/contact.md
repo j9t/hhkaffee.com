@@ -2,7 +2,7 @@
 eleventyNavigation:
   key: Kontakt
   order: 4
-layout: index.njk
+layout: default.njk
 permalink: /kontakt/
 title: Kontakt und Impressum
 
