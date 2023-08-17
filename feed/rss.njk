@@ -12,7 +12,7 @@ permalink: /feed/index.xml
 		<image>
 			<title>{{ metadata.title }}</title>
 			<link>{{ metadata.url }}</link>
-			<url>{{ metadata.url_truncated }}/media/logo-social.png</url>
+			<url>{{ metadata.url_truncated }}/media/social.png</url>
 		</image>
 		{%- for post in collections.all | reverse -%}
 		{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
