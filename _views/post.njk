@@ -6,11 +6,9 @@ layout: default.njk
 {{ content | safe }}
 {% set nextPost = collections.posts | getNextCollectionItem(page) %}
 {% set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{% if previousPost or nextPost %}
 <ul class=meta>
-	{%- if previousPost %}
-	<li>← <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a>
-	{%- endif -%}
-	{% if nextPost %}
-	<li><a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a> →
-	{%- endif %}
+	{% if previousPost %}<li>← <a href={{ previousPost.url | url }}>{{ previousPost.data.title }}</a>{% endif %}
+	{% if nextPost %}<li><a href={{ nextPost.url | url }}>{{ nextPost.data.title }}</a> →{% endif %}
 </ul>
+{% endif %}

@@ -76,11 +76,9 @@ layout: default.njk
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDgBcUrt1NB0yfwUE715cEdCrtDvzICoz8&callback=initMap&language=de" defer></script>
 {% set nextVenue = collections.venues | sortByTitle | getNextCollectionItem(page) %}
 {% set previousVenue = collections.venues | sortByTitle | getPreviousCollectionItem(page) %}
+{% if previousVenue or nextVenue %}
 <ul class=meta>
-	{%- if previousVenue %}
-	<li>← <a href={{ previousVenue.url | url }}>{{ previousVenue.data.title }}</a>
-	{%- endif -%}
-	{% if nextVenue %}
-	<li><a href={{ nextVenue.url | url }}>{{ nextVenue.data.title }}</a> →
-	{%- endif %}
+	{% if previousVenue %}<li>← <a href={{ previousVenue.url | url }}>{{ previousVenue.data.title }}</a>{% endif %}
+	{% if nextVenue %}<li><a href={{ nextVenue.url | url }}>{{ nextVenue.data.title }}</a> →{% endif %}
 </ul>
+{% endif %}
