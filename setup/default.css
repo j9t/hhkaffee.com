@@ -92,7 +92,8 @@ nav li {
 nav li a:focus,
 nav li a:hover,
 nav li a:active,
-a {
+a,
+ins {
 	text-decoration: none;
 }
 
