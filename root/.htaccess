@@ -105,6 +105,7 @@ RedirectMatch 301 /wissen/(.*) https://hhkaffee.com/schnack/$1
 
 # Course Alterations: P3
 Redirect 301 /cafes/nord-coast/ https://hhkaffee.com/cafes/nord-coast-coffee-roastery/
+Redirect 301 /media/logo-social.png https://hhkaffee.com/media/social.png
 Redirect 301 /roestereien https://hhkaffee.com/cafes/
 
 # Emergency
