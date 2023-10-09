@@ -21,9 +21,9 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@j9t/imagemin-guard": "^3.2.16",
+    "@j9t/imagemin-guard": "^3.2.17",
     "husky": "^8.0.3",
     "luxon": "^3.4.3",
-    "markdown-it": "^13.0.1"
+    "markdown-it": "^13.0.2"
   }
 }
