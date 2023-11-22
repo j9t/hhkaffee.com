@@ -41,7 +41,7 @@ Verantwortlich im Sinne des Datenschutzes, insbesondere der EU-Datenschutzgrundv
 
 Diese Datenschutzerklärung gebraucht eine den Gepflogenheiten für Datenschutzerklärungen entsprechende formelle Sprache. Ihr seid auf unserer Website weiterhin sehr willkommen.
 
-Als Betreiber dieser Website wollen wir grundsätzlich keine Daten, von niemand. Diese Erklärung ist weitestgehend aus technischen Gründen notwendig (sowie aus rechtlichen, die wir begrüßen).
+Als Betreiber dieser Website wollen wir grundsätzlich keine Daten. Von rechtlichen Anforderungen abgesehen, gibt es diese Erklärung vor allem aus technischen Gründen, wie etwa den Server-Logs, die der Hoster dieser Website speichert bzw. speichern muss.
 
 #### Ihre Rechte
 
@@ -77,7 +77,7 @@ Zum Schutz Ihrer Daten werden diese über [HTTPS](https://de.wikipedia.org/wiki/
 
 #### Server-Logs
 
-Der Hoster dieser Website ([ALL-INKL.COM](https://all-inkl.com/PA68572347FA65)) erhebt und speichert Informationen, die Ihr Browser automatisch übermittelt, in sogenannten Server-Log-Dateien. Diese umfassen:
+Der Hoster dieser Website, [ALL-INKL.COM](https://all-inkl.com/PA68572347FA65), erhebt und speichert Informationen, die Ihr Browser automatisch übermittelt, in sogenannten Server-Log-Dateien. Diese umfassen:
 
 * Hostname
 * IP-Adresse
