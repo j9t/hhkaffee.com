@@ -13,10 +13,7 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
-  // Alias `layout: post` to `layout: post.njk`
-  eleventyConfig.addLayoutAlias("post", "post.njk");
-
-  // Today’s date
+  // Set today’s date
   eleventyConfig.addShortcode("today", function() {
     return DateTime.now().setLocale("de").toFormat("d. MMMM yyyy");
   });
@@ -24,11 +21,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: "utc+1"}).setLocale("de").toFormat("d. MMMM yyyy");
   });
-
-  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  /* eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: "utc+1"}).toFormat("yyyy-LL-dd");
-  }); */
 
   // Get the first `n` elements of a collection
   eleventyConfig.addFilter("head", (array, n) => {
@@ -97,7 +89,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("setup");
   eleventyConfig.addPassthroughCopy("VERSION");
 
-  // Customize Markdown library and settings:
+  // Customize Markdown library and settings
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true
@@ -169,16 +161,16 @@ module.exports = function(eleventyConfig) {
     // pathPrefix: "/",
     // -----------------------------------------------------------------
 
-    // Pre-process *.md files with: (default: `liquid`)
+    // Pre-process *.md files with… (default: `liquid`)
     markdownTemplateEngine: "njk",
 
-    // Pre-process *.html files with: (default: `liquid`)
+    // Pre-process *.html files with… (default: `liquid`)
     htmlTemplateEngine: "njk",
 
-    // Opt-out of pre-processing global data JSON files: (default: `liquid`)
+    // Opt-out of pre-processing global data JSON files (default: `liquid`)
     dataTemplateEngine: false,
 
-    // These are all optional (defaults are shown):
+    // Define otherwise optional settings
     dir: {
       input: ".",
       includes: "_views",
