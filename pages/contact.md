@@ -41,7 +41,7 @@ Verantwortlich im Sinne des Datenschutzes, insbesondere der EU-Datenschutzgrundv
 
 Diese Datenschutzerklärung gebraucht eine den Gepflogenheiten für Datenschutzerklärungen entsprechende formelle Sprache. Ihr seid auf unserer Website weiterhin sehr willkommen.
 
-Als Betreiber dieser Website wollen wir grundsätzlich keine Daten. Von rechtlichen Anforderungen abgesehen, gibt es diese Erklärung vor allem aus technischen Gründen, wie etwa den Server-Logs, die der Hoster dieser Website speichert bzw. speichern muss.
+Als Betreiber dieser Website wollen wir grundsätzlich keine Daten. Von rechtlichen Anforderungen abgesehen wird diese Erklärung aufgrund von Faktoren, die nicht unter unserer Kontrolle stehen, benötigt, wie etwa den Server-Logs, die der Hoster dieser Website speichert bzw. speichern muss.
 
 #### Ihre Rechte
 
@@ -67,7 +67,7 @@ Wir verarbeiten etwaige personenbezogenen Daten nur zu den in dieser Datenschutz
 * die Verarbeitung zur Erfüllung einer rechtlichen Verpflichtung erforderlich ist,
 * die Verarbeitung zur Wahrung berechtigter Interessen erforderlich ist und kein Grund zur Annahme besteht, dass Sie ein überwiegendes schutzwürdiges Interesse an der Nichtweitergabe Ihrer Daten haben.
 
-#### Löschung oder Sperrung von Daten
+#### Sperrung oder Löschung von Daten
 
 Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir speichern etwaige personenbezogenen Daten daher nur solange, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen Speicherfristen vorsehen. Nach Fortfall des jeweiligen Zweckes bzw. Ablauf dieser Fristen werden die entsprechenden Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
 
@@ -98,7 +98,7 @@ In den uns zugänglichen Server-Statistiken werden IP-Adressen vollständig anon
 
 Wenn Sie uns per E-Mail kontaktieren, werden Ihre Angaben einschließlich der von Ihnen geteilten Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
-Die Verarbeitung der in der E-Mail eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 (a) DSGVO). Sie können diese Einwilligung jederzeit widerrufen; hierzu reicht eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+Die Verarbeitung der in der E-Mail eingegebenen Daten erfolgt ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 (a) DSGVO). Sie können diese Einwilligung jederzeit über eine formlose Mitteilung per E-Mail widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
 Die von Ihnen in Ihrer E-Mail eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt. Zwingende gesetzliche Bestimmungen, insbesondere Aufbewahrungsfristen, bleiben unberührt.
 
@@ -110,7 +110,7 @@ Manche Seiten dieser Website benutzen zur Messung von Textzugriffen Session-Cook
 
 Bei der Zugriffszahlenmessung werden anonyme Messwerte erhoben. Sie verwendet zur Wiedererkennung von Computersystemen entweder einen Session-Cookie oder eine Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Zu keinem Zeitpunkt werden einzelne Nutzer identifiziert; Ihre Identität bleibt immer geschützt. Sie erhalten über das System keine Werbung.
 
-Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, die sogenannte Session-ID. Außerdem enthält ein solcher Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG WORT ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG WORT partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß § 53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter [optout.ioam.de](https://optout.ioam.de/) widersprechen.
+Session-Cookies sind kleine Informationseinheiten, die ein Anbieter im Arbeitsspeicher des Computers des Besuchers speichert. In einem Session-Cookie wird eine zufällig erzeugte eindeutige Identifikationsnummer abgelegt, die sogenannte Session-ID. Außerdem enthält ein solcher Cookie Angaben über seine Herkunft und die Speicherfrist. Session-Cookies können keine anderen Daten speichern. Die VG WORT ermöglicht damit, dass ihre Autoren an den Ausschüttungen der VG WORT partizipieren, die die gesetzliche Vergütung für die Nutzungen urheberrechtlich geschützter Werke gemäß § 53 UrhG sicherstellen. Wenn Sie an der Messung nicht teilnehmen möchten, können Sie ihr [widersprechen](https://optout.ioam.de/).
 
 #### Verschiedenes
 
