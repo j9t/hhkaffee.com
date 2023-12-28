@@ -2,12 +2,4 @@ User-agent: *
 Disallow: /cafes/demo/
 Disallow: /schnack/hh-kaffee-daten-und-fakten/
 
-User-agent: CCBot
-User-agent: ChatGPT-User
-User-agent: FacebookBot
-User-agent: Google-Extended
-User-agent: GPTBot
-User-agent: Omgilibot
-Disallow: /
-
 Sitemap: https://hhkaffee.com/sitemap.xml
