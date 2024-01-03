@@ -105,8 +105,8 @@ module.exports = function(eleventyConfig) {
     encoding: "utf-8",
   });
 
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
-    if (this.inputPath && this.outputPath.endsWith(".html")) {
+  eleventyConfig.addTransform("htmlmin", function(content) {
+    if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
         collapseBooleanAttributes: true,
         collapseWhitespace: true,
