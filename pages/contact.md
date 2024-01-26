@@ -69,11 +69,11 @@ Wir verarbeiten etwaige personenbezogenen Daten nur zu den in dieser Datenschutz
 
 #### Sperrung oder Löschung von Daten
 
-Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir speichern etwaige personenbezogenen Daten daher nur solange, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen Speicherfristen vorsehen. Nach Fortfall des jeweiligen Zweckes bzw. Ablauf dieser Fristen werden die entsprechenden Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
+Wir halten uns an die Grundsätze der Datenvermeidung und Datensparsamkeit. Wir speichern etwaige personenbezogenen Daten daher nur so lang, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen Speicherfristen vorsehen. Nach Fortfall des jeweiligen Zweckes bzw. Ablauf dieser Fristen werden die entsprechenden Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
 
 #### Verschlüsselung
 
-Zum Schutz Ihrer Daten werden diese über [HTTPS](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) übertragen und mittels [TLS](https://de.wikipedia.org/wiki/Transport_Layer_Security) verschlüsselt.
+Zum Schutz Ihrer Daten werden diese mittels [TLS](https://de.wikipedia.org/wiki/Transport_Layer_Security) verschlüsselt und über [HTTPS](https://de.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure) übertragen.
 
 #### Server-Logs
 
