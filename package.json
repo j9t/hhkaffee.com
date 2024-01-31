@@ -15,14 +15,14 @@
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@j9t/imagemin-guard": "^3.2.18",
-    "husky": "^8.0.3",
+    "husky": "^9.0.7",
     "luxon": "^3.4.4",
     "markdown-it": "^14.0.0"
   }
