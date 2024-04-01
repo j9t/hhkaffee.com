@@ -24,6 +24,6 @@
     "@j9t/imagemin-guard": "^3.2.18",
     "husky": "^9.0.11",
     "luxon": "^3.4.4",
-    "markdown-it": "^14.0.0"
+    "markdown-it": "^14.1.0"
   }
 }
