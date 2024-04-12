@@ -19,7 +19,7 @@ HH Kaffee
 c/o [Jens Oliver Meiert](https://meiert.com/)
 Bäckerbreitergang 12
 20355 Hamburg
-[0157-50117717](tel:+49-157-50117717)
+[+1-754-400-0999](tel:+1-754-400-0999)
 
 <h2 id=websites>{{ metadata.title}} online</h2>
 
