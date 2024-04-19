@@ -17,8 +17,9 @@ facebook: https://www.facebook.com/hhkaffeecom
 
 HH Kaffee
 c/o [Jens Oliver Meiert](https://meiert.com/)
-Bäckerbreitergang 12
-20355 Hamburg
+Apartado de correos 3
+36070 Pontevedra
+Spanien
 [+1-754-400-0999](tel:+1-754-400-0999)
 
 <h2 id=websites>{{ metadata.title}} online</h2>
